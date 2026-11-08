@@ -1,0 +1,41 @@
+topic_dir	arm	run_index	eo_pos	status	workdir
+topic_football_miracles	A1	1		selected	output\_research_audit\pilot_v1\topic_football_miracles\A1\run_01
+topic_football_miracles	A2	1	2	selected	output\_research_audit\pilot_v1\topic_football_miracles\A2\run_01
+topic_football_miracles	A3	1	3	selected	output\_research_audit\pilot_v1\topic_football_miracles\A3\run_01
+topic_football_miracles	A4	1	1	selected	output\_research_audit\pilot_v1\topic_football_miracles\A4\run_01
+topic_igtes_interviews	A1	1	1	selected	output\_research_audit\pilot_v1\topic_igtes_interviews\A1\run_01
+topic_igtes_interviews	A2	1	3	selected	output\_research_audit\pilot_v1\topic_igtes_interviews\A2\run_01
+topic_igtes_interviews	A3	1		selected	output\_research_audit\pilot_v1\topic_igtes_interviews\A3\run_01
+topic_igtes_interviews	A4	1	2	selected	output\_research_audit\pilot_v1\topic_igtes_interviews\A4\run_01
+topic_igtes_recap	A1	2	7	selected	output\_research_audit\pilot_v1\topic_igtes_recap\A1\run_02
+topic_igtes_recap	A2	1	2	selected	output\_research_audit\pilot_v1\topic_igtes_recap\A2\run_01
+topic_igtes_recap	A3	1		selected	output\_research_audit\pilot_v1\topic_igtes_recap\A3\run_01
+topic_igtes_recap	A4	1	1	selected	output\_research_audit\pilot_v1\topic_igtes_recap\A4\run_01
+topic_inertia	A1			missing(缺即缺)	
+topic_inertia	A2			missing(缺即缺)	
+topic_inertia	A3	3	8	selected	output\_research_audit\pilot_v1\topic_inertia\A3\run_03
+topic_inertia	A4	2	5	selected	output\_research_audit\pilot_v1\topic_inertia\A4\run_02
+topic_nobel_neutrino	A1	2	5	selected	output\_research_audit\pilot_v1\topic_nobel_neutrino\A1\run_02
+topic_nobel_neutrino	A2	3	10	selected	output\_research_audit\pilot_v1\topic_nobel_neutrino\A2\run_03
+topic_nobel_neutrino	A3	1	1	selected	output\_research_audit\pilot_v1\topic_nobel_neutrino\A3\run_01
+topic_nobel_neutrino	A4	1	3	selected	output\_research_audit\pilot_v1\topic_nobel_neutrino\A4\run_01
+topic_skyscrapers	A1			missing(缺即缺)	
+topic_skyscrapers	A2	1	3	selected	output\_research_audit\pilot_v1\topic_skyscrapers\A2\run_01
+topic_skyscrapers	A3	1	1	selected	output\_research_audit\pilot_v1\topic_skyscrapers\A3\run_01
+topic_skyscrapers	A4	2	4	selected	output\_research_audit\pilot_v1\topic_skyscrapers\A4\run_02
+topic_superproj	A1	1	2	selected	output\_research_audit\pilot_v1\topic_superproj\A1\run_01
+topic_superproj	A2	1	3	selected	output\_research_audit\pilot_v1\topic_superproj\A2\run_01
+topic_superproj	A3	1		selected	output\_research_audit\pilot_v1\topic_superproj\A3\run_01
+topic_superproj	A4	1	1	selected	output\_research_audit\pilot_v1\topic_superproj\A4\run_01
+topic_survivorship	A1	1	2	selected	output\_research_audit\pilot_v1\topic_survivorship\A1\run_01
+topic_survivorship	A2	2	6	selected	output\_research_audit\pilot_v1\topic_survivorship\A2\run_02
+topic_survivorship	A3	1		selected	output\_research_audit\pilot_v1\topic_survivorship\A3\run_01
+topic_survivorship	A4	1	3	selected	output\_research_audit\pilot_v1\topic_survivorship\A4\run_01
+topic_t1kc_interviews	A1	1	3	selected	output\_research_audit\pilot_v1\topic_t1kc_interviews\A1\run_01
+topic_t1kc_interviews	A2	1	1	selected	output\_research_audit\pilot_v1\topic_t1kc_interviews\A2\run_01
+topic_t1kc_interviews	A3	1		selected	output\_research_audit\pilot_v1\topic_t1kc_interviews\A3\run_01
+topic_t1kc_interviews	A4	1	2	selected	output\_research_audit\pilot_v1\topic_t1kc_interviews\A4\run_01
+topic_t1kc_recap	A1	1	2	selected	output\_research_audit\pilot_v1\topic_t1kc_recap\A1\run_01
+topic_t1kc_recap	A2	1	3	selected	output\_research_audit\pilot_v1\topic_t1kc_recap\A2\run_01
+topic_t1kc_recap	A3	1	1	selected	output\_research_audit\pilot_v1\topic_t1kc_recap\A3\run_01
+topic_t1kc_recap	A4	1		selected	output\_research_audit\pilot_v1\topic_t1kc_recap\A4\run_01

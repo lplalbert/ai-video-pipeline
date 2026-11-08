@@ -1,0 +1,480 @@
+{
+  "rule": "每 (题, 臂) 取 execution_order 最靠前的、产物完整的 run；3 run 全不完整则该格缺即缺；选样纯机械不看内容",
+  "created_at": "2026-11-08T23:51:02",
+  "root": "output\\_research_audit\\pilot_v1",
+  "n_topics": 10,
+  "n_cells": 40,
+  "n_selected": 37,
+  "n_missing": 3,
+  "missing_cells": [
+    {
+      "topic_dir": "topic_inertia",
+      "arm": "A1",
+      "reasons": [
+        "run_01:无文稿.json（未成型，只进失败率轴）",
+        "run_02:无文稿.json（未成型，只进失败率轴）",
+        "run_03:无文稿.json（未成型，只进失败率轴）"
+      ]
+    },
+    {
+      "topic_dir": "topic_inertia",
+      "arm": "A2",
+      "reasons": [
+        "run_01:无文稿.json（未成型，只进失败率轴）",
+        "run_02:无文稿.json（未成型，只进失败率轴）",
+        "run_03:无文稿.json（未成型，只进失败率轴）"
+      ]
+    },
+    {
+      "topic_dir": "topic_skyscrapers",
+      "arm": "A1",
+      "reasons": [
+        "run_01:无文稿.json（未成型，只进失败率轴）",
+        "run_02:load_artifacts 失败：[Errno 2] No such file or directory: 'output\\\\_research_audit\\\\pilot_v1\\\\topic_skyscrapers\\\\A1\\\\run_02\\\\投稿包.json'",
+        "run_03:无文稿.json（未成型，只进失败率轴）"
+      ]
+    }
+  ],
+  "seed_sha256": {
+    "topic_football_miracles": "1e076839b057f562156736e237c0ca0c357bb48a294345c34e4bda71ea79971d",
+    "topic_igtes_interviews": "b72738f4cf5984315f07482a99cdb79cc22f0ff568e9cd1dedf9d3a8ed0c4d89",
+    "topic_igtes_recap": "2be4dc0dbaab136e7873c8e0e14bbcbf15185b2aab93ba457a897ae56f85d67f",
+    "topic_inertia": "072a04ef88f82177bc910f266a810a5e9b3c17f7c747f008a63404e11d6e8862",
+    "topic_nobel_neutrino": "c076ca36f9d33c2db53bfdb4678b8561fb88e93aa8d9b01b9501f673bbac2d3f",
+    "topic_skyscrapers": "6b08c86b1955877be2dde99f375177da9c30c41b085be3d8324f16f9c46dea8d",
+    "topic_superproj": "07fbd66eb74465664ad466b1be17c8c60ad3f85efdc49d738a76b3028787d3a8",
+    "topic_survivorship": "3c78ad6817e9fe0de6f23730d36f9aec026c607f3ecabc9ed2942879bd95fa1b",
+    "topic_t1kc_interviews": "33ff1f22d7564204c9e5a5456ee21b2d06ef2f08bd17705d98fc44e168ce9a3f",
+    "topic_t1kc_recap": "586c37f0222338637a48b6a22fc5411b321929f053e1b8eee70a66015dc9efa4"
+  },
+  "rows": [
+    {
+      "topic_dir": "topic_football_miracles",
+      "topic_title": "足球史三大奇迹：伊斯坦布尔、诺坎普与希腊神话",
+      "arm": "A1",
+      "run_index": 1,
+      "workdir": "output\\_research_audit\\pilot_v1\\topic_football_miracles\\A1\\run_01",
+      "eo_pos": 0,
+      "status": "selected",
+      "rejected": [
+        "run_02:load_artifacts 失败：[Errno 2] No such file or directory: 'output\\\\_research_audit\\\\pilot_v1\\\\topic_football_miracles\\\\A1\\\\run_02\\\\投稿包.json'",
+        "run_03:load_artifacts 失败：[Errno 2] No such file or directory: 'output\\\\_research_audit\\\\pilot_v1\\\\topic_football_miracles\\\\A1\\\\run_03\\\\投稿包.json'"
+      ]
+    },
+    {
+      "topic_dir": "topic_football_miracles",
+      "topic_title": "足球史三大奇迹：伊斯坦布尔、诺坎普与希腊神话",
+      "arm": "A2",
+      "run_index": 1,
+      "workdir": "output\\_research_audit\\pilot_v1\\topic_football_miracles\\A2\\run_01",
+      "eo_pos": 2,
+      "status": "selected",
+      "rejected": []
+    },
+    {
+      "topic_dir": "topic_football_miracles",
+      "topic_title": "足球史三大奇迹：伊斯坦布尔、诺坎普与希腊神话",
+      "arm": "A3",
+      "run_index": 1,
+      "workdir": "output\\_research_audit\\pilot_v1\\topic_football_miracles\\A3\\run_01",
+      "eo_pos": 3,
+      "status": "selected",
+      "rejected": []
+    },
+    {
+      "topic_dir": "topic_football_miracles",
+      "topic_title": "足球史三大奇迹：伊斯坦布尔、诺坎普与希腊神话",
+      "arm": "A4",
+      "run_index": 1,
+      "workdir": "output\\_research_audit\\pilot_v1\\topic_football_miracles\\A4\\run_01",
+      "eo_pos": 1,
+      "status": "selected",
+      "rejected": []
+    },
+    {
+      "topic_dir": "topic_igtes_interviews",
+      "topic_title": "IG 3-1 TES 赛后：采访金句与队内语音名场面",
+      "arm": "A1",
+      "run_index": 1,
+      "workdir": "output\\_research_audit\\pilot_v1\\topic_igtes_interviews\\A1\\run_01",
+      "eo_pos": 1,
+      "status": "selected",
+      "rejected": []
+    },
+    {
+      "topic_dir": "topic_igtes_interviews",
+      "topic_title": "IG 3-1 TES 赛后：采访金句与队内语音名场面",
+      "arm": "A2",
+      "run_index": 1,
+      "workdir": "output\\_research_audit\\pilot_v1\\topic_igtes_interviews\\A2\\run_01",
+      "eo_pos": 3,
+      "status": "selected",
+      "rejected": []
+    },
+    {
+      "topic_dir": "topic_igtes_interviews",
+      "topic_title": "IG 3-1 TES 赛后：采访金句与队内语音名场面",
+      "arm": "A3",
+      "run_index": 1,
+      "workdir": "output\\_research_audit\\pilot_v1\\topic_igtes_interviews\\A3\\run_01",
+      "eo_pos": 0,
+      "status": "selected",
+      "rejected": []
+    },
+    {
+      "topic_dir": "topic_igtes_interviews",
+      "topic_title": "IG 3-1 TES 赛后：采访金句与队内语音名场面",
+      "arm": "A4",
+      "run_index": 1,
+      "workdir": "output\\_research_audit\\pilot_v1\\topic_igtes_interviews\\A4\\run_01",
+      "eo_pos": 2,
+      "status": "selected",
+      "rejected": []
+    },
+    {
+      "topic_dir": "topic_igtes_recap",
+      "topic_title": "IG 3-1 TES 晋级四强：八强淘汰赛复盘",
+      "arm": "A1",
+      "run_index": 2,
+      "workdir": "output\\_research_audit\\pilot_v1\\topic_igtes_recap\\A1\\run_02",
+      "eo_pos": 7,
+      "status": "selected",
+      "rejected": [
+        "run_01:无文稿.json（未成型，只进失败率轴）",
+        "run_03:无文稿.json（未成型，只进失败率轴）"
+      ]
+    },
+    {
+      "topic_dir": "topic_igtes_recap",
+      "topic_title": "IG 3-1 TES 晋级四强：八强淘汰赛复盘",
+      "arm": "A2",
+      "run_index": 1,
+      "workdir": "output\\_research_audit\\pilot_v1\\topic_igtes_recap\\A2\\run_01",
+      "eo_pos": 2,
+      "status": "selected",
+      "rejected": []
+    },
+    {
+      "topic_dir": "topic_igtes_recap",
+      "topic_title": "IG 3-1 TES 晋级四强：八强淘汰赛复盘",
+      "arm": "A3",
+      "run_index": 1,
+      "workdir": "output\\_research_audit\\pilot_v1\\topic_igtes_recap\\A3\\run_01",
+      "eo_pos": 0,
+      "status": "selected",
+      "rejected": []
+    },
+    {
+      "topic_dir": "topic_igtes_recap",
+      "topic_title": "IG 3-1 TES 晋级四强：八强淘汰赛复盘",
+      "arm": "A4",
+      "run_index": 1,
+      "workdir": "output\\_research_audit\\pilot_v1\\topic_igtes_recap\\A4\\run_01",
+      "eo_pos": 1,
+      "status": "selected",
+      "rejected": []
+    },
+    {
+      "topic_dir": "topic_inertia",
+      "topic_title": "惯性到底是什么：从生活现象到百年之谜",
+      "arm": "A1",
+      "run_index": null,
+      "workdir": null,
+      "eo_pos": null,
+      "status": "missing(缺即缺)"
+    },
+    {
+      "topic_dir": "topic_inertia",
+      "topic_title": "惯性到底是什么：从生活现象到百年之谜",
+      "arm": "A2",
+      "run_index": null,
+      "workdir": null,
+      "eo_pos": null,
+      "status": "missing(缺即缺)"
+    },
+    {
+      "topic_dir": "topic_inertia",
+      "topic_title": "惯性到底是什么：从生活现象到百年之谜",
+      "arm": "A3",
+      "run_index": 3,
+      "workdir": "output\\_research_audit\\pilot_v1\\topic_inertia\\A3\\run_03",
+      "eo_pos": 8,
+      "status": "selected",
+      "rejected": [
+        "run_01:无文稿.json（未成型，只进失败率轴）",
+        "run_02:无文稿.json（未成型，只进失败率轴）"
+      ]
+    },
+    {
+      "topic_dir": "topic_inertia",
+      "topic_title": "惯性到底是什么：从生活现象到百年之谜",
+      "arm": "A4",
+      "run_index": 2,
+      "workdir": "output\\_research_audit\\pilot_v1\\topic_inertia\\A4\\run_02",
+      "eo_pos": 5,
+      "status": "selected",
+      "rejected": [
+        "run_01:无文稿.json（未成型，只进失败率轴）"
+      ]
+    },
+    {
+      "topic_dir": "topic_nobel_neutrino",
+      "topic_title": "2026 诺贝尔物理学奖解读：冰立方中微子望远镜",
+      "arm": "A1",
+      "run_index": 2,
+      "workdir": "output\\_research_audit\\pilot_v1\\topic_nobel_neutrino\\A1\\run_02",
+      "eo_pos": 5,
+      "status": "selected",
+      "rejected": [
+        "run_01:load_artifacts 失败：[Errno 2] No such file or directory: 'output\\\\_research_audit\\\\pilot_v1\\\\topic_nobel_neutrino\\\\A1\\\\run_01\\\\投稿包.json'",
+        "run_03:无文稿.json（未成型，只进失败率轴）"
+      ]
+    },
+    {
+      "topic_dir": "topic_nobel_neutrino",
+      "topic_title": "2026 诺贝尔物理学奖解读：冰立方中微子望远镜",
+      "arm": "A2",
+      "run_index": 3,
+      "workdir": "output\\_research_audit\\pilot_v1\\topic_nobel_neutrino\\A2\\run_03",
+      "eo_pos": 10,
+      "status": "selected",
+      "rejected": [
+        "run_01:无文稿.json（未成型，只进失败率轴）",
+        "run_02:无文稿.json（未成型，只进失败率轴）"
+      ]
+    },
+    {
+      "topic_dir": "topic_nobel_neutrino",
+      "topic_title": "2026 诺贝尔物理学奖解读：冰立方中微子望远镜",
+      "arm": "A3",
+      "run_index": 1,
+      "workdir": "output\\_research_audit\\pilot_v1\\topic_nobel_neutrino\\A3\\run_01",
+      "eo_pos": 1,
+      "status": "selected",
+      "rejected": [
+        "run_03:无文稿.json（未成型，只进失败率轴）"
+      ]
+    },
+    {
+      "topic_dir": "topic_nobel_neutrino",
+      "topic_title": "2026 诺贝尔物理学奖解读：冰立方中微子望远镜",
+      "arm": "A4",
+      "run_index": 1,
+      "workdir": "output\\_research_audit\\pilot_v1\\topic_nobel_neutrino\\A4\\run_01",
+      "eo_pos": 3,
+      "status": "selected",
+      "rejected": [
+        "run_02:无文稿.json（未成型，只进失败率轴）",
+        "run_03:无文稿.json（未成型，只进失败率轴）"
+      ]
+    },
+    {
+      "topic_dir": "topic_skyscrapers",
+      "topic_title": "世界摩天大楼之最：十大最高建筑与高楼最多的城市",
+      "arm": "A1",
+      "run_index": null,
+      "workdir": null,
+      "eo_pos": null,
+      "status": "missing(缺即缺)"
+    },
+    {
+      "topic_dir": "topic_skyscrapers",
+      "topic_title": "世界摩天大楼之最：十大最高建筑与高楼最多的城市",
+      "arm": "A2",
+      "run_index": 1,
+      "workdir": "output\\_research_audit\\pilot_v1\\topic_skyscrapers\\A2\\run_01",
+      "eo_pos": 3,
+      "status": "selected",
+      "rejected": []
+    },
+    {
+      "topic_dir": "topic_skyscrapers",
+      "topic_title": "世界摩天大楼之最：十大最高建筑与高楼最多的城市",
+      "arm": "A3",
+      "run_index": 1,
+      "workdir": "output\\_research_audit\\pilot_v1\\topic_skyscrapers\\A3\\run_01",
+      "eo_pos": 1,
+      "status": "selected",
+      "rejected": []
+    },
+    {
+      "topic_dir": "topic_skyscrapers",
+      "topic_title": "世界摩天大楼之最：十大最高建筑与高楼最多的城市",
+      "arm": "A4",
+      "run_index": 2,
+      "workdir": "output\\_research_audit\\pilot_v1\\topic_skyscrapers\\A4\\run_02",
+      "eo_pos": 4,
+      "status": "selected",
+      "rejected": [
+        "run_01:load_artifacts 失败：[Errno 2] No such file or directory: 'output\\\\_research_audit\\\\pilot_v1\\\\topic_skyscrapers\\\\A4\\\\run_01\\\\投稿包.json'"
+      ]
+    },
+    {
+      "topic_dir": "topic_superproj",
+      "topic_title": "中国八大超级工程盘点：从白鹤滩到都江堰",
+      "arm": "A1",
+      "run_index": 1,
+      "workdir": "output\\_research_audit\\pilot_v1\\topic_superproj\\A1\\run_01",
+      "eo_pos": 2,
+      "status": "selected",
+      "rejected": []
+    },
+    {
+      "topic_dir": "topic_superproj",
+      "topic_title": "中国八大超级工程盘点：从白鹤滩到都江堰",
+      "arm": "A2",
+      "run_index": 1,
+      "workdir": "output\\_research_audit\\pilot_v1\\topic_superproj\\A2\\run_01",
+      "eo_pos": 3,
+      "status": "selected",
+      "rejected": []
+    },
+    {
+      "topic_dir": "topic_superproj",
+      "topic_title": "中国八大超级工程盘点：从白鹤滩到都江堰",
+      "arm": "A3",
+      "run_index": 1,
+      "workdir": "output\\_research_audit\\pilot_v1\\topic_superproj\\A3\\run_01",
+      "eo_pos": 0,
+      "status": "selected",
+      "rejected": []
+    },
+    {
+      "topic_dir": "topic_superproj",
+      "topic_title": "中国八大超级工程盘点：从白鹤滩到都江堰",
+      "arm": "A4",
+      "run_index": 1,
+      "workdir": "output\\_research_audit\\pilot_v1\\topic_superproj\\A4\\run_01",
+      "eo_pos": 1,
+      "status": "selected",
+      "rejected": []
+    },
+    {
+      "topic_dir": "topic_survivorship",
+      "topic_title": "幸存者偏差：从二战轰炸机到看不见的失败者",
+      "arm": "A1",
+      "run_index": 1,
+      "workdir": "output\\_research_audit\\pilot_v1\\topic_survivorship\\A1\\run_01",
+      "eo_pos": 2,
+      "status": "selected",
+      "rejected": [
+        "run_03:无文稿.json（未成型，只进失败率轴）"
+      ]
+    },
+    {
+      "topic_dir": "topic_survivorship",
+      "topic_title": "幸存者偏差：从二战轰炸机到看不见的失败者",
+      "arm": "A2",
+      "run_index": 2,
+      "workdir": "output\\_research_audit\\pilot_v1\\topic_survivorship\\A2\\run_02",
+      "eo_pos": 6,
+      "status": "selected",
+      "rejected": [
+        "run_01:无文稿.json（未成型，只进失败率轴）"
+      ]
+    },
+    {
+      "topic_dir": "topic_survivorship",
+      "topic_title": "幸存者偏差：从二战轰炸机到看不见的失败者",
+      "arm": "A3",
+      "run_index": 1,
+      "workdir": "output\\_research_audit\\pilot_v1\\topic_survivorship\\A3\\run_01",
+      "eo_pos": 0,
+      "status": "selected",
+      "rejected": []
+    },
+    {
+      "topic_dir": "topic_survivorship",
+      "topic_title": "幸存者偏差：从二战轰炸机到看不见的失败者",
+      "arm": "A4",
+      "run_index": 1,
+      "workdir": "output\\_research_audit\\pilot_v1\\topic_survivorship\\A4\\run_01",
+      "eo_pos": 3,
+      "status": "selected",
+      "rejected": []
+    },
+    {
+      "topic_dir": "topic_t1kc_interviews",
+      "topic_title": "T1 晋级四强：四赛区赛后采访名场面",
+      "arm": "A1",
+      "run_index": 1,
+      "workdir": "output\\_research_audit\\pilot_v1\\topic_t1kc_interviews\\A1\\run_01",
+      "eo_pos": 3,
+      "status": "selected",
+      "rejected": [
+        "run_02:无文稿.json（未成型，只进失败率轴）",
+        "run_03:无文稿.json（未成型，只进失败率轴）"
+      ]
+    },
+    {
+      "topic_dir": "topic_t1kc_interviews",
+      "topic_title": "T1 晋级四强：四赛区赛后采访名场面",
+      "arm": "A2",
+      "run_index": 1,
+      "workdir": "output\\_research_audit\\pilot_v1\\topic_t1kc_interviews\\A2\\run_01",
+      "eo_pos": 1,
+      "status": "selected",
+      "rejected": []
+    },
+    {
+      "topic_dir": "topic_t1kc_interviews",
+      "topic_title": "T1 晋级四强：四赛区赛后采访名场面",
+      "arm": "A3",
+      "run_index": 1,
+      "workdir": "output\\_research_audit\\pilot_v1\\topic_t1kc_interviews\\A3\\run_01",
+      "eo_pos": 0,
+      "status": "selected",
+      "rejected": []
+    },
+    {
+      "topic_dir": "topic_t1kc_interviews",
+      "topic_title": "T1 晋级四强：四赛区赛后采访名场面",
+      "arm": "A4",
+      "run_index": 1,
+      "workdir": "output\\_research_audit\\pilot_v1\\topic_t1kc_interviews\\A4\\run_01",
+      "eo_pos": 2,
+      "status": "selected",
+      "rejected": []
+    },
+    {
+      "topic_dir": "topic_t1kc_recap",
+      "topic_title": "T1 3-1 KC 晋级四强：八强淘汰赛复盘",
+      "arm": "A1",
+      "run_index": 1,
+      "workdir": "output\\_research_audit\\pilot_v1\\topic_t1kc_recap\\A1\\run_01",
+      "eo_pos": 2,
+      "status": "selected",
+      "rejected": []
+    },
+    {
+      "topic_dir": "topic_t1kc_recap",
+      "topic_title": "T1 3-1 KC 晋级四强：八强淘汰赛复盘",
+      "arm": "A2",
+      "run_index": 1,
+      "workdir": "output\\_research_audit\\pilot_v1\\topic_t1kc_recap\\A2\\run_01",
+      "eo_pos": 3,
+      "status": "selected",
+      "rejected": []
+    },
+    {
+      "topic_dir": "topic_t1kc_recap",
+      "topic_title": "T1 3-1 KC 晋级四强：八强淘汰赛复盘",
+      "arm": "A3",
+      "run_index": 1,
+      "workdir": "output\\_research_audit\\pilot_v1\\topic_t1kc_recap\\A3\\run_01",
+      "eo_pos": 1,
+      "status": "selected",
+      "rejected": []
+    },
+    {
+      "topic_dir": "topic_t1kc_recap",
+      "topic_title": "T1 3-1 KC 晋级四强：八强淘汰赛复盘",
+      "arm": "A4",
+      "run_index": 1,
+      "workdir": "output\\_research_audit\\pilot_v1\\topic_t1kc_recap\\A4\\run_01",
+      "eo_pos": 0,
+      "status": "selected",
+      "rejected": []
+    }
+  ]
+}

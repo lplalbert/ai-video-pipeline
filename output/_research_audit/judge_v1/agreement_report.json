@@ -2,7 +2,9 @@
   "judges": [
     "deepseek",
     "deepseek-flash",
-    "gpt"
+    "flash",
+    "gpt",
+    "pro"
   ],
   "pairs": [
     {
@@ -10,30 +12,61 @@
         "deepseek",
         "deepseek-flash"
       ],
-      "n_common_sids": 73,
+      "n_common_sids": 84,
       "q2_clip_verdicts": {
-        "n": 545,
-        "percent_agreement": 0.835,
-        "cohen_kappa": 0.644
+        "n": 637,
+        "percent_agreement": 0.851,
+        "cohen_kappa": 0.674
       },
       "q1_sentence_anyissue": {
-        "n": 2616,
-        "percent_agreement": 0.951,
-        "cohen_kappa": 0.515
+        "n": 3049,
+        "percent_agreement": 0.952,
+        "cohen_kappa": 0.546
       },
-      "q1_support_rate_spearman": 0.629,
-      "q2_headline_spearman": 0.983,
+      "q1_support_rate_spearman": 0.625,
+      "q2_headline_spearman": 0.984,
       "q4_title_scores": {
-        "n": 639,
-        "mean_abs_diff": 0.344,
-        "exact_rate": 0.673,
-        "within1_rate": 0.983
+        "n": 732,
+        "mean_abs_diff": 0.372,
+        "exact_rate": 0.65,
+        "within1_rate": 0.978
       },
       "q5_script_scores": {
-        "n": 219,
-        "mean_abs_diff": 0.457,
-        "exact_rate": 0.575,
+        "n": 252,
+        "mean_abs_diff": 0.468,
+        "exact_rate": 0.563,
         "within1_rate": 0.968
+      }
+    },
+    {
+      "judges": [
+        "deepseek",
+        "flash"
+      ],
+      "n_common_sids": 85,
+      "q2_clip_verdicts": {
+        "n": 645,
+        "percent_agreement": 0.735,
+        "cohen_kappa": 0.491
+      },
+      "q1_sentence_anyissue": {
+        "n": 3083,
+        "percent_agreement": 0.945,
+        "cohen_kappa": 0.47
+      },
+      "q1_support_rate_spearman": 0.612,
+      "q2_headline_spearman": 0.974,
+      "q4_title_scores": {
+        "n": 741,
+        "mean_abs_diff": 0.516,
+        "exact_rate": 0.521,
+        "within1_rate": 0.966
+      },
+      "q5_script_scores": {
+        "n": 255,
+        "mean_abs_diff": 0.757,
+        "exact_rate": 0.306,
+        "within1_rate": 0.937
       }
     },
     {
@@ -69,6 +102,68 @@
     },
     {
       "judges": [
+        "deepseek",
+        "pro"
+      ],
+      "n_common_sids": 85,
+      "q2_clip_verdicts": {
+        "n": 631,
+        "percent_agreement": 0.781,
+        "cohen_kappa": 0.538
+      },
+      "q1_sentence_anyissue": {
+        "n": 3083,
+        "percent_agreement": 0.945,
+        "cohen_kappa": 0.47
+      },
+      "q1_support_rate_spearman": 0.663,
+      "q2_headline_spearman": 0.946,
+      "q4_title_scores": {
+        "n": 741,
+        "mean_abs_diff": 0.441,
+        "exact_rate": 0.59,
+        "within1_rate": 0.97
+      },
+      "q5_script_scores": {
+        "n": 255,
+        "mean_abs_diff": 0.651,
+        "exact_rate": 0.447,
+        "within1_rate": 0.902
+      }
+    },
+    {
+      "judges": [
+        "deepseek-flash",
+        "flash"
+      ],
+      "n_common_sids": 84,
+      "q2_clip_verdicts": {
+        "n": 630,
+        "percent_agreement": 0.783,
+        "cohen_kappa": 0.591
+      },
+      "q1_sentence_anyissue": {
+        "n": 3049,
+        "percent_agreement": 0.941,
+        "cohen_kappa": 0.539
+      },
+      "q1_support_rate_spearman": 0.762,
+      "q2_headline_spearman": 0.982,
+      "q4_title_scores": {
+        "n": 756,
+        "mean_abs_diff": 0.48,
+        "exact_rate": 0.554,
+        "within1_rate": 0.966
+      },
+      "q5_script_scores": {
+        "n": 252,
+        "mean_abs_diff": 0.472,
+        "exact_rate": 0.54,
+        "within1_rate": 0.988
+      }
+    },
+    {
+      "judges": [
         "deepseek-flash",
         "gpt"
       ],
@@ -96,6 +191,130 @@
         "mean_abs_diff": 0.795,
         "exact_rate": 0.417,
         "within1_rate": 0.814
+      }
+    },
+    {
+      "judges": [
+        "deepseek-flash",
+        "pro"
+      ],
+      "n_common_sids": 84,
+      "q2_clip_verdicts": {
+        "n": 617,
+        "percent_agreement": 0.807,
+        "cohen_kappa": 0.612
+      },
+      "q1_sentence_anyissue": {
+        "n": 3049,
+        "percent_agreement": 0.942,
+        "cohen_kappa": 0.544
+      },
+      "q1_support_rate_spearman": 0.791,
+      "q2_headline_spearman": 0.947,
+      "q4_title_scores": {
+        "n": 756,
+        "mean_abs_diff": 0.448,
+        "exact_rate": 0.59,
+        "within1_rate": 0.963
+      },
+      "q5_script_scores": {
+        "n": 252,
+        "mean_abs_diff": 0.496,
+        "exact_rate": 0.548,
+        "within1_rate": 0.956
+      }
+    },
+    {
+      "judges": [
+        "flash",
+        "gpt"
+      ],
+      "n_common_sids": 52,
+      "q2_clip_verdicts": {
+        "n": 374,
+        "percent_agreement": 0.733,
+        "cohen_kappa": 0.546
+      },
+      "q1_sentence_anyissue": {
+        "n": 1870,
+        "percent_agreement": 0.833,
+        "cohen_kappa": 0.297
+      },
+      "q1_support_rate_spearman": 0.51,
+      "q2_headline_spearman": 0.909,
+      "q4_title_scores": {
+        "n": 468,
+        "mean_abs_diff": 0.558,
+        "exact_rate": 0.472,
+        "within1_rate": 0.97
+      },
+      "q5_script_scores": {
+        "n": 156,
+        "mean_abs_diff": 0.628,
+        "exact_rate": 0.545,
+        "within1_rate": 0.859
+      }
+    },
+    {
+      "judges": [
+        "flash",
+        "pro"
+      ],
+      "n_common_sids": 92,
+      "q2_clip_verdicts": {
+        "n": 682,
+        "percent_agreement": 0.814,
+        "cohen_kappa": 0.666
+      },
+      "q1_sentence_anyissue": {
+        "n": 3289,
+        "percent_agreement": 0.951,
+        "cohen_kappa": 0.65
+      },
+      "q1_support_rate_spearman": 0.842,
+      "q2_headline_spearman": 0.952,
+      "q4_title_scores": {
+        "n": 828,
+        "mean_abs_diff": 0.344,
+        "exact_rate": 0.668,
+        "within1_rate": 0.988
+      },
+      "q5_script_scores": {
+        "n": 276,
+        "mean_abs_diff": 0.406,
+        "exact_rate": 0.594,
+        "within1_rate": 1.0
+      }
+    },
+    {
+      "judges": [
+        "gpt",
+        "pro"
+      ],
+      "n_common_sids": 52,
+      "q2_clip_verdicts": {
+        "n": 368,
+        "percent_agreement": 0.69,
+        "cohen_kappa": 0.452
+      },
+      "q1_sentence_anyissue": {
+        "n": 1870,
+        "percent_agreement": 0.833,
+        "cohen_kappa": 0.301
+      },
+      "q1_support_rate_spearman": 0.531,
+      "q2_headline_spearman": 0.885,
+      "q4_title_scores": {
+        "n": 468,
+        "mean_abs_diff": 0.658,
+        "exact_rate": 0.438,
+        "within1_rate": 0.91
+      },
+      "q5_script_scores": {
+        "n": 156,
+        "mean_abs_diff": 0.75,
+        "exact_rate": 0.417,
+        "within1_rate": 0.859
       }
     }
   ]

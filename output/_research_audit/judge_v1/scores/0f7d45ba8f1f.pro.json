@@ -1,0 +1,631 @@
+{
+  "sid": "0f7d45ba8f1f",
+  "judge": "pro",
+  "judge_model": "mimo-v2.6-pro",
+  "ts": "2026-11-08T23:04:42",
+  "n_sentences": 40,
+  "q1": {
+    "items": [
+      {
+        "index": 0,
+        "claims": [
+          {
+            "claim": "这轮BO5 T1赢在BP和下路",
+            "verdict": "无支撑",
+            "evidence": "无"
+          },
+          {
+            "claim": "T1不是赢在Faker的个人秀",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "claims": [
+          {
+            "claim": "T1是靠中路硬扛的队伍",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "claims": [
+          {
+            "claim": "T1 3-1淘汰KC，晋级四强",
+            "verdict": "支持",
+            "evidence": "2"
+          },
+          {
+            "claim": "T1的赢法和你想的不一样",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "claims": [
+          {
+            "claim": "第一局BP，KC禁用发条魔灵",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "第一局BP，T1四楼选出辛德拉",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "claims": [
+          {
+            "claim": "解说原话怎么说的？",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "claims": [
+          {
+            "claim": "解说原话：就跟你拖，那我就靠容错",
+            "verdict": "支持",
+            "evidence": "5"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "claims": [
+          {
+            "claim": "T1这套阵容两件套之后的曲线是遥遥领先的",
+            "verdict": "支持",
+            "evidence": "11"
+          },
+          {
+            "claim": "KC的中期发力窗口就那么一会儿",
+            "verdict": "支持",
+            "evidence": "11"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "claims": [
+          {
+            "claim": "结果呢？",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "claims": [
+          {
+            "claim": "第一局最后的小龙团 T1 取胜",
+            "verdict": "支持",
+            "evidence": "6"
+          },
+          {
+            "claim": "T1 拿下第一局、1-0 领先",
+            "verdict": "支持",
+            "evidence": "6"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "claims": [
+          {
+            "claim": "KC 这局阵容容错低",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "claims": [
+          {
+            "claim": "KC 的 BP 被爆了",
+            "verdict": "非判词",
+            "evidence": "无"
+          },
+          {
+            "claim": "T1 的阵容理解高出一截",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "claims": [
+          {
+            "claim": "我倾向后者（T1 阵容理解更高）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "claims": [
+          {
+            "claim": "有标题写「Yike 盲僧全场零节奏」",
+            "verdict": "支持",
+            "evidence": "7"
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "claims": [
+          {
+            "claim": "「Yike 盲僧全场零节奏」是观点句，不当客观事实",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "claims": [
+          {
+            "claim": "第一局 Yike 没打出盲僧该有的前期节奏",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "claims": [
+          {
+            "claim": "盲僧选出来要在前十五分钟制造混乱",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 16,
+        "claims": [
+          {
+            "claim": "节奏全无，等于白选",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 17,
+        "claims": [
+          {
+            "claim": "Yike 是节奏发起点",
+            "verdict": "非判词",
+            "evidence": "无"
+          },
+          {
+            "claim": "KC 整体节奏被 T1 压住了",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 18,
+        "claims": [
+          {
+            "claim": "Yike 作为节奏发起点，责任跑不掉",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 19,
+        "claims": [
+          {
+            "claim": "第三局 KC 凭后期稳定阵容扳回一小分",
+            "verdict": "支持",
+            "evidence": "12"
+          }
+        ]
+      },
+      {
+        "index": 20,
+        "claims": [
+          {
+            "claim": "这说明什么？",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 21,
+        "claims": [
+          {
+            "claim": "KC 不是没准备",
+            "verdict": "非判词",
+            "evidence": "无"
+          },
+          {
+            "claim": "KC 知道硬碰硬打不过 T1 的中后期",
+            "verdict": "非判词",
+            "evidence": "无"
+          },
+          {
+            "claim": "第三局 KC 换思路，选稳",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 22,
+        "claims": [
+          {
+            "claim": "KC 一个系列赛只能靠稳赢一局",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 23,
+        "claims": [
+          {
+            "claim": "T1 的调整能力摆在那",
+            "verdict": "非判词",
+            "evidence": "无"
+          },
+          {
+            "claim": "KC 稳赢一局后，T1 下一局就换招",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 24,
+        "claims": [
+          {
+            "claim": "第四局T1下路选出妮蔻+女枪",
+            "verdict": "支持",
+            "evidence": "13"
+          },
+          {
+            "claim": "妮蔻+女枪组合出场率很低",
+            "verdict": "支持",
+            "evidence": "13"
+          },
+          {
+            "claim": "妮蔻+女枪是经典组合",
+            "verdict": "支持",
+            "evidence": "13"
+          }
+        ]
+      },
+      {
+        "index": 25,
+        "claims": [
+          {
+            "claim": "对线阶段T1持续压制，优势一路积累",
+            "verdict": "支持",
+            "evidence": "13"
+          }
+        ]
+      },
+      {
+        "index": 26,
+        "claims": [
+          {
+            "claim": "关键团战T1打出完美反手大招",
+            "verdict": "支持",
+            "evidence": "14"
+          },
+          {
+            "claim": "经济差进一步拉开",
+            "verdict": "支持",
+            "evidence": "14"
+          }
+        ]
+      },
+      {
+        "index": 27,
+        "claims": [
+          {
+            "claim": "终局T1先拆两路",
+            "verdict": "支持",
+            "evidence": "15"
+          },
+          {
+            "claim": "随后一波推平基地",
+            "verdict": "支持",
+            "evidence": "15"
+          },
+          {
+            "claim": "T1以3-1结束系列赛",
+            "verdict": "支持",
+            "evidence": "15"
+          }
+        ]
+      },
+      {
+        "index": 28,
+        "claims": [
+          {
+            "claim": "KC整轮BO5下路对线就没真正舒服过",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 29,
+        "claims": [
+          {
+            "claim": "T1的战术储备赢了还是KC下路实力被高估",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 30,
+        "claims": [
+          {
+            "claim": "评论区可以吵",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 31,
+        "claims": [
+          {
+            "claim": "解说称这是T1队史第十一次打进世界赛四强",
+            "verdict": "支持",
+            "evidence": "3"
+          },
+          {
+            "claim": "解说称四强对决跟S7一样是LPL跟LCK的大战",
+            "verdict": "支持",
+            "evidence": "4"
+          }
+        ]
+      },
+      {
+        "index": 32,
+        "claims": [
+          {
+            "claim": "半决赛对手是BLG",
+            "verdict": "支持",
+            "evidence": "4"
+          },
+          {
+            "claim": "Faker对Bin",
+            "verdict": "支持",
+            "evidence": "4"
+          }
+        ]
+      },
+      {
+        "index": 33,
+        "claims": [
+          {
+            "claim": "这个对位看点拉满",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 34,
+        "claims": [
+          {
+            "claim": "KC作为世界赛新生从入围赛一路杀到八强",
+            "verdict": "支持",
+            "evidence": "16"
+          },
+          {
+            "claim": "KC止步八强",
+            "verdict": "支持",
+            "evidence": "2"
+          },
+          {
+            "claim": "止步也值得尊敬",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 35,
+        "claims": [
+          {
+            "claim": "T1这轮展现的战术深度",
+            "verdict": "非判词",
+            "evidence": "无"
+          },
+          {
+            "claim": "是我更看好的点",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 36,
+        "claims": [
+          {
+            "claim": "这轮是BO5",
+            "verdict": "支持",
+            "evidence": "2"
+          },
+          {
+            "claim": "T1赢的核心是BP压制还是选手个人能力",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 37,
+        "claims": [
+          {
+            "claim": "Yike的盲僧该不该背锅",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 38,
+        "claims": [
+          {
+            "claim": "半决赛T1对BLG",
+            "verdict": "支持",
+            "evidence": "4"
+          },
+          {
+            "claim": "Faker和Bin你更看好谁",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 39,
+        "claims": [
+          {
+            "claim": "评论区说出你的判断",
+            "verdict": "非判词",
+            "evidence": "无"
+          },
+          {
+            "claim": "点赞过万我出半决赛前瞻",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      }
+    ],
+    "verdict_counts": {
+      "支持": 27,
+      "无支撑": 6,
+      "矛盾": 0,
+      "非判词": 30
+    },
+    "support_rate": 0.818
+  },
+  "q2": {
+    "items": [
+      {
+        "index": 3,
+        "verdict": "匹配",
+        "why": "主体、动作、事件完全一致：KC禁发条，T1四楼选辛德拉"
+      },
+      {
+        "index": 5,
+        "verdict": "匹配",
+        "why": "片段为解说原话，与解说句逐字一致"
+      },
+      {
+        "index": 6,
+        "verdict": "匹配",
+        "why": "片段为解说原话摘要，两件套曲线领先与KC中期窗口短均对应"
+      },
+      {
+        "index": 8,
+        "verdict": "匹配",
+        "why": "小龙团T1取胜、1-0领先一致，片段补充拿下第一局细节"
+      },
+      {
+        "index": 19,
+        "verdict": "匹配",
+        "why": "第三局KC凭后期稳定阵容扳回一小分，逐字一致"
+      },
+      {
+        "index": 24,
+        "verdict": "匹配",
+        "why": "第四局T1下路妮蔻+女枪经典组合，主体与事件一致"
+      },
+      {
+        "index": 25,
+        "verdict": "匹配",
+        "why": "主体、动作、事件完全一致，仅省略个别字词"
+      },
+      {
+        "index": 26,
+        "verdict": "匹配",
+        "why": "关键团战、反手大招、经济差拉开等核心要素一致"
+      },
+      {
+        "index": 27,
+        "verdict": "匹配",
+        "why": "拆两路、推平基地、3-1带走等事件与结果完全一致"
+      },
+      {
+        "index": 31,
+        "verdict": "匹配",
+        "why": "第十一次四强、同S7 LPL vs LCK对决等信息一致"
+      },
+      {
+        "index": 34,
+        "verdict": "弱匹配",
+        "why": "前半段一致，但解说句为'止步值得尊敬'，片段文本为'获掌声致意'，结尾动作无法确认一致"
+      }
+    ],
+    "verdict_counts": {
+      "匹配": 10,
+      "弱匹配": 1,
+      "错位": 0
+    },
+    "sentence_total": 40,
+    "headline_q2": 0.263
+  },
+  "q4": {
+    "titles": [
+      {
+        "platform": "B站",
+        "information": 5,
+        "accuracy": 4,
+        "appeal": 5,
+        "why": "信息量大且有悬念钩子，但'Yike盲僧零节奏'的表述略带主观断言，需内容支撑"
+      },
+      {
+        "platform": "西瓜视频/抖音（中视频伙伴计划）",
+        "information": 4,
+        "accuracy": 5,
+        "appeal": 3,
+        "why": "准确清晰但偏平铺直叙，缺少悬念或情绪钩子，点击欲一般"
+      },
+      {
+        "platform": "微信视频号",
+        "information": 2,
+        "accuracy": 3,
+        "appeal": 3,
+        "why": "'妮蔻加女枪杀'表述残缺不通顺，信息量不足，但有画面感"
+      }
+    ]
+  },
+  "q5": {
+    "flow": 4,
+    "density": 4,
+    "fact_boundary": 3,
+    "why": "结构清晰、节奏紧凑，观点与事实有区分意识，但部分断言（如阵容曲线、对线压制）缺乏具体数据支撑，且引用解说原话未核实。"
+  },
+  "elapsed_s": 91.9
+}
