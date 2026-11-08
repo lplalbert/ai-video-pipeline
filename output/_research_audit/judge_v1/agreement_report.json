@@ -1,0 +1,102 @@
+{
+  "judges": [
+    "deepseek",
+    "deepseek-flash",
+    "gpt"
+  ],
+  "pairs": [
+    {
+      "judges": [
+        "deepseek",
+        "deepseek-flash"
+      ],
+      "n_common_sids": 73,
+      "q2_clip_verdicts": {
+        "n": 545,
+        "percent_agreement": 0.835,
+        "cohen_kappa": 0.644
+      },
+      "q1_sentence_anyissue": {
+        "n": 2616,
+        "percent_agreement": 0.951,
+        "cohen_kappa": 0.515
+      },
+      "q1_support_rate_spearman": 0.629,
+      "q2_headline_spearman": 0.983,
+      "q4_title_scores": {
+        "n": 639,
+        "mean_abs_diff": 0.344,
+        "exact_rate": 0.673,
+        "within1_rate": 0.983
+      },
+      "q5_script_scores": {
+        "n": 219,
+        "mean_abs_diff": 0.457,
+        "exact_rate": 0.575,
+        "within1_rate": 0.968
+      }
+    },
+    {
+      "judges": [
+        "deepseek",
+        "gpt"
+      ],
+      "n_common_sids": 52,
+      "q2_clip_verdicts": {
+        "n": 379,
+        "percent_agreement": 0.739,
+        "cohen_kappa": 0.511
+      },
+      "q1_sentence_anyissue": {
+        "n": 1870,
+        "percent_agreement": 0.816,
+        "cohen_kappa": 0.145
+      },
+      "q1_support_rate_spearman": 0.287,
+      "q2_headline_spearman": 0.916,
+      "q4_title_scores": {
+        "n": 453,
+        "mean_abs_diff": 0.649,
+        "exact_rate": 0.435,
+        "within1_rate": 0.916
+      },
+      "q5_script_scores": {
+        "n": 156,
+        "mean_abs_diff": 1.051,
+        "exact_rate": 0.327,
+        "within1_rate": 0.731
+      }
+    },
+    {
+      "judges": [
+        "deepseek-flash",
+        "gpt"
+      ],
+      "n_common_sids": 52,
+      "q2_clip_verdicts": {
+        "n": 379,
+        "percent_agreement": 0.76,
+        "cohen_kappa": 0.565
+      },
+      "q1_sentence_anyissue": {
+        "n": 1870,
+        "percent_agreement": 0.836,
+        "cohen_kappa": 0.311
+      },
+      "q1_support_rate_spearman": 0.563,
+      "q2_headline_spearman": 0.924,
+      "q4_title_scores": {
+        "n": 468,
+        "mean_abs_diff": 0.635,
+        "exact_rate": 0.432,
+        "within1_rate": 0.934
+      },
+      "q5_script_scores": {
+        "n": 156,
+        "mean_abs_diff": 0.795,
+        "exact_rate": 0.417,
+        "within1_rate": 0.814
+      }
+    }
+  ]
+}

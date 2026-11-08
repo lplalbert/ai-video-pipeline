@@ -1,0 +1,30 @@
+{
+ "note": "v1.1 冻结代码字节归档 2026-11-08（R1-R6 落盘后、E0 开跑前快照；R7/R8 为报告口径无代码）",
+ "files": {
+  "autoline.py": "e015c0f9c0d46a6f",
+  "config.py": "6a088a7d7934fa6e",
+  "eval_harness.py": "027ae23c20440139",
+  "experiment_report.py": "18373a59c7f8068e",
+  "experiment_setup.py": "8156431f94d52a0f",
+  "freeze_seed.py": "91094c8904492910",
+  "full_agent.py": "8f58992131100580",
+  "judge_agreement.py": "1e73ff77e95d3d00",
+  "judge_packets.py": "bb29e11e33feeed0",
+  "judge_panel.py": "1fb59ae028889d3b",
+  "pipeline\\__init__.py": "c5e7cd8fd0c7fa2d",
+  "pipeline\\assemble.py": "ed30e3b6b4a3cc49",
+  "pipeline\\cardgen.py": "7712f30de6ea9c87",
+  "pipeline\\charts.py": "537351a1314982af",
+  "pipeline\\footage.py": "c2a28d00a73564a8",
+  "pipeline\\llm.py": "c6a47925c0969b43",
+  "pipeline\\matcher.py": "a28db5c6c1f69524",
+  "pipeline\\matlib.py": "94fb9338cd3447bb",
+  "pipeline\\newswire.py": "6b23f79606906208",
+  "pipeline\\publish.py": "d11858c12c349a7c",
+  "pipeline\\sources.py": "dc21d6080f5190a5",
+  "pipeline\\subtitles.py": "323ce570f8bbab78",
+  "pipeline\\topics.py": "bfa1c3bce15a4a24",
+  "pipeline\\tts.py": "e576f50c1bc484b9",
+  "pipeline\\writer.py": "77fa10441de431bb"
+ }
+}

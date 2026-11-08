@@ -1,0 +1,10 @@
+{
+  "sid": "b356a8ede29e",
+  "judge": "deepseek-flash",
+  "judge_model": "external:deepseek-flash",
+  "api_model": "deepseek-flash",
+  "ts": "2026-11-08T10:13:54",
+  "source": "api",
+  "error": "HTTP 402: {\"error\":{\"message\":\"Insufficient Balance (request_id: a4f50977-8110-4fa0-a13a-f975d0ca0692)\",\"type\":\"insufficient_balance_error\",\"param\":null,\"code\":\"invalid_request_error\"}}",
+  "elapsed_s": 0.5
+}

@@ -1,0 +1,481 @@
+{
+  "sid": "beb1a6ccbdde",
+  "judge": "deepseek-flash",
+  "judge_model": "external:deepseek-flash",
+  "ts": "2026-11-08T13:26:53",
+  "source": "api",
+  "q1": {
+    "items": [
+      {
+        "index": 0,
+        "claims": [
+          {
+            "claim": "最该加固的地方偏偏没有弹孔（加固弹孔少处才是关键）",
+            "verdict": "支持",
+            "evidence": "2"
+          },
+          {
+            "claim": "这是二战美军统计学家瓦尔德的判断",
+            "verdict": "支持",
+            "evidence": "2、3"
+          },
+          {
+            "claim": "瓦尔德差点被军方当成疯子",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "claims": [
+          {
+            "claim": "事情发生在二十世纪四十年代",
+            "verdict": "支持",
+            "evidence": "3（视频口径1941年，按『一九四几年』核）"
+          },
+          {
+            "claim": "美军统计返航轰炸机的弹孔分布，机翼机身弹孔密集",
+            "verdict": "支持",
+            "evidence": "2"
+          },
+          {
+            "claim": "军方第一反应是给弹孔多的地方加装甲",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "claims": [
+          {
+            "claim": "『哪儿破补哪儿』是本能（比喻性观点）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "claims": [
+          {
+            "claim": "瓦尔德是哥伦比亚大学统计研究小组成员",
+            "verdict": "支持",
+            "evidence": "3"
+          },
+          {
+            "claim": "瓦尔德主张应反过来加固弹孔少处",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "claims": [
+          {
+            "claim": "真正该加固的是弹孔少的要害部位",
+            "verdict": "支持",
+            "evidence": "2"
+          },
+          {
+            "claim": "这些要害包括引擎、驾驶舱、油箱这一带",
+            "verdict": "支持",
+            "evidence": "2（各源口径并列，见口径禁区）"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "claims": [
+          {
+            "claim": "设问，无事实断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "claims": [
+          {
+            "claim": "飞回来的都是幸存者，要害中弹的飞机早已坠毁，不在统计表里",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "claims": [
+          {
+            "claim": "『死人没资格填写的答卷』是比喻修辞",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "claims": [
+          {
+            "claim": "瓦尔德救下的飞行员比任何王牌飞行员都多",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "claims": [
+          {
+            "claim": "1996年有位统计学家提出该思想实验",
+            "verdict": "支持",
+            "evidence": "4"
+          },
+          {
+            "claim": "假设香烟完全无害，每一万八千二百五十包藏有一根点燃即爆的炸弹",
+            "verdict": "支持",
+            "evidence": "4（思想实验参数口径）"
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "claims": [
+          {
+            "claim": "爆炸新闻一经报道会促使全民戒烟",
+            "verdict": "支持",
+            "evidence": "4"
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "claims": [
+          {
+            "claim": "视频称全球每秒约22.3万支香烟被点燃",
+            "verdict": "支持",
+            "evidence": "5（视频口径）"
+          },
+          {
+            "claim": "视频称平均每4秒有一人因吸烟死亡",
+            "verdict": "支持",
+            "evidence": "5（视频口径）"
+          },
+          {
+            "claim": "这些死亡安静地发生在病床上，不爆炸、不上头条",
+            "verdict": "支持",
+            "evidence": "4"
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "claims": [
+          {
+            "claim": "恐惧系统只对爆炸敏感，对缓慢确定的死亡免疫（主观判断）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "claims": [
+          {
+            "claim": "反问句，无事实断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "claims": [
+          {
+            "claim": "情绪表达，无事实断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "claims": [
+          {
+            "claim": "视频给出的比例：每位著名出版作家背后约有100万个沉默失败者",
+            "verdict": "支持",
+            "evidence": "6（按视频称核）"
+          }
+        ]
+      },
+      {
+        "index": 16,
+        "claims": [
+          {
+            "claim": "失败者表现为手稿石沉大海、出书卖不动、摸不到出版社门",
+            "verdict": "支持",
+            "evidence": "6"
+          }
+        ]
+      },
+      {
+        "index": 17,
+        "claims": [
+          {
+            "claim": "马云、刘强东、雷军退学创业神话是幸存样本",
+            "verdict": "支持",
+            "evidence": "7（按视频列举核）"
+          }
+        ]
+      },
+      {
+        "index": 18,
+        "claims": [
+          {
+            "claim": "没被刷到的是退学后进厂打螺丝的那批人",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 19,
+        "claims": [
+          {
+            "claim": "抽烟喝酒活到九十九、小学毕业当老板、老风扇三十年不坏属视频列举的例证",
+            "verdict": "支持",
+            "evidence": "7"
+          },
+          {
+            "claim": "这些例证都是幸存者在说话（观点）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 20,
+        "claims": [
+          {
+            "claim": "大脑厌恶不确定性",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "把运气带来的成功归因于能力",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "算法推送极端案例放大焦虑",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 21,
+        "claims": [
+          {
+            "claim": "反问句，无事实断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 22,
+        "claims": [
+          {
+            "claim": "设问，无事实断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 23,
+        "claims": [
+          {
+            "claim": "建议性表述，无事实断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 24,
+        "claims": [
+          {
+            "claim": "建议主动寻找沉默的证据",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "建议用概率思维替代直觉",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "建议逆向推理分清因果",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "『那些失败的人现在在哪』为设问",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 25,
+        "claims": [
+          {
+            "claim": "反问句，无事实断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 26,
+        "claims": [
+          {
+            "claim": "幸存者偏差不会消失、长在人性里（观点）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 27,
+        "claims": [
+          {
+            "claim": "『盯着弹孔还是盯着没回来的飞机』为比喻劝诫",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 28,
+        "claims": [
+          {
+            "claim": "互动提问，无事实断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 29,
+        "claims": [
+          {
+            "claim": "互动引导，无事实断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      }
+    ],
+    "verdict_counts": {
+      "支持": 26,
+      "无支撑": 3,
+      "矛盾": 0,
+      "非判词": 16
+    },
+    "support_rate": 0.897
+  },
+  "q2": {
+    "items": [
+      {
+        "index": 0,
+        "verdict": "匹配",
+        "why": "均为二战美军统计返航飞机弹孔、准备加固的同一事件与主体。"
+      },
+      {
+        "index": 4,
+        "verdict": "匹配",
+        "why": "解说与片段都指向『真正该加固弹孔最少的驾驶舱和油箱』这一反转结论。"
+      },
+      {
+        "index": 11,
+        "verdict": "匹配",
+        "why": "片段明确给出每秒22.3万支、每4秒一人死亡的同一组数据。"
+      },
+      {
+        "index": 15,
+        "verdict": "弱匹配",
+        "why": "主体『著名出版作家背后大量卖不出的作家』一致，但片段未出现『一百万』这一比例。"
+      },
+      {
+        "index": 17,
+        "verdict": "匹配",
+        "why": "片段同样列举马云、刘强东、雷军退学创业并点出只看到幸存者。"
+      },
+      {
+        "index": 24,
+        "verdict": "匹配",
+        "why": "片段同述『主动寻找沉默证据、用概率思维替代直觉』，仅『逆向推理』未在片段中呈现。"
+      }
+    ],
+    "verdict_counts": {
+      "匹配": 5,
+      "弱匹配": 1,
+      "错位": 0
+    },
+    "sentence_total": 30,
+    "headline_q2": 0.183
+  },
+  "q4": {
+    "titles": [
+      {
+        "platform": "B站",
+        "information": 5,
+        "accuracy": 3,
+        "appeal": 4,
+        "why": "看点完整、悬念强，但『救的飞行员比王牌还多』属无据夸张，与内容严谨度不符。"
+      },
+      {
+        "platform": "西瓜视频/抖音（中视频伙伴计划）",
+        "information": 3,
+        "accuracy": 4,
+        "appeal": 4,
+        "why": "『弹孔与沉默的尸体』有钩子且不夸大，但未点明幸存者偏差，信息量偏少。"
+      },
+      {
+        "platform": "微信视频号",
+        "information": 2,
+        "accuracy": 3,
+        "appeal": 3,
+        "why": "只覆盖香烟炸弹一段，未体现二战主案例与幸存者偏差主题，指向偏窄。"
+      }
+    ]
+  },
+  "q5": {
+    "flow": 5,
+    "density": 4,
+    "fact_boundary": 3,
+    "why": "结构清晰、层层递进且多次标注『视频称』，但『救的飞行员比任何王牌都多』『退学进厂打螺丝』等属无据断言，事实边界偏松。"
+  },
+  "n_sentences": 30,
+  "api_model": "deepseek-flash",
+  "api_usage": {
+    "prompt_tokens": 4149,
+    "completion_tokens": 3711,
+    "total_tokens": 7860,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 1886
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 4149
+  },
+  "elapsed_s": 19.0
+}

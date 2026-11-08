@@ -1,0 +1,501 @@
+{
+  "sid": "de9043cc1204",
+  "judge": "pro",
+  "judge_model": "mimo-v2.6-pro",
+  "ts": "2026-11-08T19:24:10",
+  "n_sentences": 26,
+  "q1": {
+    "items": [
+      {
+        "index": 0,
+        "claims": [
+          {
+            "claim": "半场比分0比3（米兰3-0领先）",
+            "verdict": "支持",
+            "evidence": "2"
+          },
+          {
+            "claim": "利物浦用6分钟改写历史（6分钟内连进3球扳平）",
+            "verdict": "支持",
+            "evidence": "3"
+          },
+          {
+            "claim": "中场哨响时没人觉得还有悬念",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "claims": [
+          {
+            "claim": "2005年5月25日欧冠决赛，AC米兰对利物浦",
+            "verdict": "支持",
+            "evidence": "1"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "claims": [
+          {
+            "claim": "上半场米兰三球领先",
+            "verdict": "支持",
+            "evidence": "2"
+          },
+          {
+            "claim": "马尔蒂尼开场就进球",
+            "verdict": "无支撑",
+            "evidence": "无"
+          },
+          {
+            "claim": "克雷斯波梅开二度",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "claims": [
+          {
+            "claim": "中场休息时贝尼特斯更衣室里只有沉默",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "claims": [
+          {
+            "claim": "下半场杰拉德头球扳一城",
+            "verdict": "无支撑",
+            "evidence": "无"
+          },
+          {
+            "claim": "斯米切尔远射进球",
+            "verdict": "无支撑",
+            "evidence": "无"
+          },
+          {
+            "claim": "阿隆索点球被扑后补射进球",
+            "verdict": "无支撑",
+            "evidence": "无"
+          },
+          {
+            "claim": "6分钟内扳成3比3",
+            "verdict": "支持",
+            "evidence": "3"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "claims": [
+          {
+            "claim": "安切洛蒂三球领先后没选择控场消耗而是继续压上",
+            "verdict": "非判词",
+            "evidence": "无"
+          },
+          {
+            "claim": "逆转的锅一半要算在安切洛蒂头上",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "claims": [
+          {
+            "claim": "战术保守害了米兰还是利物浦疯跑逼出奇迹",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "claims": [
+          {
+            "claim": "点球大战利物浦3比2取胜夺冠",
+            "verdict": "支持",
+            "evidence": "4"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "claims": [
+          {
+            "claim": "杜德克在门线上有舞步（庆祝动作）",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "claims": [
+          {
+            "claim": "2017年3月8日是欧冠八分之一决赛次回合",
+            "verdict": "支持",
+            "evidence": "5"
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "claims": [
+          {
+            "claim": "首回合巴黎主场4-0",
+            "verdict": "支持",
+            "evidence": "5"
+          },
+          {
+            "claim": "次回合巴萨主场6-1逆转晋级",
+            "verdict": "支持",
+            "evidence": "6"
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "claims": [
+          {
+            "claim": "内马尔在该场比赛有突出表现",
+            "verdict": "无支撑",
+            "evidence": "无"
+          },
+          {
+            "claim": "恩里克下半场换人把内马尔推到中路、苏亚雷斯拉边、放弃防守宽度",
+            "verdict": "无支撑",
+            "evidence": "无"
+          },
+          {
+            "claim": "该换人是比赛转折点",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "claims": [
+          {
+            "claim": "埃梅里在4-0领先后不敢换人稳住、不敢收缩",
+            "verdict": "无支撑",
+            "evidence": "无"
+          },
+          {
+            "claim": "埃梅里被巴萨的节奏带着走",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "claims": [
+          {
+            "claim": "恩里克的赌博赢了还是埃梅里的犹豫输了",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "claims": [
+          {
+            "claim": "责任更应归于埃梅里",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "claims": [
+          {
+            "claim": "2004年欧洲杯有希腊队参赛",
+            "verdict": "支持",
+            "evidence": "7"
+          }
+        ]
+      },
+      {
+        "index": 16,
+        "claims": [
+          {
+            "claim": "希腊揭幕战2-1爆冷击败东道主葡萄牙",
+            "verdict": "支持",
+            "evidence": "7"
+          },
+          {
+            "claim": "希腊淘汰赛1-0胜法国进四强",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "希腊决赛1-0再胜葡萄牙",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "查理斯特亚斯头球绝杀",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "希腊首夺德劳内杯",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 17,
+        "claims": [
+          {
+            "claim": "很多人说希腊是运气",
+            "verdict": "非判词",
+            "evidence": "无"
+          },
+          {
+            "claim": "雷哈格尔采用三五二体系",
+            "verdict": "无支撑",
+            "evidence": "无"
+          },
+          {
+            "claim": "雷哈格尔把每个球员的防守职责拆解到厘米级",
+            "verdict": "非判词",
+            "evidence": "无"
+          },
+          {
+            "claim": "这不是奇迹，是工程学",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 18,
+        "claims": [
+          {
+            "claim": "是希腊踢得好，还是那届欧洲杯的强队集体轻敌",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 19,
+        "claims": [
+          {
+            "claim": "C罗、亨利、劳尔的球队没有谁真正尊重过这支希腊",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 20,
+        "claims": [
+          {
+            "claim": "三场名局，三个『不可能』时刻",
+            "verdict": "非判词",
+            "evidence": "无"
+          },
+          {
+            "claim": "拆开看逻辑惊人一致：领先方的傲慢、落后方的孤注一掷、体系对个人的碾压",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 21,
+        "claims": [
+          {
+            "claim": "伊斯坦布尔是安切洛蒂的战术傲慢",
+            "verdict": "无支撑",
+            "evidence": "无"
+          },
+          {
+            "claim": "诺坎普是埃梅里的决策犹豫",
+            "verdict": "无支撑",
+            "evidence": "无"
+          },
+          {
+            "claim": "希腊是强队对体系足球的集体误判",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 22,
+        "claims": [
+          {
+            "claim": "所谓奇迹，不过是必然在某一刻的集中爆发",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 23,
+        "claims": [
+          {
+            "claim": "你觉得这三场里，哪一场的『不可能』成分更高",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 24,
+        "claims": [
+          {
+            "claim": "利物浦的6分钟",
+            "verdict": "支持",
+            "evidence": "3"
+          },
+          {
+            "claim": "希腊的整届杯赛",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 25,
+        "claims": [
+          {
+            "claim": "评论区聊聊",
+            "verdict": "非判词",
+            "evidence": "无"
+          },
+          {
+            "claim": "点赞过万我拆解下一场名局",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      }
+    ],
+    "verdict_counts": {
+      "支持": 16,
+      "无支撑": 14,
+      "矛盾": 0,
+      "非判词": 20
+    },
+    "support_rate": 0.533
+  },
+  "q2": {
+    "items": [
+      {
+        "index": 1,
+        "verdict": "匹配",
+        "why": "片段明确提到2005年5月25日欧冠决赛AC米兰对利物浦，与解说句完全一致"
+      },
+      {
+        "index": 2,
+        "verdict": "弱匹配",
+        "why": "片段提到克雷斯波梅开二度，但未提及马尔蒂尼开场进球和上半场三球领先的整体情况"
+      },
+      {
+        "index": 3,
+        "verdict": "错位",
+        "why": "片段描述的是上半场第23-39分钟的场上事件，与解说句中场休息更衣室沉默的时点和内容不符"
+      },
+      {
+        "index": 4,
+        "verdict": "错位",
+        "why": "片段是赛前球员介绍和比赛总体评价，未提及下半场杰拉德头球、斯米切尔远射、阿隆索补射等具体逆转过程"
+      },
+      {
+        "index": 7,
+        "verdict": "匹配",
+        "why": "片段明确提到点球大战利物浦3比2胜出，与解说句一致"
+      },
+      {
+        "index": 8,
+        "verdict": "弱匹配",
+        "why": "片段提到神奇门将杜德克，但未提及门线舞步这一具体动作细节"
+      },
+      {
+        "index": 10,
+        "verdict": "匹配",
+        "why": "片段明确提到大巴黎主场4-0先行，与解说首回合比分一致，主体事件吻合"
+      },
+      {
+        "index": 11,
+        "verdict": "错位",
+        "why": "片段描述的是内马尔左路突破、伊涅斯塔接应等具体进攻画面，未涉及恩里克换人调整战术这一转折点事件"
+      },
+      {
+        "index": 12,
+        "verdict": "弱匹配",
+        "why": "片段提到巴萨2-0领先、总比分2-4，与解说的比分背景相关，但未涉及埃梅里不换人不收缩的决策细节"
+      },
+      {
+        "index": 16,
+        "verdict": "弱匹配",
+        "why": "片段提到希腊2-1战胜葡萄牙拿到开门红，与解说揭幕战比分一致，但片段未涉及淘汰赛、决赛及查理斯特亚斯头球绝杀等后续事件"
+      },
+      {
+        "index": 18,
+        "verdict": "弱匹配",
+        "why": "片段提到希腊与西班牙、葡萄牙同组且不被看好，与解说强队轻敌主题相关，但片段未直接回答是踢得好还是轻敌的判断"
+      },
+      {
+        "index": 21,
+        "verdict": "错位",
+        "why": "片段仅描述巴萨诺坎普大逆转的庆祝画面，未涉及伊斯坦布尔、埃梅里决策、希腊体系足球等三重对比评价内容"
+      }
+    ],
+    "verdict_counts": {
+      "匹配": 3,
+      "弱匹配": 5,
+      "错位": 4
+    },
+    "sentence_total": 26,
+    "headline_q2": 0.212
+  },
+  "q4": {
+    "titles": [
+      {
+        "platform": "B站",
+        "information": 5,
+        "accuracy": 5,
+        "appeal": 4,
+        "why": "完整列出三大奇迹及对应人物与关键词，信息量足且准确，但冒号嵌套略显冗长，吸引力中上"
+      },
+      {
+        "platform": "西瓜视频/抖音（中视频伙伴计划）",
+        "information": 2,
+        "accuracy": 3,
+        "appeal": 3,
+        "why": "标题只覆盖三大奇迹之一，信息量明显不足，但未夸大，吸引力一般"
+      },
+      {
+        "platform": "微信视频号",
+        "information": 1,
+        "accuracy": 2,
+        "appeal": 2,
+        "why": "标题截断不完整（'体'字残缺），信息量和准确性都明显受损，基本不可用"
+      }
+    ]
+  },
+  "q5": {
+    "flow": 5,
+    "density": 4,
+    "fact_boundary": 3,
+    "why": "叙事节奏紧凑、干货充足，但多处主观归因（如安切洛蒂\"傲慢\"、埃梅里\"犹豫\"、\"没人尊重希腊\"）以判断口吻呈现，事实边界偏松。"
+  },
+  "elapsed_s": 50.9
+}

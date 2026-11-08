@@ -1,0 +1,586 @@
+{
+  "sid": "595719a00ed2",
+  "judge": "gpt",
+  "judge_model": "external:gpt",
+  "ts": "2026-11-08T13:12:33",
+  "source": "manual_packet",
+  "q1": {
+    "items": [
+      {
+        "index": 0,
+        "claims": [
+          {
+            "claim": "刹车人前倾这一现象引发数百年讨论且没有定论",
+            "verdict": "支持",
+            "evidence": "18"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "claims": [
+          {
+            "claim": "牛顿将惯性视为公理",
+            "verdict": "支持",
+            "evidence": "5"
+          },
+          {
+            "claim": "马赫认为惯性来自宇宙",
+            "verdict": "支持",
+            "evidence": "6"
+          },
+          {
+            "claim": "爱因斯坦未完全统一惯性问题",
+            "verdict": "支持",
+            "evidence": "8、12"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "claims": [
+          {
+            "claim": "介绍将解释惯性概念",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "claims": [
+          {
+            "claim": "惯性不是力",
+            "verdict": "支持",
+            "evidence": "1"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "claims": [
+          {
+            "claim": "规范说法是由于惯性而非受到惯性作用",
+            "verdict": "支持",
+            "evidence": "1"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "claims": [
+          {
+            "claim": "惯性是物体自带属性",
+            "verdict": "支持",
+            "evidence": "1"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "claims": [
+          {
+            "claim": "公交车刹车时人向前倾",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "claims": [
+          {
+            "claim": "公交车启动时人向后仰",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "claims": [
+          {
+            "claim": "上述现象是惯性",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "claims": [
+          {
+            "claim": "无外力时物体保持静止或匀速直线运动，此倾向称惯性",
+            "verdict": "支持",
+            "evidence": "3"
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "claims": [
+          {
+            "claim": "询问惯性大小的决定因素",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "claims": [
+          {
+            "claim": "惯性大小只与质量有关",
+            "verdict": "支持",
+            "evidence": "4"
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "claims": [
+          {
+            "claim": "质量越大越难改变运动状态",
+            "verdict": "支持",
+            "evidence": "4"
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "claims": [
+          {
+            "claim": "F=ma且质量衡量惯性大小",
+            "verdict": "支持",
+            "evidence": "4"
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "claims": [
+          {
+            "claim": "评价牛顿在此处偷懒",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "claims": [
+          {
+            "claim": "牛顿未解释惯性来源和质量关系，只总结定律",
+            "verdict": "支持",
+            "evidence": "5"
+          }
+        ]
+      },
+      {
+        "index": 16,
+        "claims": [
+          {
+            "claim": "牛顿力学在宏观低速及火箭登月探测中成功",
+            "verdict": "支持",
+            "evidence": "5"
+          }
+        ]
+      },
+      {
+        "index": 17,
+        "claims": [
+          {
+            "claim": "牛顿体系把惯性作为公理而未从基础理论推导",
+            "verdict": "支持",
+            "evidence": "5"
+          }
+        ]
+      },
+      {
+        "index": 18,
+        "claims": [
+          {
+            "claim": "将此比作地基未打就盖楼",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 19,
+        "claims": [
+          {
+            "claim": "马赫在十九世纪末提出相关观点",
+            "verdict": "支持",
+            "evidence": "6"
+          }
+        ]
+      },
+      {
+        "index": 20,
+        "claims": [
+          {
+            "claim": "水桶旋转时水面中间低边缘高",
+            "verdict": "支持",
+            "evidence": "7"
+          }
+        ]
+      },
+      {
+        "index": 21,
+        "claims": [
+          {
+            "claim": "牛顿以水相对绝对空间旋转解释水面形状",
+            "verdict": "支持",
+            "evidence": "7"
+          }
+        ]
+      },
+      {
+        "index": 22,
+        "claims": [
+          {
+            "claim": "马赫认为仅剩一桶水时旋转无差别、水面应平",
+            "verdict": "支持",
+            "evidence": "7"
+          }
+        ]
+      },
+      {
+        "index": 23,
+        "claims": [
+          {
+            "claim": "水面变形因宇宙其他物质影响水分子",
+            "verdict": "支持",
+            "evidence": "7"
+          }
+        ]
+      },
+      {
+        "index": 24,
+        "claims": [
+          {
+            "claim": "马赫认为惯性来自物体与宇宙相互作用",
+            "verdict": "支持",
+            "evidence": "6"
+          }
+        ]
+      },
+      {
+        "index": 25,
+        "claims": [
+          {
+            "claim": "上述观点称马赫原理",
+            "verdict": "支持",
+            "evidence": "6"
+          }
+        ]
+      },
+      {
+        "index": 26,
+        "claims": [
+          {
+            "claim": "马赫未给精确数学形式",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 27,
+        "claims": [
+          {
+            "claim": "爱因斯坦受马赫启发并曾认为广义相对论体现马赫原理",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 28,
+        "claims": [
+          {
+            "claim": "广义相对论允许空旷宇宙仍有惯性参考系",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 29,
+        "claims": [
+          {
+            "claim": "爱因斯坦晚年对此失望但未放弃",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 30,
+        "claims": [
+          {
+            "claim": "广义相对论把引力与惯性统一到时空几何并以测地线描述惯性",
+            "verdict": "支持",
+            "evidence": "12"
+          }
+        ]
+      },
+      {
+        "index": 31,
+        "claims": [
+          {
+            "claim": "惯性来源问题转化为时空几何问题且仍开放",
+            "verdict": "支持",
+            "evidence": "12"
+          }
+        ]
+      },
+      {
+        "index": 32,
+        "claims": [
+          {
+            "claim": "1964年希格斯等人提出希格斯机制",
+            "verdict": "支持",
+            "evidence": "13"
+          }
+        ]
+      },
+      {
+        "index": 33,
+        "claims": [
+          {
+            "claim": "粒子与希格斯场耦合并且耦合越强质量越大",
+            "verdict": "支持",
+            "evidence": "13"
+          }
+        ]
+      },
+      {
+        "index": 34,
+        "claims": [
+          {
+            "claim": "顶夸克质量约为质子170多倍",
+            "verdict": "支持",
+            "evidence": "13"
+          }
+        ]
+      },
+      {
+        "index": 35,
+        "claims": [
+          {
+            "claim": "中微子耦合弱且质量极小",
+            "verdict": "支持",
+            "evidence": "13"
+          }
+        ]
+      },
+      {
+        "index": 36,
+        "claims": [
+          {
+            "claim": "2012年CERN发现希格斯玻色子，希格斯2013年获诺奖",
+            "verdict": "支持",
+            "evidence": "14"
+          }
+        ]
+      },
+      {
+        "index": 37,
+        "claims": [
+          {
+            "claim": "质子质量938MeV，希格斯贡献约10MeV且不到2%，其余98%以上来自强相互作用动态能量",
+            "verdict": "支持",
+            "evidence": "15"
+          }
+        ]
+      },
+      {
+        "index": 38,
+        "claims": [
+          {
+            "claim": "希格斯机制未解释惯性大小为何与质量成正比",
+            "verdict": "支持",
+            "evidence": "16"
+          }
+        ]
+      },
+      {
+        "index": 39,
+        "claims": [
+          {
+            "claim": "有人提出惯性可能来自量子真空涨落",
+            "verdict": "支持",
+            "evidence": "17"
+          }
+        ]
+      },
+      {
+        "index": 40,
+        "claims": [
+          {
+            "claim": "量子真空中粒子反粒子对持续产生湮灭",
+            "verdict": "支持",
+            "evidence": "17"
+          }
+        ]
+      },
+      {
+        "index": 41,
+        "claims": [
+          {
+            "claim": "Puthoff等人认为惯性源自物体与量子真空涨落相互作用",
+            "verdict": "支持",
+            "evidence": "17"
+          }
+        ]
+      },
+      {
+        "index": 42,
+        "claims": [
+          {
+            "claim": "该假说有争议、未被主流接受但未被完全排除",
+            "verdict": "支持",
+            "evidence": "17"
+          }
+        ]
+      },
+      {
+        "index": 43,
+        "claims": [
+          {
+            "claim": "该假说与马赫原理都认为惯性与宇宙环境互动有关",
+            "verdict": "支持",
+            "evidence": "17"
+          }
+        ]
+      },
+      {
+        "index": 44,
+        "claims": [
+          {
+            "claim": "询问惯性来源",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 45,
+        "claims": [
+          {
+            "claim": "概述牛顿公理、相对论几何、希格斯质量来源及量子真空假说争议",
+            "verdict": "支持",
+            "evidence": "5、12、13、17、18"
+          }
+        ]
+      },
+      {
+        "index": 46,
+        "claims": [
+          {
+            "claim": "惯性终极来源仍无答案",
+            "verdict": "支持",
+            "evidence": "18"
+          }
+        ]
+      },
+      {
+        "index": 47,
+        "claims": [
+          {
+            "claim": "询问未来惯性问题的解决方向",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 48,
+        "claims": [
+          {
+            "claim": "询问时空几何、量子场论或其他方向",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 49,
+        "claims": [
+          {
+            "claim": "邀请评论并预告下期",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      }
+    ],
+    "verdict_counts": {
+      "支持": 44,
+      "无支撑": 0,
+      "矛盾": 0,
+      "非判词": 8
+    },
+    "support_rate": 1.0
+  },
+  "q2": {
+    "items": [
+      {
+        "index": 1,
+        "verdict": "弱匹配",
+        "why": "片段对应爱因斯坦受马赫启发及广义相对论，但未覆盖牛顿公理和结论部分。"
+      },
+      {
+        "index": 16,
+        "verdict": "匹配",
+        "why": "片段直接对应牛顿力学在太阳系探测中的成功及惯性公理未推导。"
+      },
+      {
+        "index": 30,
+        "verdict": "匹配",
+        "why": "片段明确对应测地线与惯性关系，以及相对论中惯性和引力的联系。"
+      }
+    ],
+    "verdict_counts": {
+      "匹配": 2,
+      "弱匹配": 1,
+      "错位": 0
+    },
+    "sentence_total": 50,
+    "headline_q2": 0.05
+  },
+  "q4": {
+    "titles": [
+      {
+        "platform": "B站",
+        "information": 4,
+        "accuracy": 4,
+        "appeal": 4,
+        "why": "覆盖概念、经典理论和历史挑战，信息较多，但‘百年’和牛顿锅的说法有标题化简化。"
+      },
+      {
+        "platform": "西瓜视频/抖音（中视频伙伴计划）",
+        "information": 4,
+        "accuracy": 3,
+        "appeal": 5,
+        "why": "提出惯性谜题且有冲突感，但称‘真相’及百年无解略绝对。"
+      },
+      {
+        "platform": "微信视频号",
+        "information": 2,
+        "accuracy": 5,
+        "appeal": 3,
+        "why": "概念准确简洁，但未体现惯性来源这一核心悬念。"
+      }
+    ]
+  },
+  "q5": {
+    "flow": 4,
+    "density": 5,
+    "fact_boundary": 3,
+    "why": "从日常现象循序展开到经典与现代理论，内容密集，但‘偷懒’等评价及部分压缩表述略显绝对。"
+  },
+  "n_sentences": 50
+}

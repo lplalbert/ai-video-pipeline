@@ -1,0 +1,411 @@
+{
+  "sid": "63279019984d",
+  "judge": "gpt",
+  "judge_model": "external:gpt",
+  "ts": "2026-11-08T13:12:33",
+  "source": "manual_packet",
+  "q1": {
+    "items": [
+      {
+        "index": 0,
+        "claims": [
+          {
+            "claim": "第三局KC扳回；第四局妮蔻女枪低出场率压制KC",
+            "verdict": "支持",
+            "evidence": "12;13"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "claims": [
+          {
+            "claim": "四局拆胜负手",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "claims": [
+          {
+            "claim": "引出第一局",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "claims": [
+          {
+            "claim": "KC禁发条、T1选辛德拉，BP定调",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "claims": [
+          {
+            "claim": "KC阵容中期发力，T1两件套后领先且KC窗口短",
+            "verdict": "支持",
+            "evidence": "11"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "claims": [
+          {
+            "claim": "T1靠容错拖后并小龙团胜拿首分",
+            "verdict": "支持",
+            "evidence": "5;6"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "claims": [
+          {
+            "claim": "KC全押中期、未打穿等于自爆",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "claims": [
+          {
+            "claim": "设问执行或BP失败",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "claims": [
+          {
+            "claim": "引出Yike盲僧",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "claims": [
+          {
+            "claim": "标题观点称全场零节奏",
+            "verdict": "支持",
+            "evidence": "7"
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "claims": [
+          {
+            "claim": "复看认同，盲僧前期不出节奏即超级兵",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "claims": [
+          {
+            "claim": "KC需Yike带中野，未做到导致窗口关闭",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "claims": [
+          {
+            "claim": "Yike该背锅",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "claims": [
+          {
+            "claim": "第三局KC后期稳定阵容扳分",
+            "verdict": "支持",
+            "evidence": "12"
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "claims": [
+          {
+            "claim": "MSI T1 3-0胜KC，EWC KC 2-1胜T1",
+            "verdict": "支持",
+            "evidence": "9;10"
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "claims": [
+          {
+            "claim": "第三局证明KC有能力击败T1",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 16,
+        "claims": [
+          {
+            "claim": "KC拖后稳定，暴露其天花板及中期无力",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 17,
+        "claims": [
+          {
+            "claim": "引出第四局胜负手",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 18,
+        "claims": [
+          {
+            "claim": "妮蔻女枪低出场率且冷门",
+            "verdict": "支持",
+            "evidence": "13"
+          }
+        ]
+      },
+      {
+        "index": 19,
+        "claims": [
+          {
+            "claim": "对线压制积累经济，反手团拉开差距",
+            "verdict": "支持",
+            "evidence": "13;14"
+          }
+        ]
+      },
+      {
+        "index": 20,
+        "claims": [
+          {
+            "claim": "拆两路推平基地3-1",
+            "verdict": "支持",
+            "evidence": "15"
+          }
+        ]
+      },
+      {
+        "index": 21,
+        "claims": [
+          {
+            "claim": "选冷门组合体现BP底气和英雄池深",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 22,
+        "claims": [
+          {
+            "claim": "KC输在缺少敢选资本而非操作",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 23,
+        "claims": [
+          {
+            "claim": "引出走向",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 24,
+        "claims": [
+          {
+            "claim": "解说称第11次四强、类比S7、半决赛BLG对T1及Faker对Bin",
+            "verdict": "支持",
+            "evidence": "3;4"
+          }
+        ]
+      },
+      {
+        "index": 25,
+        "claims": [
+          {
+            "claim": "T1最大信号是BP深度兑现",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 26,
+        "claims": [
+          {
+            "claim": "询问对LPL是否有效",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 27,
+        "claims": [
+          {
+            "claim": "LPL下路强于KC且不会被妮蔻女枪压穿",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 28,
+        "claims": [
+          {
+            "claim": "四局复盘结束",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 29,
+        "claims": [
+          {
+            "claim": "询问组合评价",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 30,
+        "claims": [
+          {
+            "claim": "询问Yike责任",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 31,
+        "claims": [
+          {
+            "claim": "评论互动",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 32,
+        "claims": [
+          {
+            "claim": "预测Faker-Bin对位为最大变数",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 33,
+        "claims": [
+          {
+            "claim": "关注预告",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      }
+    ],
+    "verdict_counts": {
+      "支持": 11,
+      "无支撑": 11,
+      "矛盾": 0,
+      "非判词": 12
+    },
+    "support_rate": 0.5
+  },
+  "q2": {
+    "items": [
+      {
+        "index": 5,
+        "verdict": "弱匹配",
+        "why": "片段是第一局团战片段，未能完整确认阵容容错与获胜总结。"
+      },
+      {
+        "index": 20,
+        "verdict": "错位",
+        "why": "片段为后续赛事宣传开场，非第四局拆塔推平画面。"
+      }
+    ],
+    "verdict_counts": {
+      "匹配": 0,
+      "弱匹配": 1,
+      "错位": 1
+    },
+    "sentence_total": 34,
+    "headline_q2": 0.015
+  },
+  "q4": {
+    "titles": [
+      {
+        "platform": "B站",
+        "information": 5,
+        "accuracy": 3,
+        "appeal": 5,
+        "why": "跨局阵容看点充分，但BP底气和版本实力属于较大推断。"
+      },
+      {
+        "platform": "西瓜视频/抖音（中视频伙伴计划）",
+        "information": 4,
+        "accuracy": 4,
+        "appeal": 4,
+        "why": "突出第四局组合有看点，但底气评价略推断。"
+      },
+      {
+        "platform": "微信视频号",
+        "information": 3,
+        "accuracy": 3,
+        "appeal": 4,
+        "why": "组合钩子吸引，但标题简略且定生死略夸张。"
+      }
+    ]
+  },
+  "q5": {
+    "flow": 4,
+    "density": 4,
+    "fact_boundary": 1,
+    "why": "分局推进清楚，但对阵容意图、BP深度和选手责任及半决赛强弱作出大量未支持推断。"
+  },
+  "n_sentences": 34
+}

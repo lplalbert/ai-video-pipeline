@@ -1,0 +1,441 @@
+{
+  "sid": "beb1a6ccbdde",
+  "judge": "deepseek",
+  "judge_model": "external:deepseek",
+  "ts": "2026-11-08T13:27:59",
+  "source": "api",
+  "q1": {
+    "items": [
+      {
+        "index": 0,
+        "claims": [
+          {
+            "claim": "最该加固的地方（要害部位）偏偏没有弹孔",
+            "verdict": "支持",
+            "evidence": "底座2"
+          },
+          {
+            "claim": "二战美军统计学家瓦尔德",
+            "verdict": "支持",
+            "evidence": "底座2；底座3"
+          },
+          {
+            "claim": "瓦尔德差点被军方当疯子的判断",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "claims": [
+          {
+            "claim": "一九四几年，美军统计返航轰炸机的弹孔分布，机翼和机身密密麻麻",
+            "verdict": "支持",
+            "evidence": "底座2"
+          },
+          {
+            "claim": "军方第一反应给弹孔多的地方加装甲",
+            "verdict": "支持",
+            "evidence": "底座2"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "claims": [
+          {
+            "claim": "这就是本能，哪儿破补哪儿",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "claims": [
+          {
+            "claim": "瓦尔德是哥伦比亚大学统计研究小组的成员",
+            "verdict": "支持",
+            "evidence": "底座3"
+          },
+          {
+            "claim": "瓦尔德站出来说反了，反对给弹孔多处加装甲",
+            "verdict": "支持",
+            "evidence": "底座2"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "claims": [
+          {
+            "claim": "真正该加固的是弹孔少的要害部位，引擎、驾驶舱、油箱这一带",
+            "verdict": "支持",
+            "evidence": "底座2"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "claims": [
+          {
+            "claim": "为什么？",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "claims": [
+          {
+            "claim": "飞回来的全是幸存者",
+            "verdict": "支持",
+            "evidence": "底座2"
+          },
+          {
+            "claim": "要害中弹的飞机早就掉海里了，根本不在统计表里",
+            "verdict": "支持",
+            "evidence": "底座2"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "claims": [
+          {
+            "claim": "军方看到的弹孔分布不含已坠毁死亡者，死亡者未进入统计",
+            "verdict": "支持",
+            "evidence": "底座2"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "claims": [
+          {
+            "claim": "瓦尔德救的飞行员比任何王牌飞行员都多",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "claims": [
+          {
+            "claim": "一九九六年，有位统计学家提出香烟炸弹思想实验：香烟完全无害，每18250包有一根点燃就炸的炸弹",
+            "verdict": "支持",
+            "evidence": "底座4"
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "claims": [
+          {
+            "claim": "爆炸新闻一报，全民戒烟",
+            "verdict": "支持",
+            "evidence": "底座4"
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "claims": [
+          {
+            "claim": "视频称全球每秒约22.3万支香烟被点燃，平均每4秒有一人因吸烟死亡",
+            "verdict": "支持",
+            "evidence": "底座5"
+          },
+          {
+            "claim": "这些死亡安静地发生在病床上，不爆炸，不上头条",
+            "verdict": "支持",
+            "evidence": "底座4"
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "claims": [
+          {
+            "claim": "恐惧系统只对爆炸敏感，对缓慢确定的死亡完全免疫",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "claims": [
+          {
+            "claim": "是新闻在塑造风险，还是风险本身在塑造新闻？",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "claims": [
+          {
+            "claim": "这问题想想就脊背发凉",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "claims": [
+          {
+            "claim": "每一位著名出版作家背后，站着大约100万个沉默的失败者",
+            "verdict": "支持",
+            "evidence": "底座6"
+          }
+        ]
+      },
+      {
+        "index": 16,
+        "claims": [
+          {
+            "claim": "失败者手稿石沉大海，书出了卖不动，连出版社的门都没摸到",
+            "verdict": "支持",
+            "evidence": "底座6"
+          }
+        ]
+      },
+      {
+        "index": 17,
+        "claims": [
+          {
+            "claim": "马云、刘强东、雷军退学创业神话是幸存样本",
+            "verdict": "支持",
+            "evidence": "底座7"
+          }
+        ]
+      },
+      {
+        "index": 18,
+        "claims": [
+          {
+            "claim": "没刷到的，是退学后进厂打螺丝的那批人",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 19,
+        "claims": [
+          {
+            "claim": "生活段子列举：抽烟喝酒活到99的老人、小学毕业当老板、老风扇三十年不坏",
+            "verdict": "支持",
+            "evidence": "底座7"
+          },
+          {
+            "claim": "全是幸存者在说话",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 20,
+        "claims": [
+          {
+            "claim": "大脑天生厌恶不确定性，把运气带来的成功硬归因成能力，算法把极端案例推到你脸上放大焦虑",
+            "verdict": "支持",
+            "evidence": "底座8"
+          }
+        ]
+      },
+      {
+        "index": 21,
+        "claims": [
+          {
+            "claim": "是能力决定成败，还是幸存者决定你看到什么？",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 22,
+        "claims": [
+          {
+            "claim": "那怎么办？",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 23,
+        "claims": [
+          {
+            "claim": "不是让你躺平，是让你换一套看数据的方法",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 24,
+        "claims": [
+          {
+            "claim": "主动去找沉默的证据，用概率思维替代直觉，逆向推理分清因果",
+            "verdict": "支持",
+            "evidence": "底座8"
+          }
+        ]
+      },
+      {
+        "index": 25,
+        "claims": [
+          {
+            "claim": "他们为什么没出现在我的信息流里？",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 26,
+        "claims": [
+          {
+            "claim": "幸存者偏差不会消失，它长在人性里",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 27,
+        "claims": [
+          {
+            "claim": "但你能决定自己盯着弹孔看，还是盯着那些没回来的飞机看",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 28,
+        "claims": [
+          {
+            "claim": "评论区说说：你身边有没有幸存者段子或差点信了的成功学故事",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 29,
+        "claims": [
+          {
+            "claim": "点名一个，我看看有多少人中过招",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      }
+    ],
+    "verdict_counts": {
+      "支持": 20,
+      "无支撑": 2,
+      "矛盾": 0,
+      "非判词": 15
+    },
+    "support_rate": 0.909
+  },
+  "q2": {
+    "items": [
+      {
+        "index": 0,
+        "verdict": "弱匹配",
+        "why": "片段讲二战美军统计返航轰炸机弹孔分布、机翼机身弹孔多，与解说句背景一致，但未出现瓦尔德和最该加固处没弹孔的核心判断，细节无法确认。"
+      },
+      {
+        "index": 4,
+        "verdict": "匹配",
+        "why": "片段明确说真正该加固的是弹孔最少的驾驶舱和油箱，与解说句核心机制一致，仅引擎未在片段出现但属同一要害部位。"
+      },
+      {
+        "index": 11,
+        "verdict": "匹配",
+        "why": "片段给出相同的吸烟统计数字（22.3万支/秒、每4秒一人死亡），与解说句完全对应。"
+      },
+      {
+        "index": 15,
+        "verdict": "匹配",
+        "why": "片段描述著名出版作家背后有大量卖不出去书、找不到出版社的失败者，与解说句“一百万个沉默的失败者”为同一现象，仅具体倍数未在片段中显示。"
+      },
+      {
+        "index": 17,
+        "verdict": "匹配",
+        "why": "片段明确提到马云、刘强东、雷军退学借钱，并说“你看到的只是”，与解说句“退学创业神话是幸存样本”一致。"
+      },
+      {
+        "index": 24,
+        "verdict": "匹配",
+        "why": "片段包含主动寻找沉默证据、用概率思维替代直觉等建议，与解说句应对方法一致。"
+      }
+    ],
+    "verdict_counts": {
+      "匹配": 5,
+      "弱匹配": 1,
+      "错位": 0
+    },
+    "sentence_total": 30,
+    "headline_q2": 0.183
+  },
+  "q4": {
+    "titles": [
+      {
+        "platform": "B站",
+        "information": 5,
+        "accuracy": 4,
+        "appeal": 5,
+        "why": "信息量足，核心案例、人物、反直觉结论都有；“救的飞行员比王牌还多”略夸张但文中提及，整体准确度高；悬念强。"
+      },
+      {
+        "platform": "西瓜视频/抖音（中视频伙伴计划）",
+        "information": 4,
+        "accuracy": 5,
+        "appeal": 4,
+        "why": "点出“弹孔与沉默的尸体”及核心反转，信息量中等；与内容完全一致；短小有悬念但背景略抽象。"
+      },
+      {
+        "platform": "微信视频号",
+        "information": 2,
+        "accuracy": 3,
+        "appeal": 4,
+        "why": "只提香烟炸弹，信息量偏窄，易让人以为视频主题是炸弹谜题；与内容局部相符但未涵盖核心案例；悬念感强。"
+      }
+    ]
+  },
+  "q5": {
+    "flow": 4,
+    "density": 4,
+    "fact_boundary": 4,
+    "why": "文本分节清晰，从案例到思想实验到生活例证再到建议，节奏流畅；信息密度适中，无明显注水；事实边界总体克制，标注“视频称”“视频里还给了”等来源，但个别效果断言（瓦尔德救的飞行员比王牌多）缺少底座支撑。"
+  },
+  "n_sentences": 30,
+  "api_model": "deepseek-v4-pro",
+  "api_usage": {
+    "prompt_tokens": 4200,
+    "completion_tokens": 11679,
+    "total_tokens": 15879,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 9224
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 4200
+  },
+  "elapsed_s": 114.4
+}

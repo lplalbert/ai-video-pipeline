@@ -1,0 +1,506 @@
+{
+  "sid": "591872f7b43a",
+  "judge": "deepseek",
+  "judge_model": "external:deepseek",
+  "ts": "2026-11-08T10:34:19",
+  "source": "api",
+  "q1": {
+    "items": [
+      {
+        "index": 0,
+        "claims": [
+          {
+            "claim": "IG赛后采访与队内语音刷屏",
+            "verdict": "支持",
+            "evidence": "1"
+          },
+          {
+            "claim": "Rookie有泪目发言",
+            "verdict": "支持",
+            "evidence": "1"
+          },
+          {
+            "claim": "Wei自曝第二局猴子送了两三波",
+            "verdict": "支持",
+            "evidence": "4"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "claims": [
+          {
+            "claim": "IG赢了四强",
+            "verdict": "支持",
+            "evidence": "1"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "claims": [
+          {
+            "claim": "无明显可证伪事实断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "claims": [
+          {
+            "claim": "主持人问Wei连续拿一血",
+            "verdict": "支持",
+            "evidence": "2"
+          },
+          {
+            "claim": "Wei说训练赛的东西带进比赛、前期找机会能力强",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "claims": [
+          {
+            "claim": "IG前期节奏不是灵光一现，是练出来的",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "claims": [
+          {
+            "claim": "Wei说第二局猴子打团送了两三波，第三局才把心态调好",
+            "verdict": "支持",
+            "evidence": "4"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "claims": [
+          {
+            "claim": "无明显可证伪事实断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "claims": [
+          {
+            "claim": "无明显可证伪事实断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "claims": [
+          {
+            "claim": "Wei复盘第一局蓝BUFF区三打五",
+            "verdict": "支持",
+            "evidence": "3"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "claims": [
+          {
+            "claim": "对方先交多个大招击杀辛德拉",
+            "verdict": "支持",
+            "evidence": "3"
+          },
+          {
+            "claim": "自己位置不利难拉扯",
+            "verdict": "支持",
+            "evidence": "3"
+          },
+          {
+            "claim": "IG等对面技能交完再找机会，小技能沟通到位才打赢",
+            "verdict": "支持",
+            "evidence": "3"
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "claims": [
+          {
+            "claim": "这波顺序是先扛后等再反打",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "claims": [
+          {
+            "claim": "无明显可证伪事实断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "claims": [
+          {
+            "claim": "无明显可证伪事实断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "claims": [
+          {
+            "claim": "无明显可证伪事实断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "claims": [
+          {
+            "claim": "TheShy有英文流采访",
+            "verdict": "支持",
+            "evidence": "1"
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "claims": [
+          {
+            "claim": "暂停时新人jiaqi很紧张，TheShy以哥哥身份安慰他",
+            "verdict": "支持",
+            "evidence": "6"
+          }
+        ]
+      },
+      {
+        "index": 16,
+        "claims": [
+          {
+            "claim": "TheShy自评薇恩那把是自己的失误、非常愧疚",
+            "verdict": "支持",
+            "evidence": "6"
+          }
+        ]
+      },
+      {
+        "index": 17,
+        "claims": [
+          {
+            "claim": "无明显可证伪事实断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 18,
+        "claims": [
+          {
+            "claim": "TheShy说今年长时间休息后回归、心态努力带队",
+            "verdict": "支持",
+            "evidence": "7"
+          },
+          {
+            "claim": "TheShy称队伍需要他玩什么就玩什么、IG制胜计划围绕打野和下路",
+            "verdict": "支持",
+            "evidence": "7"
+          }
+        ]
+      },
+      {
+        "index": 19,
+        "claims": [
+          {
+            "claim": "无明显可证伪事实断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 20,
+        "claims": [
+          {
+            "claim": "无明显可证伪事实断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 21,
+        "claims": [
+          {
+            "claim": "主持人说Rookie 2019年后再次闯进全球总决赛四强",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 22,
+        "claims": [
+          {
+            "claim": "Rookie说历届世界赛非十六强即四强或冠军，先打好四强有机会争冠，2018年亲手捧杯，如今心态决心更强烈",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "Rookie对粉丝喊话「IG又回来了」",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 23,
+        "claims": [
+          {
+            "claim": "阿水赛后采访被自媒体转引",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "阿水说IG现在实力很强、最有希望夺冠并祝福老东家",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 24,
+        "claims": [
+          {
+            "claim": "一个TES选手（JKL）公开说IG最有希望夺冠",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 25,
+        "claims": [
+          {
+            "claim": "无明显可证伪事实断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 26,
+        "claims": [
+          {
+            "claim": "队内语音中Wei开场感叹和jiaqi互动，标题口径「我和嘉琪现在很可怕」",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 27,
+        "claims": [
+          {
+            "claim": "Meiko指挥「拆塔、点塔、一波」",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 28,
+        "claims": [
+          {
+            "claim": "无明显可证伪事实断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 29,
+        "claims": [
+          {
+            "claim": "Wei在采访中自曝送人头",
+            "verdict": "支持",
+            "evidence": "4"
+          },
+          {
+            "claim": "Meiko在语音中直接喊一波",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 30,
+        "claims": [
+          {
+            "claim": "无明显可证伪事实断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 31,
+        "claims": [
+          {
+            "claim": "无明显可证伪事实断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 32,
+        "claims": [
+          {
+            "claim": "无明显可证伪事实断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 33,
+        "claims": [
+          {
+            "claim": "无明显可证伪事实断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 34,
+        "claims": [
+          {
+            "claim": "无明显可证伪事实断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 35,
+        "claims": [
+          {
+            "claim": "无明显可证伪事实断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      }
+    ],
+    "verdict_counts": {
+      "支持": 26,
+      "无支撑": 2,
+      "矛盾": 0,
+      "非判词": 17
+    },
+    "support_rate": 0.929
+  },
+  "q2": {
+    "items": [
+      {
+        "index": 0,
+        "verdict": "匹配",
+        "why": "片段为Wei原话，明确提到第二局猴子送了两三波，与解说句同一事件"
+      },
+      {
+        "index": 8,
+        "verdict": "匹配",
+        "why": "片段为主持人提第一局蓝BUFF区三打五，与解说句对应采访复盘"
+      },
+      {
+        "index": 14,
+        "verdict": "匹配",
+        "why": "片段为TheShy英文流采访现场，主体与时点一致"
+      },
+      {
+        "index": 21,
+        "verdict": "匹配",
+        "why": "片段为主持人恭喜Rookie自2019年重返世界赛，与解说句一致"
+      },
+      {
+        "index": 27,
+        "verdict": "错位",
+        "why": "片段为英文采访提问内容，与Meiko队内语音指挥不是同一素材/事件"
+      }
+    ],
+    "verdict_counts": {
+      "匹配": 4,
+      "弱匹配": 0,
+      "错位": 1
+    },
+    "sentence_total": 36,
+    "headline_q2": 0.111
+  },
+  "q4": {
+    "titles": [
+      {
+        "platform": "B站",
+        "information": 5,
+        "accuracy": 5,
+        "appeal": 5,
+        "why": "包含赛事结果、核心看点和具体爆点，与内容一致且吸睛"
+      },
+      {
+        "platform": "西瓜视频/抖音（中视频伙伴计划）",
+        "information": 3,
+        "accuracy": 4,
+        "appeal": 3,
+        "why": "点出Wei自曝和IG赛后采访，但缺少具体细节，吸引力中等"
+      },
+      {
+        "platform": "微信视频号",
+        "information": 2,
+        "accuracy": 3,
+        "appeal": 2,
+        "why": "只保留最核心短句，信息过少，需结合账号语境才有效"
+      }
+    ]
+  },
+  "q5": {
+    "flow": 4,
+    "density": 4,
+    "fact_boundary": 3,
+    "why": "结构清晰、有干货，但主观推断与互动引导较多，个别延伸判断未标明依据"
+  },
+  "n_sentences": 36,
+  "api_model": "deepseek-v4-pro",
+  "api_usage": {
+    "prompt_tokens": 4862,
+    "completion_tokens": 12939,
+    "total_tokens": 17801,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 10432
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 4862
+  },
+  "elapsed_s": 115.0
+}

@@ -1,0 +1,680 @@
+{
+  "sid": "ce0f32d83b0a",
+  "judge": "pro",
+  "judge_model": "mimo-v2.6-pro",
+  "ts": "2026-11-08T20:33:01",
+  "n_sentences": 48,
+  "q1": {
+    "items": [
+      {
+        "index": 0,
+        "claims": [
+          {
+            "claim": "IG 三个人打五个还打赢了",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "IG 用一场约三十分钟、39 个人头的对攻",
+            "verdict": "支持",
+            "evidence": "4"
+          },
+          {
+            "claim": "把老 IG 的看家绝活给打回来了",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "claims": [
+          {
+            "claim": "15 分 23 秒发生一波团战",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "claims": [
+          {
+            "claim": "Meiko 泰坦出钩",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "配合 Wei 先攻偷钱",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "Rookie 被控住直接阵亡",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "claims": [
+          {
+            "claim": "该波团战是四打五，对手是 TES",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "claims": [
+          {
+            "claim": "换谁谁不跑",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "claims": [
+          {
+            "claim": "IG 没有撤退",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "claims": [
+          {
+            "claim": "IG 莽夫三人组反打",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "打出二换五",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "claims": [
+          {
+            "claim": "解说当场喊「老 IG 的看家绝活复活了」「人越少伤害越高」",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "claims": [
+          {
+            "claim": "IG 算准了 TES 技能真空期",
+            "verdict": "无支撑",
+            "evidence": "无"
+          },
+          {
+            "claim": "这不是上头",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "claims": [
+          {
+            "claim": "Rookie 吃了一整套控制",
+            "verdict": "无支撑",
+            "evidence": "无"
+          },
+          {
+            "claim": "TES 该交的技能全交了",
+            "verdict": "无支撑",
+            "evidence": "无"
+          },
+          {
+            "claim": "剩下三个人的输出灌死对面",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "claims": [
+          {
+            "claim": "这波打完 IG 心态就稳了",
+            "verdict": "非判词",
+            "evidence": "无"
+          },
+          {
+            "claim": "敢打是因为敢算",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "claims": [
+          {
+            "claim": "22 分 30 秒听牌龙团前，JackeyLove 远程技能连中把 IG 众人打残",
+            "verdict": "支持",
+            "evidence": "11"
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "claims": [
+          {
+            "claim": "看着 TES 要翻",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "claims": [
+          {
+            "claim": "Rookie 站出来了",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "claims": [
+          {
+            "claim": "Rookie 极限推球推晕 369，集火带走",
+            "verdict": "支持",
+            "evidence": "11"
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "claims": [
+          {
+            "claim": "解说惊叹「这球推得确实有两下」",
+            "verdict": "支持",
+            "evidence": "11"
+          },
+          {
+            "claim": "解说惊叹「一百层的辛德拉」",
+            "verdict": "支持",
+            "evidence": "11"
+          }
+        ]
+      },
+      {
+        "index": 16,
+        "claims": [
+          {
+            "claim": "这局IG能赢，Rookie的辛德拉是胜负手",
+            "verdict": "非判词",
+            "evidence": "无"
+          },
+          {
+            "claim": "Rookie使用辛德拉",
+            "verdict": "支持",
+            "evidence": "11"
+          }
+        ]
+      },
+      {
+        "index": 17,
+        "claims": [
+          {
+            "claim": "他不是那种刷伤害的中单，他是在关键节点用一个推球改变团战走向的人",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 18,
+        "claims": [
+          {
+            "claim": "23分16秒大龙区拉扯，Rookie蹲草推人，IG输出没跟上",
+            "verdict": "支持",
+            "evidence": "12"
+          },
+          {
+            "claim": "Rookie又极限推球打出关键闪现",
+            "verdict": "支持",
+            "evidence": "12"
+          }
+        ]
+      },
+      {
+        "index": 19,
+        "claims": [
+          {
+            "claim": "一次是运气，两次三次，就是实力",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 20,
+        "claims": [
+          {
+            "claim": "再看Wei",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 21,
+        "claims": [
+          {
+            "claim": "3分07秒Wei抓中逼出闪现",
+            "verdict": "支持",
+            "evidence": "5"
+          },
+          {
+            "claim": "13分01秒Wei抓下击杀JackeyLove",
+            "verdict": "支持",
+            "evidence": "7"
+          },
+          {
+            "claim": "后面Wei配合Meiko击杀Tian",
+            "verdict": "支持",
+            "evidence": "9"
+          },
+          {
+            "claim": "仅14秒后中路越塔抓死TES下路二人组",
+            "verdict": "支持",
+            "evidence": "9"
+          }
+        ]
+      },
+      {
+        "index": 22,
+        "claims": [
+          {
+            "claim": "这节奏紧得TES喘不过气",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 23,
+        "claims": [
+          {
+            "claim": "30分09秒终局团，Wei绕后闪现开团，推到四个人",
+            "verdict": "支持",
+            "evidence": "15"
+          },
+          {
+            "claim": "解说直接喊完美推",
+            "verdict": "支持",
+            "evidence": "15"
+          }
+        ]
+      },
+      {
+        "index": 24,
+        "claims": [
+          {
+            "claim": "IG一波结束第一局",
+            "verdict": "支持",
+            "evidence": "15"
+          },
+          {
+            "claim": "第一局于30分57秒结束",
+            "verdict": "支持",
+            "evidence": "3"
+          }
+        ]
+      },
+      {
+        "index": 25,
+        "claims": [
+          {
+            "claim": "Wei这局的节奏感是IG这支队的呼吸",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 26,
+        "claims": [
+          {
+            "claim": "他敢开，队友就敢跟",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 27,
+        "claims": [
+          {
+            "claim": "他开得准，团战就赢",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 28,
+        "claims": [
+          {
+            "claim": "反观TES，问题在哪",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 29,
+        "claims": [
+          {
+            "claim": "中路团战jiaqi拿到三杀",
+            "verdict": "支持",
+            "evidence": "10"
+          },
+          {
+            "claim": "jiaqi对位经济领先约两千六百",
+            "verdict": "支持",
+            "evidence": "10"
+          }
+        ]
+      },
+      {
+        "index": 30,
+        "claims": [
+          {
+            "claim": "蛇女战绩为5-1",
+            "verdict": "支持",
+            "evidence": "10"
+          },
+          {
+            "claim": "除蛇女外TES全面落后",
+            "verdict": "支持",
+            "evidence": "10"
+          }
+        ]
+      },
+      {
+        "index": 31,
+        "claims": [
+          {
+            "claim": "这是什么概念",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 32,
+        "claims": [
+          {
+            "claim": "jiaqi 一个人在 C，其他四个人跟不上",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 33,
+        "claims": [
+          {
+            "claim": "JackeyLove 被 Wei 抓死",
+            "verdict": "支持",
+            "evidence": "7"
+          },
+          {
+            "claim": "369 被 Rookie 推晕集火",
+            "verdict": "支持",
+            "evidence": "11"
+          },
+          {
+            "claim": "Tian 被 Meiko 和 Wei 击杀",
+            "verdict": "支持",
+            "evidence": "9"
+          }
+        ]
+      },
+      {
+        "index": 34,
+        "claims": [
+          {
+            "claim": "TES 这局不是输在操作，是输在节奏被 IG 牵着走",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 35,
+        "claims": [
+          {
+            "claim": "IG 想打哪就打哪，TES 只能被动接团",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 36,
+        "claims": [
+          {
+            "claim": "本局出现二换三的团战",
+            "verdict": "支持",
+            "evidence": "10"
+          },
+          {
+            "claim": "本局出现一换三的团战",
+            "verdict": "支持",
+            "evidence": "6"
+          },
+          {
+            "claim": "人头交换后经济差拉开",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 37,
+        "claims": [
+          {
+            "claim": "30 分 57 秒 IG 推掉 TES 基地水晶",
+            "verdict": "支持",
+            "evidence": "3"
+          },
+          {
+            "claim": "IG 拿下 BO5 第一局",
+            "verdict": "支持",
+            "evidence": "3"
+          }
+        ]
+      },
+      {
+        "index": 38,
+        "claims": [
+          {
+            "claim": "全场沸腾",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 39,
+        "claims": [
+          {
+            "claim": "解说总结：IG 的传统手艺都回归了",
+            "verdict": "支持",
+            "evidence": "16"
+          },
+          {
+            "claim": "全员不怕背锅、敢抓机会",
+            "verdict": "支持",
+            "evidence": "16"
+          },
+          {
+            "claim": "拿到优势又冷静运营",
+            "verdict": "支持",
+            "evidence": "16"
+          },
+          {
+            "claim": "稳得让人害怕",
+            "verdict": "支持",
+            "evidence": "16"
+          }
+        ]
+      },
+      {
+        "index": 40,
+        "claims": [
+          {
+            "claim": "这话我认",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 41,
+        "claims": [
+          {
+            "claim": "IG这局展现的，不是那种无脑莽的IG，是敢打敢算还稳得住的IG",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 42,
+        "claims": [
+          {
+            "claim": "三十九个人头的对攻",
+            "verdict": "支持",
+            "evidence": "4"
+          },
+          {
+            "claim": "听着血腥，其实每一步都有章法",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 43,
+        "claims": [
+          {
+            "claim": "IG 三比一淘汰TES，晋级四强",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 44,
+        "claims": [
+          {
+            "claim": "这轮系列赛，你觉得IG能走多远",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 45,
+        "claims": [
+          {
+            "claim": "是传统手艺真回来了，还是只是第一局的回光返照",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 46,
+        "claims": [
+          {
+            "claim": "评论区聊聊",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 47,
+        "claims": [
+          {
+            "claim": "下期见",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      }
+    ],
+    "verdict_counts": {
+      "支持": 44,
+      "无支撑": 6,
+      "矛盾": 0,
+      "非判词": 26
+    },
+    "support_rate": 0.88
+  },
+  "q2": {
+    "items": [],
+    "verdict_counts": {
+      "匹配": 0,
+      "弱匹配": 0,
+      "错位": 0
+    },
+    "sentence_total": 48,
+    "headline_q2": 0.0
+  },
+  "q4": {
+    "titles": [
+      {
+        "platform": "B站",
+        "information": 5,
+        "accuracy": 4,
+        "appeal": 3,
+        "why": "信息量充足且准确，但标题过长、堆砌多个看点，反而削弱点击欲"
+      },
+      {
+        "platform": "西瓜视频/抖音（中视频伙伴计划）",
+        "information": 4,
+        "accuracy": 4,
+        "appeal": 4,
+        "why": "保留核心看点且长度适中，悬念感和点击欲较好"
+      },
+      {
+        "platform": "微信视频号",
+        "information": 2,
+        "accuracy": 5,
+        "appeal": 2,
+        "why": "准确但信息量单薄，仅报比分无看点钩子，吸引力不足"
+      }
+    ]
+  },
+  "q5": {
+    "flow": 4,
+    "density": 4,
+    "fact_boundary": 3,
+    "why": "叙事节奏紧凑、干货充足，但大量时间点/数据/解说引语无从核实，断言偏多需核对。"
+  },
+  "elapsed_s": 83.6
+}

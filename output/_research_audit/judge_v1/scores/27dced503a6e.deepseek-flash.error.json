@@ -1,0 +1,10 @@
+{
+  "sid": "27dced503a6e",
+  "judge": "deepseek-flash",
+  "judge_model": "external:deepseek-flash",
+  "api_model": "deepseek-flash",
+  "ts": "2026-11-08T10:13:30",
+  "source": "api",
+  "error": "未找到 JSON 对象",
+  "elapsed_s": 111.2
+}

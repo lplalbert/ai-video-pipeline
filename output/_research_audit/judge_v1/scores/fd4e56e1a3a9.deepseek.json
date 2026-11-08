@@ -1,0 +1,466 @@
+{
+  "sid": "fd4e56e1a3a9",
+  "judge": "deepseek",
+  "judge_model": "external:deepseek",
+  "ts": "2026-11-08T13:31:30",
+  "source": "api",
+  "q1": {
+    "items": [
+      {
+        "index": 0,
+        "claims": [
+          {
+            "claim": "二战轰炸机要加固装甲，专家主张在弹孔多的地方加钢板，而瓦尔德指出弹孔少的地方才是要害",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "claims": [
+          {
+            "claim": "全句为疑问，无事实断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "claims": [
+          {
+            "claim": "飞回来的全是幸存者，中要害的飞机没机会进统计",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "claims": [
+          {
+            "claim": "这种只看幸存者样本的现象就是幸存者偏差",
+            "verdict": "支持",
+            "evidence": "1"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "claims": [
+          {
+            "claim": "全句为过渡句，无事实断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "claims": [
+          {
+            "claim": "美军统计返航轰炸机弹孔分布：机翼最多、机身中部不少、尾部油箱附近零星",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "claims": [
+          {
+            "claim": "军方专家主张给弹孔多的机翼和机身加装甲",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "claims": [
+          {
+            "claim": "瓦尔德指出专家们的加固方向搞反了",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "claims": [
+          {
+            "claim": "该数据只统计了飞回来的飞机",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "claims": [
+          {
+            "claim": "引擎、驾驶舱、油箱等要害中弹的飞机已坠毁，不在样本内",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "claims": [
+          {
+            "claim": "弹孔少的地方是中弹必死的地方，才是该加固的",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "claims": [
+          {
+            "claim": "这是样本问题，你看到的只是活下来的那部分",
+            "verdict": "支持",
+            "evidence": "1,2"
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "claims": [
+          {
+            "claim": "幸存者偏差核心是只看得见成功样本，看不见失败样本",
+            "verdict": "支持",
+            "evidence": "1"
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "claims": [
+          {
+            "claim": "每位著名出版作家背后约有100万个沉默失败者，手稿不见天日、找不到出版社",
+            "verdict": "支持",
+            "evidence": "6"
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "claims": [
+          {
+            "claim": "一百万比一的比例",
+            "verdict": "支持",
+            "evidence": "6"
+          },
+          {
+            "claim": "这一百万比一的比例才是真相的分母",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "claims": [
+          {
+            "claim": "退学创业神话（马云、刘强东、雷军）都是幸存者",
+            "verdict": "支持",
+            "evidence": "7"
+          }
+        ]
+      },
+      {
+        "index": 16,
+        "claims": [
+          {
+            "claim": "那些退学后默默打工的，没人拍视频",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 17,
+        "claims": [
+          {
+            "claim": "算法只推极端案例",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "推得你脊背发凉，以为退学就能年入百万",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 18,
+        "claims": [
+          {
+            "claim": "全句为过渡句，无事实断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 19,
+        "claims": [
+          {
+            "claim": "假设香烟完全无害，但每18250包中有一根装有炸弹且点燃即爆",
+            "verdict": "支持",
+            "evidence": "4"
+          }
+        ]
+      },
+      {
+        "index": 20,
+        "claims": [
+          {
+            "claim": "爆炸新闻一出，全世界戒烟",
+            "verdict": "支持",
+            "evidence": "4"
+          }
+        ]
+      },
+      {
+        "index": 21,
+        "claims": [
+          {
+            "claim": "全句为疑问，无事实断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 22,
+        "claims": [
+          {
+            "claim": "全球每秒约22.3万支香烟被点燃，平均每4秒有一人因吸烟死亡",
+            "verdict": "支持",
+            "evidence": "5"
+          },
+          {
+            "claim": "吸烟致死悄悄消失在病床上，不引发与爆炸同等的反应",
+            "verdict": "支持",
+            "evidence": "4"
+          }
+        ]
+      },
+      {
+        "index": 23,
+        "claims": [
+          {
+            "claim": "全句为疑问，无事实断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 24,
+        "claims": [
+          {
+            "claim": "全句为疑问，无事实断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 25,
+        "claims": [
+          {
+            "claim": "大脑厌恶不确定性，只对看得见的威胁有反应，对看不见的慢性杀手无感",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 26,
+        "claims": [
+          {
+            "claim": "全句为过渡疑问，无事实断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 27,
+        "claims": [
+          {
+            "claim": "应对幸存者偏差的三条：主动寻找沉默证据、用概率思维替代直觉、逆向推理分清因果",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 28,
+        "claims": [
+          {
+            "claim": "看到成功学先问失败的人在哪",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 29,
+        "claims": [
+          {
+            "claim": "抽烟喝酒活到99岁的老人为幸存者例证",
+            "verdict": "支持",
+            "evidence": "7"
+          },
+          {
+            "claim": "应主动寻找抽烟早死的沉默证据",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 30,
+        "claims": [
+          {
+            "claim": "小学毕业当老板的为幸存者例证",
+            "verdict": "支持",
+            "evidence": "7"
+          },
+          {
+            "claim": "应反问没当上老板的小学毕业生有多少",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 31,
+        "claims": [
+          {
+            "claim": "不要把运气当能力",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "不要把必要条件当充分条件",
+            "verdict": "支持",
+            "evidence": "1"
+          }
+        ]
+      },
+      {
+        "index": 32,
+        "claims": [
+          {
+            "claim": "全句为疑问，无事实断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 33,
+        "claims": [
+          {
+            "claim": "全句为互动邀约，无事实断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 34,
+        "claims": [
+          {
+            "claim": "全句为互动邀约，无事实断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      }
+    ],
+    "verdict_counts": {
+      "支持": 28,
+      "无支撑": 0,
+      "矛盾": 0,
+      "非判词": 13
+    },
+    "support_rate": 1.0
+  },
+  "q2": {
+    "items": [
+      {
+        "index": 0,
+        "verdict": "匹配",
+        "why": "片段文本与解说句同属二战轰炸机装甲加固事件，主体、背景一致，仅未涉及瓦尔德部分。"
+      },
+      {
+        "index": 12,
+        "verdict": "匹配",
+        "why": "片段文本明确解释幸存者偏差只看幸存样本，与解说句核心定义一致。"
+      }
+    ],
+    "verdict_counts": {
+      "匹配": 2,
+      "弱匹配": 0,
+      "错位": 0
+    },
+    "sentence_total": 35,
+    "headline_q2": 0.057
+  },
+  "q4": {
+    "titles": [
+      {
+        "platform": "B站",
+        "information": 5,
+        "accuracy": 3,
+        "appeal": 5,
+        "why": "信息量足、吸引强，但“全是假数据”夸大样本偏差概念。"
+      },
+      {
+        "platform": "西瓜视频/抖音",
+        "information": 4,
+        "accuracy": 5,
+        "appeal": 4,
+        "why": "核心要素准确有力，信息稍简但无夸大。"
+      },
+      {
+        "platform": "微信视频号",
+        "information": 2,
+        "accuracy": 4,
+        "appeal": 3,
+        "why": "过于简略，未提瓦尔德和幸存者偏差，看点不足但准确。"
+      }
+    ]
+  },
+  "q5": {
+    "flow": 5,
+    "density": 4,
+    "fact_boundary": 5,
+    "why": "结构清晰、案例递进，事实边界清楚；尾部互动稍稀释信息密度。"
+  },
+  "n_sentences": 35,
+  "api_model": "deepseek-v4-pro",
+  "api_usage": {
+    "prompt_tokens": 3866,
+    "completion_tokens": 10974,
+    "total_tokens": 14840,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 8433
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 3866
+  },
+  "elapsed_s": 100.1
+}

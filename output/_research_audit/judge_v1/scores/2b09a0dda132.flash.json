@@ -1,0 +1,696 @@
+{
+  "sid": "2b09a0dda132",
+  "judge": "flash",
+  "judge_model": "mimo-v2.6-flash",
+  "ts": "2026-11-08T20:52:31",
+  "n_sentences": 43,
+  "q1": {
+    "items": [
+      {
+        "index": 0,
+        "claims": [
+          {
+            "claim": "指甲盖大的地方每秒有650亿个中微子穿过",
+            "verdict": "支持",
+            "evidence": "3"
+          },
+          {
+            "claim": "2026年诺贝尔物理学奖授予冰立方中微子相关工作",
+            "verdict": "支持",
+            "evidence": "1"
+          },
+          {
+            "claim": "冰立方位于南极冰下约两公里处",
+            "verdict": "支持",
+            "evidence": "11"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "claims": [
+          {
+            "claim": "（引入话题，无事实断言）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "claims": [
+          {
+            "claim": "中微子不带电",
+            "verdict": "支持",
+            "evidence": "2"
+          },
+          {
+            "claim": "中微子几乎无质量",
+            "verdict": "支持",
+            "evidence": "2"
+          },
+          {
+            "claim": "中微子极难与物质作用",
+            "verdict": "支持",
+            "evidence": "2"
+          },
+          {
+            "claim": "中微子外号幽灵粒子",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "claims": [
+          {
+            "claim": "中微子是宇宙中数量最多的有质量粒子之一",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "claims": [
+          {
+            "claim": "每秒约650亿个太阳中微子穿过指甲盖大小的面积",
+            "verdict": "支持",
+            "evidence": "3"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "claims": [
+          {
+            "claim": "人体此刻有上亿个中微子穿行且无感觉",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "claims": [
+          {
+            "claim": "中微子已催生5项诺贝尔奖",
+            "verdict": "支持",
+            "evidence": "5"
+          },
+          {
+            "claim": "1930年泡利预言中微子",
+            "verdict": "支持",
+            "evidence": "5"
+          },
+          {
+            "claim": "1956年Cowan与Reines实验确认中微子",
+            "verdict": "支持",
+            "evidence": "5"
+          },
+          {
+            "claim": "太阳中微子失踪案与中微子振荡均与中微子相关",
+            "verdict": "支持",
+            "evidence": "6"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "claims": [
+          {
+            "claim": "2026年是中微子相关诺奖第6次",
+            "verdict": "支持",
+            "evidence": "5"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "claims": [
+          {
+            "claim": "中微子是物理学的诺奖提款机（中微子研究多次获得诺贝尔奖）",
+            "verdict": "支持",
+            "evidence": "5"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "claims": [
+          {
+            "claim": "中微子不与物质作用",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "claims": [
+          {
+            "claim": "冰立方用一立方公里的南极纯冰当探测器",
+            "verdict": "支持",
+            "evidence": "11"
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "claims": [
+          {
+            "claim": "中微子撞上冰里的原子核产生带电粒子",
+            "verdict": "支持",
+            "evidence": "4"
+          },
+          {
+            "claim": "带电粒子在冰中速度超过光在冰中的速度时喷出切伦科夫蓝光",
+            "verdict": "支持",
+            "evidence": "4"
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "claims": [
+          {
+            "claim": "光轨方向即中微子来路，可倒推源头方向",
+            "verdict": "支持",
+            "evidence": "4"
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "claims": [
+          {
+            "claim": "冰必须够纯净（探测对冰纯净度有要求）",
+            "verdict": "支持",
+            "evidence": "10"
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "claims": [
+          {
+            "claim": "浅层冰含几万年前封存的气泡，蓝光进去会被散射",
+            "verdict": "支持",
+            "evidence": "10"
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "claims": [
+          {
+            "claim": "1991 年在格陵兰钻孔验证",
+            "verdict": "支持",
+            "evidence": "10"
+          },
+          {
+            "claim": "1400 米以下的冰层纯净，蓝光可传播约 300 米",
+            "verdict": "支持",
+            "evidence": "10"
+          }
+        ]
+      },
+      {
+        "index": 16,
+        "claims": [
+          {
+            "claim": "冰立方埋在冰下1450到2450米",
+            "verdict": "支持",
+            "evidence": "11"
+          }
+        ]
+      },
+      {
+        "index": 17,
+        "claims": [
+          {
+            "claim": "选址这一步直接决定了项目生死",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 18,
+        "claims": [
+          {
+            "claim": "DUMAND在夏威夷外海进行",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "DUMAND 1993年首串设备故障",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "DUMAND 1995年项目被砍",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 19,
+        "claims": [
+          {
+            "claim": "冰立方踩着前人失败教训选对了路",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "冰立方运气好",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 20,
+        "claims": [
+          {
+            "claim": "为什么非去南极（设问）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 21,
+        "claims": [
+          {
+            "claim": "不能在实验室里做吗（设问）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 22,
+        "claims": [
+          {
+            "claim": "不能在实验室里做",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 23,
+        "claims": [
+          {
+            "claim": "冰立方真正的目标不是太阳中微子，是高能中微子",
+            "verdict": "支持",
+            "evidence": "7、12"
+          },
+          {
+            "claim": "高能中微子是回溯宇宙射线源头的唯一信使",
+            "verdict": "支持",
+            "evidence": "7"
+          }
+        ]
+      },
+      {
+        "index": 24,
+        "claims": [
+          {
+            "claim": "宇宙射线本质是高能质子",
+            "verdict": "支持",
+            "evidence": "7"
+          },
+          {
+            "claim": "质子带电，被星系磁场偏转后源头地址丢失",
+            "verdict": "支持",
+            "evidence": "7"
+          }
+        ]
+      },
+      {
+        "index": 25,
+        "claims": [
+          {
+            "claim": "伽马射线能带源头地址",
+            "verdict": "支持",
+            "evidence": "7"
+          },
+          {
+            "claim": "伽马射线会被尘埃和背景光吸收而出不来",
+            "verdict": "支持",
+            "evidence": "7"
+          }
+        ]
+      },
+      {
+        "index": 26,
+        "claims": [
+          {
+            "claim": "中微子不带电、直线飞行，能从源头一路带到地球",
+            "verdict": "支持",
+            "evidence": "7"
+          }
+        ]
+      },
+      {
+        "index": 27,
+        "claims": [
+          {
+            "claim": "2022 年在活跃星系 NGC 1068 方向数出 79 个中微子",
+            "verdict": "支持",
+            "evidence": "15"
+          },
+          {
+            "claim": "NGC 1068 中心黑洞被气体尘埃严密包裹，伽马射线出不来",
+            "verdict": "支持",
+            "evidence": "15"
+          },
+          {
+            "claim": "中微子能穿透该尘埃包裹",
+            "verdict": "支持",
+            "evidence": "15"
+          }
+        ]
+      },
+      {
+        "index": 28,
+        "claims": [
+          {
+            "claim": "理论预言的尘埃后隐形加速器被揪出",
+            "verdict": "支持",
+            "evidence": "15"
+          }
+        ]
+      },
+      {
+        "index": 29,
+        "claims": [
+          {
+            "claim": "再说工程账",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 30,
+        "claims": [
+          {
+            "claim": "冰立方 1999 年立项",
+            "verdict": "支持",
+            "evidence": "11"
+          },
+          {
+            "claim": "冰立方 2004 年开建",
+            "verdict": "支持",
+            "evidence": "11"
+          },
+          {
+            "claim": "冰立方 2011 年完工",
+            "verdict": "支持",
+            "evidence": "11"
+          }
+        ]
+      },
+      {
+        "index": 31,
+        "claims": [
+          {
+            "claim": "冰立方有 86 根电缆",
+            "verdict": "支持",
+            "evidence": "11"
+          },
+          {
+            "claim": "每根电缆串 60 个光学模块",
+            "verdict": "支持",
+            "evidence": "11"
+          },
+          {
+            "claim": "光学模块共 5160 个",
+            "verdict": "支持",
+            "evidence": "11"
+          }
+        ]
+      },
+      {
+        "index": 32,
+        "claims": [
+          {
+            "claim": "每天记录超过一亿个大气簇射信号",
+            "verdict": "支持",
+            "evidence": "12"
+          },
+          {
+            "claim": "每年约十万个大气中微子",
+            "verdict": "支持",
+            "evidence": "12"
+          },
+          {
+            "claim": "来自宇宙深处的高能中微子一年大概只有一百个",
+            "verdict": "支持",
+            "evidence": "12"
+          }
+        ]
+      },
+      {
+        "index": 33,
+        "claims": [
+          {
+            "claim": "怎么筛？",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 34,
+        "claims": [
+          {
+            "claim": "拿地球当盾牌，只收从地平线下方穿地而来的中微子",
+            "verdict": "支持",
+            "evidence": "12"
+          }
+        ]
+      },
+      {
+        "index": 35,
+        "claims": [
+          {
+            "claim": "2013年逮到两个拍电子伏级事件，绰号伯特和恶泥",
+            "verdict": "支持",
+            "evidence": "13"
+          }
+        ]
+      },
+      {
+        "index": 36,
+        "claims": [
+          {
+            "claim": "2014年统计显著性5.7σ",
+            "verdict": "支持",
+            "evidence": "13"
+          },
+          {
+            "claim": "人类首次确认天体物理源头高能中微子",
+            "verdict": "支持",
+            "evidence": "13"
+          }
+        ]
+      },
+      {
+        "index": 37,
+        "claims": [
+          {
+            "claim": "2017年9月22日逮到290太电子伏中微子",
+            "verdict": "支持",
+            "evidence": "14"
+          },
+          {
+            "claim": "中微子指向活跃耀变体TXS 0506+056",
+            "verdict": "支持",
+            "evidence": "14"
+          },
+          {
+            "claim": "恰逢其伽马波段剧烈爆发",
+            "verdict": "支持",
+            "evidence": "14"
+          },
+          {
+            "claim": "全球望远镜集体跟进",
+            "verdict": "支持",
+            "evidence": "14"
+          },
+          {
+            "claim": "多信使天文学的高光时刻",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 38,
+        "claims": [
+          {
+            "claim": "我看不到冰立方还有什么对手",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 39,
+        "claims": [
+          {
+            "claim": "十四国、五十八家机构、四百五十人",
+            "verdict": "支持",
+            "evidence": "16"
+          },
+          {
+            "claim": "完工以来在线率超百分之九十九",
+            "verdict": "支持",
+            "evidence": "16"
+          },
+          {
+            "claim": "Gen2还要扩到八立方公里",
+            "verdict": "支持",
+            "evidence": "16"
+          }
+        ]
+      },
+      {
+        "index": 40,
+        "claims": [
+          {
+            "claim": "这奖该不该给冰立方（设问）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 41,
+        "claims": [
+          {
+            "claim": "中微子是诺奖常客（此前已多次获诺奖）",
+            "verdict": "支持",
+            "evidence": "5"
+          },
+          {
+            "claim": "冰立方/中微子研究至今尚未拿到暗物质相关诺奖",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 42,
+        "claims": [
+          {
+            "claim": "下一个中微子诺奖可能授予冰立方或其他团队（预测性设问）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      }
+    ],
+    "verdict_counts": {
+      "支持": 60,
+      "无支撑": 4,
+      "矛盾": 0,
+      "非判词": 11
+    },
+    "support_rate": 0.938
+  },
+  "q2": {
+    "items": [
+      {
+        "index": 10,
+        "verdict": "弱匹配",
+        "why": "片段提到用一立方公里的冰给天文学开新窗，与解说的南极纯冰探测器相关，但片段未明确南极、探测器主体"
+      },
+      {
+        "index": 15,
+        "verdict": "弱匹配",
+        "why": "片段提到1400米以下冰纯净、蓝光跑300米，与解说细节一致，但片段未明确格陵兰、1991年时点"
+      },
+      {
+        "index": 16,
+        "verdict": "匹配",
+        "why": "片段明确埋在冰下1450到2450米，与解说的冰立方埋深完全一致"
+      },
+      {
+        "index": 18,
+        "verdict": "弱匹配",
+        "why": "片段提到夏威夷外海DUMAND项目，与解说主体一致，但片段未确认1993/1995年故障被砍的时点细节"
+      },
+      {
+        "index": 24,
+        "verdict": "匹配",
+        "why": "片段明确质子带电被星系磁场偏转导致来路丢失，与解说的宇宙射线质子偏转事件一致"
+      },
+      {
+        "index": 27,
+        "verdict": "弱匹配",
+        "why": "片段提到NGC1068方向数出79个中微子，与解说主体一致，但片段未确认2022年时点及黑洞被气体尘埃包裹的细节"
+      },
+      {
+        "index": 34,
+        "verdict": "匹配",
+        "why": "解说与片段均指利用地球屏蔽、只接收从下方地平线穿地而来的中微子这一原理，主体与事件一致"
+      },
+      {
+        "index": 35,
+        "verdict": "弱匹配",
+        "why": "片段确认两个拍电子伏级事件，但未提及2013年及绰号伯特和恶泥，时点与细节无法确认"
+      },
+      {
+        "index": 37,
+        "verdict": "弱匹配",
+        "why": "片段确认2017年9月22日、290太电子伏中微子指向TXS-0506+056，但未见伽马爆发、全球跟进等细节，部分无法确认"
+      }
+    ],
+    "verdict_counts": {
+      "匹配": 3,
+      "弱匹配": 6,
+      "错位": 0
+    },
+    "sentence_total": 43,
+    "headline_q2": 0.14
+  },
+  "q4": {
+    "titles": [
+      {
+        "platform": "B站",
+        "information": 5,
+        "accuracy": 4,
+        "appeal": 5,
+        "why": "看点、悬念、平台调性俱全，但'诺奖颁给南极冰下'表述略夸张需核实"
+      },
+      {
+        "platform": "西瓜视频/抖音（中视频伙伴计划）",
+        "information": 4,
+        "accuracy": 5,
+        "appeal": 4,
+        "why": "信息完整、准确，但缺少B站版的悬念钩子，吸引力稍弱"
+      },
+      {
+        "platform": "微信视频号",
+        "information": 2,
+        "accuracy": 5,
+        "appeal": 3,
+        "why": "简洁有记忆点但信息量不足，未说明冰立方与中微子的关系"
+      }
+    ]
+  },
+  "q5": {
+    "flow": 4,
+    "density": 4,
+    "fact_boundary": 3,
+    "why": "叙事节奏流畅、干货密集，但2026年诺奖等未来事件与部分数据断言过于肯定，事实边界需核实收紧。"
+  },
+  "elapsed_s": 112.1
+}

@@ -1,0 +1,496 @@
+{
+  "sid": "daef54d48e38",
+  "judge": "gpt",
+  "judge_model": "external:gpt",
+  "ts": "2026-11-08T13:12:33",
+  "source": "manual_packet",
+  "q1": {
+    "items": [
+      {
+        "index": 0,
+        "claims": [
+          {
+            "claim": "三人打五人并获胜",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "claims": [
+          {
+            "claim": "IG以约30分钟39个人头对攻使老IG那套东西回来",
+            "verdict": "支持",
+            "evidence": "4、16"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "claims": [
+          {
+            "claim": "作者没想到S16八强第一天会有这种比赛",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "claims": [
+          {
+            "claim": "IG 3比1淘汰TES",
+            "verdict": "支持",
+            "evidence": "2"
+          },
+          {
+            "claim": "本文只复盘第一局",
+            "verdict": "支持",
+            "evidence": "3"
+          },
+          {
+            "claim": "该局足以进入年度名场面集锦",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "claims": [
+          {
+            "claim": "转到开局内容",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "claims": [
+          {
+            "claim": "2分35秒上路对拼产生击杀",
+            "verdict": "支持",
+            "evidence": "5"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "claims": [
+          {
+            "claim": "3分07秒Wei抓中逼出对方中单闪现",
+            "verdict": "支持",
+            "evidence": "5"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "claims": [
+          {
+            "claim": "IG从第一分钟不发育而选择换血",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "claims": [
+          {
+            "claim": "5分30秒小龙团IG拿龙、TES一换三并占人头优势",
+            "verdict": "支持",
+            "evidence": "6"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "claims": [
+          {
+            "claim": "这是LPL风格且双方不让资源和人头",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "claims": [
+          {
+            "claim": "13分01秒Wei抓下击杀JackeyLove，随后Rookie与TheShy上路抓369",
+            "verdict": "支持",
+            "evidence": "7"
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "claims": [
+          {
+            "claim": "结果如何",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "claims": [
+          {
+            "claim": "369反杀TheShy",
+            "verdict": "支持",
+            "evidence": "7"
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "claims": [
+          {
+            "claim": "这是TES全场少数高光且只是瞬间",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "claims": [
+          {
+            "claim": "十四秒后IG中路越塔抓死TES下路两人",
+            "verdict": "支持",
+            "evidence": "9"
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "claims": [
+          {
+            "claim": "IG算清楚了这笔一换二的账",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 16,
+        "claims": [
+          {
+            "claim": "强调后续重点",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 17,
+        "claims": [
+          {
+            "claim": "15分23秒Meiko泰坦出钩配合Wei先攻偷钱，Rookie被控阵亡",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "此时形成四打五且IG先少一人",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 18,
+        "claims": [
+          {
+            "claim": "结果如何",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 19,
+        "claims": [
+          {
+            "claim": "三人组反打打出二换五且全场沸腾",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 20,
+        "claims": [
+          {
+            "claim": "解说说老IG看家绝活复活、人越少伤害越高",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 21,
+        "claims": [
+          {
+            "claim": "作者看到后坐直了",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 22,
+        "claims": [
+          {
+            "claim": "询问IG头铁还是TES未料到其敢打",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 23,
+        "claims": [
+          {
+            "claim": "这波之后TES心态无法稳定",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 24,
+        "claims": [
+          {
+            "claim": "22分30秒前JKL远程技能连中打残IG众人",
+            "verdict": "支持",
+            "evidence": "11"
+          },
+          {
+            "claim": "TES看起来要翻盘",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 25,
+        "claims": [
+          {
+            "claim": "Rookie推球推晕369并集火带走",
+            "verdict": "支持",
+            "evidence": "11"
+          },
+          {
+            "claim": "解说惊叹推球有两下、100层辛德拉",
+            "verdict": "支持",
+            "evidence": "11"
+          }
+        ]
+      },
+      {
+        "index": 26,
+        "claims": [
+          {
+            "claim": "23分16秒TheShy纳尔牵扯，Rookie推球逼出关键闪现",
+            "verdict": "支持",
+            "evidence": "12"
+          }
+        ]
+      },
+      {
+        "index": 27,
+        "claims": [
+          {
+            "claim": "24分35秒Wei闪现开团被Tian锁头阵亡",
+            "verdict": "支持",
+            "evidence": "13"
+          },
+          {
+            "claim": "TheShy纳尔变大击杀JackeyLove且IG团战大胜",
+            "verdict": "支持",
+            "evidence": "13"
+          }
+        ]
+      },
+      {
+        "index": 28,
+        "claims": [
+          {
+            "claim": "双C和TheShy轮流站出，TES无法应对",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 29,
+        "claims": [
+          {
+            "claim": "火龙魂团Rookie被扫描后闪现强开并推散TES",
+            "verdict": "支持",
+            "evidence": "14"
+          },
+          {
+            "claim": "IG转身抓死残血清兵的369并兼得人头资源",
+            "verdict": "支持",
+            "evidence": "14"
+          }
+        ]
+      },
+      {
+        "index": 30,
+        "claims": [
+          {
+            "claim": "30分09秒369先死，Wei绕后开团推到四人、解说称完美推，IG结束第一局",
+            "verdict": "支持",
+            "evidence": "15"
+          }
+        ]
+      },
+      {
+        "index": 31,
+        "claims": [
+          {
+            "claim": "除5-1蛇女外TES全面落后，jiaqi对位领先约2600",
+            "verdict": "支持",
+            "evidence": "10"
+          }
+        ]
+      },
+      {
+        "index": 32,
+        "claims": [
+          {
+            "claim": "询问TES轻敌或IG运营稳",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 33,
+        "claims": [
+          {
+            "claim": "系列赛3比1与IG传统手艺回归，全员敢抓机会并冷静运营",
+            "verdict": "支持",
+            "evidence": "2、16"
+          }
+        ]
+      },
+      {
+        "index": 34,
+        "claims": [
+          {
+            "claim": "询问第一局对攻能否复制到后续局",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 35,
+        "claims": [
+          {
+            "claim": "询问TES是否第一局没睡醒",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 36,
+        "claims": [
+          {
+            "claim": "询问IG能否打进决赛",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 37,
+        "claims": [
+          {
+            "claim": "点赞关注并预告下期",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      }
+    ],
+    "verdict_counts": {
+      "支持": 25,
+      "无支撑": 3,
+      "矛盾": 0,
+      "非判词": 17
+    },
+    "support_rate": 0.893
+  },
+  "q2": {
+    "items": [
+      {
+        "index": 8,
+        "verdict": "弱匹配",
+        "why": "片段对应小龙团事件，但节选没有清楚呈现TES一换三及人头优势结果。"
+      },
+      {
+        "index": 10,
+        "verdict": "错位",
+        "why": "片段对应杰克与Rookie交锋及Meiko被击杀，不是抓下并随后转上路抓369。"
+      },
+      {
+        "index": 17,
+        "verdict": "错位",
+        "why": "片段文本对应369与TheShy的上路对拼，而非15分23秒蓝BUFF区3V5前段。"
+      },
+      {
+        "index": 27,
+        "verdict": "弱匹配",
+        "why": "片段出现24分35秒团战和纳尔进场，但未清晰呈现口播所述击杀及完整结果。"
+      }
+    ],
+    "verdict_counts": {
+      "匹配": 0,
+      "弱匹配": 2,
+      "错位": 2
+    },
+    "sentence_total": 38,
+    "headline_q2": 0.026
+  },
+  "q4": {
+    "titles": [
+      {
+        "platform": "B站",
+        "information": 5,
+        "accuracy": 2,
+        "appeal": 5,
+        "why": "涵盖赛果、两处关键看点且吸引力高，但把第一局名场面称为全系列赛分水岭缺乏支持。"
+      },
+      {
+        "platform": "西瓜视频/抖音（中视频伙伴计划）",
+        "information": 3,
+        "accuracy": 2,
+        "appeal": 5,
+        "why": "突出3V5很吸睛，但将其定为全系列赛分水岭过度外推。"
+      },
+      {
+        "platform": "微信视频号",
+        "information": 2,
+        "accuracy": 2,
+        "appeal": 4,
+        "why": "短而有悬念，但分水岭的准确性无事实依据且信息有限。"
+      }
+    ]
+  },
+  "q5": {
+    "flow": 4,
+    "density": 4,
+    "fact_boundary": 2,
+    "why": "按时间线推进，战况信息充分，但把单局事件外推为心态、战术意图及系列赛分水岭等结论。"
+  },
+  "n_sentences": 38
+}

@@ -1,0 +1,361 @@
+{
+  "sid": "65a6c24f15a7",
+  "judge": "gpt",
+  "judge_model": "external:gpt",
+  "ts": "2026-11-08T13:12:33",
+  "source": "manual_packet",
+  "q1": {
+    "items": [
+      {
+        "index": 0,
+        "claims": [
+          {
+            "claim": "三打五取胜且首局30分钟39人头对攻",
+            "verdict": "支持",
+            "evidence": "4;8"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "claims": [
+          {
+            "claim": "IG 3-1晋级，首局呈现LPL血腥对攻",
+            "verdict": "支持",
+            "evidence": "2;4"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "claims": [
+          {
+            "claim": "引出开局",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "claims": [
+          {
+            "claim": "2:35上路对拼击杀",
+            "verdict": "支持",
+            "evidence": "5"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "claims": [
+          {
+            "claim": "3:07 Wei抓中逼闪",
+            "verdict": "支持",
+            "evidence": "5"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "claims": [
+          {
+            "claim": "首局无意和平发育",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "claims": [
+          {
+            "claim": "5:30 IG拿龙、TES一换三占人头优势",
+            "verdict": "支持",
+            "evidence": "6"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "claims": [
+          {
+            "claim": "13:01 Wei抓下击杀JackeyLove",
+            "verdict": "支持",
+            "evidence": "7"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "claims": [
+          {
+            "claim": "Rookie传送上路抓369，369反杀TheShy",
+            "verdict": "支持",
+            "evidence": "7"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "claims": [
+          {
+            "claim": "IG进攻欲望超过防守纪律",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "claims": [
+          {
+            "claim": "询问莽或自信",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "claims": [
+          {
+            "claim": "过渡",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "claims": [
+          {
+            "claim": "引出15:23名场面",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "claims": [
+          {
+            "claim": "Meiko出钩、Wei偷钱、Rookie阵亡，三打五二换五",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "claims": [
+          {
+            "claim": "解说称绝活复活及人越少伤害越高，并解释为DNA本能",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "claims": [
+          {
+            "claim": "22:30前JKL打残IG、Rookie晕369集火击杀并获解说赞叹",
+            "verdict": "支持",
+            "evidence": "11"
+          }
+        ]
+      },
+      {
+        "index": 16,
+        "claims": [
+          {
+            "claim": "24:35 Wei阵亡、TheShy击杀JackeyLove且IG团战大胜",
+            "verdict": "支持",
+            "evidence": "13"
+          }
+        ]
+      },
+      {
+        "index": 17,
+        "claims": [
+          {
+            "claim": "30:09终局369先死、Wei绕后推四人，IG结束首局",
+            "verdict": "支持",
+            "evidence": "15"
+          }
+        ]
+      },
+      {
+        "index": 18,
+        "claims": [
+          {
+            "claim": "30:57推掉水晶",
+            "verdict": "支持",
+            "evidence": "3"
+          }
+        ]
+      },
+      {
+        "index": 19,
+        "claims": [
+          {
+            "claim": "IG赢在敢与稳",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 20,
+        "claims": [
+          {
+            "claim": "描述敢打和冷静运营，引用稳得让人害怕",
+            "verdict": "支持",
+            "evidence": "16"
+          }
+        ]
+      },
+      {
+        "index": 21,
+        "claims": [
+          {
+            "claim": "询问IG回来或TES没准备",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 22,
+        "claims": [
+          {
+            "claim": "TES无止损方案，除5-1蛇女外全面落后且对位经济差约2600",
+            "verdict": "支持",
+            "evidence": "10"
+          }
+        ]
+      },
+      {
+        "index": 23,
+        "claims": [
+          {
+            "claim": "IG晋级四强",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 24,
+        "claims": [
+          {
+            "claim": "询问IG回来或TES失误",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 25,
+        "claims": [
+          {
+            "claim": "评论互动",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      }
+    ],
+    "verdict_counts": {
+      "支持": 17,
+      "无支撑": 0,
+      "矛盾": 0,
+      "非判词": 9
+    },
+    "support_rate": 1.0
+  },
+  "q2": {
+    "items": [
+      {
+        "index": 6,
+        "verdict": "弱匹配",
+        "why": "片段是5:30小龙团，截取未呈现完整资源及人头结果。"
+      },
+      {
+        "index": 7,
+        "verdict": "匹配",
+        "why": "Wei抓下击杀JackeyLove的时间和事件对应。"
+      },
+      {
+        "index": 8,
+        "verdict": "弱匹配",
+        "why": "片段对应Rookie传送上路，但截取未确认369反杀结果。"
+      },
+      {
+        "index": 13,
+        "verdict": "错位",
+        "why": "片段讲小龙团与Meiko被击杀，不是15:23三打五全过程。"
+      },
+      {
+        "index": 15,
+        "verdict": "匹配",
+        "why": "Rookie推晕369及集火片段对应。"
+      },
+      {
+        "index": 16,
+        "verdict": "弱匹配",
+        "why": "对应24:35团战，但文本无法确认关键击杀结果。"
+      },
+      {
+        "index": 17,
+        "verdict": "匹配",
+        "why": "片段对应30:09终局团及Wei绕后。"
+      },
+      {
+        "index": 18,
+        "verdict": "匹配",
+        "why": "明确30:57 IG推掉水晶拿下首局。"
+      }
+    ],
+    "verdict_counts": {
+      "匹配": 4,
+      "弱匹配": 3,
+      "错位": 1
+    },
+    "sentence_total": 26,
+    "headline_q2": 0.212
+  },
+  "q4": {
+    "titles": [
+      {
+        "platform": "B站",
+        "information": 5,
+        "accuracy": 4,
+        "appeal": 5,
+        "why": "时间点与攻防细节丰富，但反杀描述标题可能夸大或压缩过程。"
+      },
+      {
+        "platform": "西瓜视频/抖音（中视频伙伴计划）",
+        "information": 4,
+        "accuracy": 5,
+        "appeal": 4,
+        "why": "开局上路看点清晰准确，内容具体但范围较窄。"
+      },
+      {
+        "platform": "微信视频号",
+        "information": 3,
+        "accuracy": 5,
+        "appeal": 3,
+        "why": "结果准确但缺乏复盘亮点。"
+      }
+    ]
+  },
+  "q5": {
+    "flow": 4,
+    "density": 5,
+    "fact_boundary": 4,
+    "why": "按时间线推进、事实细节充分，并明确限定首局；少数‘DNA本能’和气势判断是修辞推断。"
+  },
+  "n_sentences": 26
+}

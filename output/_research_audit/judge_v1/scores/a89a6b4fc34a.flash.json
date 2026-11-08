@@ -1,0 +1,516 @@
+{
+  "sid": "a89a6b4fc34a",
+  "judge": "flash",
+  "judge_model": "mimo-v2.6-flash",
+  "ts": "2026-11-08T22:14:34",
+  "n_sentences": 39,
+  "q1": {
+    "items": [
+      {
+        "index": 0,
+        "claims": [
+          {
+            "claim": "幸存者偏差害惨了无数想成功的人",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "claims": [
+          {
+            "claim": "退学创业神话可能只是100万个沉默失败者里唯一开口说话的那个",
+            "verdict": "支持",
+            "evidence": "6（100万:1 作家比例口径，修辞性估计）+ 7（退学创业神话例证）"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "claims": [
+          {
+            "claim": "（无事实断言，属节目预告式修辞）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "claims": [
+          {
+            "claim": "（无事实断言，过渡语）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "claims": [
+          {
+            "claim": "二战期间美军统计返航轰炸机的弹孔分布",
+            "verdict": "支持",
+            "evidence": "2"
+          },
+          {
+            "claim": "机翼、机身中弹最多",
+            "verdict": "支持",
+            "evidence": "2（BV1nVHi6dELD 口径：机翼最多、机身中部不少）"
+          },
+          {
+            "claim": "专家一致主张给弹孔多的地方加装甲",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "claims": [
+          {
+            "claim": "这是把必要条件当成了充分条件",
+            "verdict": "支持",
+            "evidence": "1（BV1nVHi6dELD 转写「把必要条件当成充分条件」）"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "claims": [
+          {
+            "claim": "统计学家瓦尔德站出来说你们搞反了",
+            "verdict": "支持",
+            "evidence": "2 + 3"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "claims": [
+          {
+            "claim": "真正该加固的是弹孔少的部位",
+            "verdict": "支持",
+            "evidence": "2（机制反转：加固弹孔少处）"
+          },
+          {
+            "claim": "要害部位为引擎、驾驶舱、油箱",
+            "verdict": "支持",
+            "evidence": "2（三源口径并列：引擎和驾驶舱/驾驶舱和油箱，本句为多源并集口径）"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "claims": [
+          {
+            "claim": "为什么？",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "claims": [
+          {
+            "claim": "中了要害的飞机根本飞不回来，压根不在统计样本里",
+            "verdict": "支持",
+            "evidence": "底座2"
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "claims": [
+          {
+            "claim": "你看到的弹孔分布是幸存者的伤疤，不是敌人的火力图",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "claims": [
+          {
+            "claim": "这一句话直接改写了美军的装甲方案",
+            "verdict": "支持",
+            "evidence": "底座2"
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "claims": [
+          {
+            "claim": "幸存者偏差的机制：只看得见成功的样本、看不见失败的样本，由此系统性地得出错误结论",
+            "verdict": "支持",
+            "evidence": "底座1"
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "claims": [
+          {
+            "claim": "再看一个思想实验",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "claims": [
+          {
+            "claim": "1996年有位统计学家提出香烟炸弹思想实验：假设香烟完全无害，但每一万八千二百五十包里有一根藏着炸弹，点着就炸",
+            "verdict": "支持",
+            "evidence": "底座4"
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "claims": [
+          {
+            "claim": "新闻一报，全民戒烟（思想实验推论）",
+            "verdict": "支持",
+            "evidence": "底座4"
+          }
+        ]
+      },
+      {
+        "index": 16,
+        "claims": [
+          {
+            "claim": "可现实呢？",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 17,
+        "claims": [
+          {
+            "claim": "全球每秒约22.3万支烟被点燃",
+            "verdict": "支持",
+            "evidence": "5"
+          },
+          {
+            "claim": "平均每4秒有一人因吸烟死亡",
+            "verdict": "支持",
+            "evidence": "5"
+          },
+          {
+            "claim": "这种死亡是悄悄消失在病床上的，不会上头条",
+            "verdict": "支持",
+            "evidence": "4"
+          }
+        ]
+      },
+      {
+        "index": 18,
+        "claims": [
+          {
+            "claim": "会爆炸的香烟和会致死的香烟风险可能差不多",
+            "verdict": "非判词",
+            "evidence": "无（观点判断，「可能」为推测语气）"
+          },
+          {
+            "claim": "前者被看见，后者被忽略",
+            "verdict": "支持",
+            "evidence": "4"
+          }
+        ]
+      },
+      {
+        "index": 19,
+        "claims": [
+          {
+            "claim": "人类怕的不是风险，是看得见的爆炸",
+            "verdict": "非判词",
+            "evidence": "无（观点修辞）"
+          }
+        ]
+      },
+      {
+        "index": 20,
+        "claims": [
+          {
+            "claim": "再把镜头拉到我们身边",
+            "verdict": "非判词",
+            "evidence": "无（转场语）"
+          }
+        ]
+      },
+      {
+        "index": 21,
+        "claims": [
+          {
+            "claim": "每一位著名出版作家背后大约站着一百万个沉默的失败者",
+            "verdict": "支持",
+            "evidence": "6"
+          },
+          {
+            "claim": "这些失败者出了书卖不出、找不到出版社、手稿不见天日",
+            "verdict": "支持",
+            "evidence": "6"
+          }
+        ]
+      },
+      {
+        "index": 22,
+        "claims": [
+          {
+            "claim": "成功学最爱讲马云、刘强东、雷军退学创业的故事",
+            "verdict": "支持",
+            "evidence": "7"
+          }
+        ]
+      },
+      {
+        "index": 23,
+        "claims": [
+          {
+            "claim": "存在一百万个同样退学、同样拼命、最后消失在人海里的人",
+            "verdict": "无支撑",
+            "evidence": "无（底座6为作家比例口径，未覆盖退学创业者；底座7仅将马云等作为幸存样本例证提及，未给出对应失败者数量）"
+          }
+        ]
+      },
+      {
+        "index": 24,
+        "claims": [
+          {
+            "claim": "存在「不够努力」与「没中彩票」两种对失败的解释（设问）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 25,
+        "claims": [
+          {
+            "claim": "大脑厌恶不确定性",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "大脑会把运气带来的成功归因成能力",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 26,
+        "claims": [
+          {
+            "claim": "算法推送极端案例会放大焦虑",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 27,
+        "claims": [
+          {
+            "claim": "每一个逆袭故事对应约一百万个失败者（幸存样本极稀少）",
+            "verdict": "支持",
+            "evidence": "6"
+          }
+        ]
+      },
+      {
+        "index": 28,
+        "claims": [
+          {
+            "claim": "设问「怎么办」",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 29,
+        "claims": [
+          {
+            "claim": "提出三条建议",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 30,
+        "claims": [
+          {
+            "claim": "第一条建议：主动寻找沉默证据",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "研究失败案例比研究成功案例有用十倍",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 31,
+        "claims": [
+          {
+            "claim": "第二条建议：用概率思维替代直觉",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 32,
+        "claims": [
+          {
+            "claim": "应问「和他一样做的人，有多少失败了」而非「他为什么成功」",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 33,
+        "claims": [
+          {
+            "claim": "应对建议之一是逆向推理、分清因果",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 34,
+        "claims": [
+          {
+            "claim": "抽烟喝酒活到99的老人例证：不是抽烟让他长寿，而是长寿者中恰好有抽烟的",
+            "verdict": "支持",
+            "evidence": "7"
+          }
+        ]
+      },
+      {
+        "index": 35,
+        "claims": [
+          {
+            "claim": "幸存者偏差的本质是把运气当实力、把样本当真相",
+            "verdict": "支持",
+            "evidence": "1、8"
+          }
+        ]
+      },
+      {
+        "index": 36,
+        "claims": [
+          {
+            "claim": "留问观众身边是否有「XX都这样，所以我也能行」的逻辑",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 37,
+        "claims": [
+          {
+            "claim": "邀请观众在评论区留言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 38,
+        "claims": [
+          {
+            "claim": "求三连支持并预告下期继续拆认知陷阱",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      }
+    ],
+    "verdict_counts": {
+      "支持": 29,
+      "无支撑": 1,
+      "矛盾": 0,
+      "非判词": 18
+    },
+    "support_rate": 0.967
+  },
+  "q2": {
+    "items": [
+      {
+        "index": 4,
+        "verdict": "匹配",
+        "why": "均讲述二战美军轰炸机弹孔统计及专家主张加固弹孔多处的事件"
+      },
+      {
+        "index": 7,
+        "verdict": "错位",
+        "why": "解说句说该加固弹孔少的要害部位，片段文本说专家结论是哪里弹孔多加哪里，结论相反"
+      },
+      {
+        "index": 10,
+        "verdict": "弱匹配",
+        "why": "均涉及弹孔分布与幸存者偏差的分析，但解说句为抽象总结，片段为沃德具体发言，细节无法完全确认"
+      },
+      {
+        "index": 22,
+        "verdict": "匹配",
+        "why": "均指短视频中马云、刘强东、雷军退学创业的成功学故事"
+      }
+    ],
+    "verdict_counts": {
+      "匹配": 2,
+      "弱匹配": 1,
+      "错位": 1
+    },
+    "sentence_total": 39,
+    "headline_q2": 0.064
+  },
+  "q4": {
+    "titles": [
+      {
+        "platform": "B站",
+        "information": 5,
+        "accuracy": 4,
+        "appeal": 4,
+        "why": "看点（二战弹孔案例+100万:1+破局方法）齐全，但'骗了所有人'略夸张、'你学的是谁'表述稍绕。"
+      },
+      {
+        "platform": "西瓜视频/抖音（中视频伙伴计划）",
+        "information": 3,
+        "accuracy": 4,
+        "appeal": 3,
+        "why": "点出核心概念和悬念但缺案例与方法，信息量中等，'你学的是谁'略口语化。"
+      },
+      {
+        "platform": "微信视频号",
+        "information": 2,
+        "accuracy": 4,
+        "appeal": 2,
+        "why": "仅概念+数字，无看点说明，信息量和吸引力都不足。"
+      }
+    ]
+  },
+  "q5": {
+    "flow": 4,
+    "density": 4,
+    "fact_boundary": 3,
+    "why": "叙事结构清晰、案例递进流畅，但瓦尔德、1996年香烟炸弹思想实验、22.3万支/秒等数据未标注来源且部分存疑，断言略显绝对。"
+  },
+  "elapsed_s": 93.7
+}

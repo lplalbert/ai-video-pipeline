@@ -1,0 +1,461 @@
+{
+  "sid": "53672ec61246",
+  "judge": "deepseek",
+  "judge_model": "external:deepseek",
+  "ts": "2026-11-08T10:32:00",
+  "source": "api",
+  "q1": {
+    "items": [
+      {
+        "index": 0,
+        "claims": [
+          {
+            "claim": "IG这波3-1赢下来",
+            "verdict": "支持",
+            "evidence": "1"
+          },
+          {
+            "claim": "赛后采访比比赛本身信息量还大",
+            "verdict": "非判词",
+            "evidence": "无"
+          },
+          {
+            "claim": "有人把训练赛搬进正赛",
+            "verdict": "支持",
+            "evidence": "2"
+          },
+          {
+            "claim": "有人当众认错",
+            "verdict": "支持",
+            "evidence": "6"
+          },
+          {
+            "claim": "还有人直接把冠军送到老东家嘴边",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "claims": [
+          {
+            "claim": "先看Wei这段采访",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "claims": [
+          {
+            "claim": "余霜问他为什么这轮系列赛连续拿一血",
+            "verdict": "支持",
+            "evidence": "2"
+          },
+          {
+            "claim": "他答：训练赛练的东西直接搬进比赛，前期找机会能力强",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "claims": [
+          {
+            "claim": "这话听着谦虚，其实很狂——潜台词是训练赛内容在正赛兑现率极高",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "claims": [
+          {
+            "claim": "一个打野能连续多局拿到一血",
+            "verdict": "支持",
+            "evidence": "2"
+          },
+          {
+            "claim": "他的开野路线和前期规划在训练赛里已经跑通了，正赛只是复刻",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "claims": [
+          {
+            "claim": "这意味着Wei不是靠临场灵光一现，而是IG的前期节奏有体系托底",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "claims": [
+          {
+            "claim": "Wei复盘了第一局蓝BUFF区那波三打五",
+            "verdict": "支持",
+            "evidence": "3"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "claims": [
+          {
+            "claim": "他复盘内容：对面先交多个大招杀辛德拉，位置不利拉扯不动，IG等技能交完再找机会，小技能沟通到位才打赢",
+            "verdict": "支持",
+            "evidence": "3"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "claims": [
+          {
+            "claim": "对面大招全交在一个人身上",
+            "verdict": "支持",
+            "evidence": "3"
+          },
+          {
+            "claim": "这波赢不是操作碾压，是耐心赢了急躁；后续输出就断档了",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "claims": [
+          {
+            "claim": "这暴露一个问题：TES这波决策太急，技能资源分配给错了目标",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "claims": [
+          {
+            "claim": "Wei对自己第三局杰斯的评价是训练赛练过、效果还行",
+            "verdict": "支持",
+            "evidence": "4"
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "claims": [
+          {
+            "claim": "对第二局猴子，他说打团送了两三波，第三局才把心态调整回来",
+            "verdict": "支持",
+            "evidence": "4"
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "claims": [
+          {
+            "claim": "他公开承认自己送了两三波",
+            "verdict": "支持",
+            "evidence": "4"
+          },
+          {
+            "claim": "心理素质是过关的",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "claims": [
+          {
+            "claim": "TES第二局没能抓住Wei猴子的失误滚起雪球，反而被IG翻回来",
+            "verdict": "无支撑",
+            "evidence": "无"
+          },
+          {
+            "claim": "是TES抓机会能力不足，还是IG韧性太强？",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "claims": [
+          {
+            "claim": "TheShy英文流采访里有两个细节",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "claims": [
+          {
+            "claim": "暂停时新人jiaqi很紧张，TheShy以哥哥身份去安慰",
+            "verdict": "支持",
+            "evidence": "6"
+          }
+        ]
+      },
+      {
+        "index": 16,
+        "claims": [
+          {
+            "claim": "他自评薇恩那把是自己的失误，非常愧疚",
+            "verdict": "支持",
+            "evidence": "6"
+          }
+        ]
+      },
+      {
+        "index": 17,
+        "claims": [
+          {
+            "claim": "TheShy今年长时间休息后回归",
+            "verdict": "支持",
+            "evidence": "7"
+          },
+          {
+            "claim": "他说队伍需要他玩什么就玩什么，IG的制胜计划围绕打野和下路",
+            "verdict": "支持",
+            "evidence": "7"
+          },
+          {
+            "claim": "心态已经从纯操作怪转成了带队型上单",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 18,
+        "claims": [
+          {
+            "claim": "这话翻译过来就是：他愿意牺牲自己的carry位去服务团队体系",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 19,
+        "claims": [
+          {
+            "claim": "一个曾经以任性著称的上单，说出这种话，本身就是一种成长信号",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 20,
+        "claims": [
+          {
+            "claim": "Rookie专访里他说历届世界赛非16强即四强或冠军，2018年亲手捧过冠军奖杯，如今心态和决心更强烈",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 21,
+        "claims": [
+          {
+            "claim": "他对粉丝喊话IG又回来了",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 22,
+        "claims": [
+          {
+            "claim": "主持人口径称这是他2019年后再次闯入全球总决赛四强",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 23,
+        "claims": [
+          {
+            "claim": "自媒体解说转引阿水赛后采访：IG现在实力很强、最有希望夺冠，祝福出身于IG的老东家",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 24,
+        "claims": [
+          {
+            "claim": "自家AD亲口说对手更有希望夺冠",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "阿水这句祝福听着体面，压力全给到了TES，比输比赛还伤士气",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 25,
+        "claims": [
+          {
+            "claim": "是真心祝福，还是体面的认输？",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 26,
+        "claims": [
+          {
+            "claim": "评论区聊聊",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 27,
+        "claims": [
+          {
+            "claim": "IG这套围绕打野和下路的体系",
+            "verdict": "支持",
+            "evidence": "7"
+          },
+          {
+            "claim": "碰上四强的对手还能不能跑通？",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 28,
+        "claims": [
+          {
+            "claim": "TheShy的牺牲式打法，到底是成熟还是无奈？",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 29,
+        "claims": [
+          {
+            "claim": "把你的判断打在评论区，下期接着聊",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      }
+    ],
+    "verdict_counts": {
+      "支持": 22,
+      "无支撑": 2,
+      "矛盾": 0,
+      "非判词": 19
+    },
+    "support_rate": 0.917
+  },
+  "q2": {
+    "items": [
+      {
+        "index": 2,
+        "verdict": "匹配",
+        "why": "片段文本为主持人问连续拿一血及回应训练，与解说句主体、事件一致。"
+      },
+      {
+        "index": 6,
+        "verdict": "匹配",
+        "why": "片段文本明确提到第一局蓝BUFF区三打五，与解说句匹配。"
+      },
+      {
+        "index": 11,
+        "verdict": "匹配",
+        "why": "片段文本中Wei说第二局猴子、打团送两三波、第三局，完全对应。"
+      },
+      {
+        "index": 20,
+        "verdict": "弱匹配",
+        "why": "片段文本为Rookie专访开场提问，与解说句具体内容（历届世界赛/2018捧杯）不在同一时点，无法确认该组判词。"
+      }
+    ],
+    "verdict_counts": {
+      "匹配": 3,
+      "弱匹配": 1,
+      "错位": 0
+    },
+    "sentence_total": 30,
+    "headline_q2": 0.117
+  },
+  "q4": {
+    "titles": [
+      {
+        "platform": "B站",
+        "information": 4,
+        "accuracy": 5,
+        "appeal": 4,
+        "why": "标题点出Wei认错核心看点，但有主观评价成分，信息量中等偏上，吸引可。"
+      },
+      {
+        "platform": "西瓜视频/抖音（中视频伙伴计划）",
+        "information": 3,
+        "accuracy": 5,
+        "appeal": 3,
+        "why": "标题只陈述单一事实，信息量低，准确但平实，吸引一般。"
+      },
+      {
+        "platform": "微信视频号",
+        "information": 2,
+        "accuracy": 4,
+        "appeal": 2,
+        "why": "“蓝BUFF三打”表述不完整，信息量不足，准确但易误解，吸引弱。"
+      }
+    ]
+  },
+  "q5": {
+    "flow": 4,
+    "density": 3,
+    "fact_boundary": 4,
+    "why": "叙事分点清晰，节奏流畅；但主观评论占比较多，部分推断超出采访原话，干货密度中等，事实边界有标注但仍有扩展。"
+  },
+  "n_sentences": 30,
+  "api_model": "deepseek-v4-pro",
+  "api_usage": {
+    "prompt_tokens": 4795,
+    "completion_tokens": 10053,
+    "total_tokens": 14848,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 7560
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 4795
+  },
+  "elapsed_s": 85.4
+}

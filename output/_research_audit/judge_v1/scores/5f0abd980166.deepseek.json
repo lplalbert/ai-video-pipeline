@@ -1,0 +1,671 @@
+{
+  "sid": "5f0abd980166",
+  "judge": "deepseek",
+  "judge_model": "external:deepseek",
+  "ts": "2026-11-08T17:19:47",
+  "source": "api",
+  "q1": {
+    "items": [
+      {
+        "index": 0,
+        "claims": [
+          {
+            "claim": "全球高楼最多的城市是香港",
+            "verdict": "支持",
+            "evidence": "21"
+          },
+          {
+            "claim": "不是迪拜",
+            "verdict": "支持",
+            "evidence": "14"
+          },
+          {
+            "claim": "香港近两千座",
+            "verdict": "支持",
+            "evidence": "21"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "claims": [
+          {
+            "claim": "深圳1553座",
+            "verdict": "支持",
+            "evidence": "20"
+          },
+          {
+            "claim": "官方原则限高80米",
+            "verdict": "支持",
+            "evidence": "20"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "claims": [
+          {
+            "claim": "整句为观点修辞，无事实判词",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "claims": [
+          {
+            "claim": "引导语，无事实判词",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "claims": [
+          {
+            "claim": "第十是北京中信大厦，528米",
+            "verdict": "支持",
+            "evidence": "2"
+          },
+          {
+            "claim": "设计灵感来自古礼器尊",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "claims": [
+          {
+            "claim": "第九天津周大福530米",
+            "verdict": "支持",
+            "evidence": "3"
+          },
+          {
+            "claim": "第八广州周大福530.5米",
+            "verdict": "支持",
+            "evidence": "4"
+          },
+          {
+            "claim": "网友管天津那座叫金箍棒",
+            "verdict": "支持",
+            "evidence": "3"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "claims": [
+          {
+            "claim": "第七纽约世贸中心一号楼541米",
+            "verdict": "支持",
+            "evidence": "5"
+          },
+          {
+            "claim": "911后重建的自由塔",
+            "verdict": "支持",
+            "evidence": "5"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "claims": [
+          {
+            "claim": "第六首尔乐天世界大厦555米",
+            "verdict": "支持",
+            "evidence": "6"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "claims": [
+          {
+            "claim": "第五深圳平安599米",
+            "verdict": "支持",
+            "evidence": "7"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "claims": [
+          {
+            "claim": "深圳平安原本设计660米",
+            "verdict": "支持",
+            "evidence": "7"
+          },
+          {
+            "claim": "被航空限高砍了",
+            "verdict": "支持",
+            "evidence": "7"
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "claims": [
+          {
+            "claim": "第四沙特麦加钟塔601米",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "造价约150亿美元",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "claims": [
+          {
+            "claim": "第三上海中心632米",
+            "verdict": "支持",
+            "evidence": "9"
+          },
+          {
+            "claim": "配全球最重阻尼器",
+            "verdict": "支持",
+            "evidence": "9"
+          },
+          {
+            "claim": "能扛15级台风",
+            "verdict": "支持",
+            "evidence": "9"
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "claims": [
+          {
+            "claim": "第二默迪卡118 678.9米",
+            "verdict": "支持",
+            "evidence": "10"
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "claims": [
+          {
+            "claim": "第一迪拜哈利法塔828米",
+            "verdict": "支持",
+            "evidence": "11"
+          },
+          {
+            "claim": "相当于270多层居民楼",
+            "verdict": "支持",
+            "evidence": "11"
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "claims": [
+          {
+            "claim": "中国三座进前十",
+            "verdict": "矛盾",
+            "evidence": "2,3,4,7,9 共五座"
+          },
+          {
+            "claim": "没有一座能摸到700米",
+            "verdict": "支持",
+            "evidence": "2,3,4,7,9 最高632"
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "claims": [
+          {
+            "claim": "整句为观点/因果推断，无事实判词",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 16,
+        "claims": [
+          {
+            "claim": "过渡问句，无事实判词",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 17,
+        "claims": [
+          {
+            "claim": "重庆约147座",
+            "verdict": "支持",
+            "evidence": "12"
+          },
+          {
+            "claim": "最高陆海国际中心458米",
+            "verdict": "支持",
+            "evidence": "12"
+          }
+        ]
+      },
+      {
+        "index": 18,
+        "claims": [
+          {
+            "claim": "吉隆坡263座",
+            "verdict": "支持",
+            "evidence": "13"
+          }
+        ]
+      },
+      {
+        "index": 19,
+        "claims": [
+          {
+            "claim": "迪拜356座",
+            "verdict": "支持",
+            "evidence": "14"
+          }
+        ]
+      },
+      {
+        "index": 20,
+        "claims": [
+          {
+            "claim": "武汉约395座",
+            "verdict": "支持",
+            "evidence": "15"
+          },
+          {
+            "claim": "最高绿地中心475米",
+            "verdict": "支持",
+            "evidence": "15"
+          }
+        ]
+      },
+      {
+        "index": 21,
+        "claims": [
+          {
+            "claim": "广州约412座",
+            "verdict": "支持",
+            "evidence": "16"
+          },
+          {
+            "claim": "最高东塔530米",
+            "verdict": "支持",
+            "evidence": "16"
+          }
+        ]
+      },
+      {
+        "index": 22,
+        "claims": [
+          {
+            "claim": "东京超638座",
+            "verdict": "支持",
+            "evidence": "17"
+          },
+          {
+            "claim": "最高是634米晴空塔",
+            "verdict": "支持",
+            "evidence": "17"
+          }
+        ]
+      },
+      {
+        "index": 23,
+        "claims": [
+          {
+            "claim": "晴空塔是观光塔",
+            "verdict": "支持",
+            "evidence": "17"
+          },
+          {
+            "claim": "不是写字楼",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 24,
+        "claims": [
+          {
+            "claim": "新加坡516座",
+            "verdict": "支持",
+            "evidence": "18"
+          },
+          {
+            "claim": "最高丹戎巴葛中心290米",
+            "verdict": "支持",
+            "evidence": "18"
+          }
+        ]
+      },
+      {
+        "index": 25,
+        "claims": [
+          {
+            "claim": "纽约约830座",
+            "verdict": "支持",
+            "evidence": "19"
+          }
+        ]
+      },
+      {
+        "index": 26,
+        "claims": [
+          {
+            "claim": "深圳超1553座",
+            "verdict": "支持",
+            "evidence": "20"
+          }
+        ]
+      },
+      {
+        "index": 27,
+        "claims": [
+          {
+            "claim": "香港约1985座",
+            "verdict": "支持",
+            "evidence": "21"
+          }
+        ]
+      },
+      {
+        "index": 28,
+        "claims": [
+          {
+            "claim": "中国五城包揽半壁",
+            "verdict": "支持",
+            "evidence": "1,12,15,16,20,21"
+          }
+        ]
+      },
+      {
+        "index": 29,
+        "claims": [
+          {
+            "claim": "香港地方狭小只能向上发展",
+            "verdict": "支持",
+            "evidence": "21"
+          }
+        ]
+      },
+      {
+        "index": 30,
+        "claims": [
+          {
+            "claim": "深圳把限高压到80米",
+            "verdict": "支持",
+            "evidence": "20"
+          },
+          {
+            "claim": "深圳明明有地有需求（观点）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 31,
+        "claims": [
+          {
+            "claim": "整句为提问/观点，无事实判词",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 32,
+        "claims": [
+          {
+            "claim": "整句为过渡/观点，无事实判词",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 33,
+        "claims": [
+          {
+            "claim": "深圳1553座",
+            "verdict": "支持",
+            "evidence": "20"
+          },
+          {
+            "claim": "原则限高80米",
+            "verdict": "支持",
+            "evidence": "20"
+          },
+          {
+            "claim": "超标要特批",
+            "verdict": "支持",
+            "evidence": "20"
+          }
+        ]
+      },
+      {
+        "index": 34,
+        "claims": [
+          {
+            "claim": "新加坡为樟宜机场安全全境禁修300米以上",
+            "verdict": "支持",
+            "evidence": "18"
+          }
+        ]
+      },
+      {
+        "index": 35,
+        "claims": [
+          {
+            "claim": "东京受抗震和航空双重约束",
+            "verdict": "支持",
+            "evidence": "17"
+          },
+          {
+            "claim": "极少建300米以上",
+            "verdict": "支持",
+            "evidence": "17"
+          }
+        ]
+      },
+      {
+        "index": 36,
+        "claims": [
+          {
+            "claim": "武汉严控500米以上",
+            "verdict": "支持",
+            "evidence": "15"
+          },
+          {
+            "claim": "广州对100米以上审批谨慎",
+            "verdict": "支持",
+            "evidence": "16"
+          }
+        ]
+      },
+      {
+        "index": 37,
+        "claims": [
+          {
+            "claim": "迪拜无硬性上限",
+            "verdict": "支持",
+            "evidence": "14"
+          },
+          {
+            "claim": "迪拜不再随便批摩天大楼",
+            "verdict": "支持",
+            "evidence": "14"
+          }
+        ]
+      },
+      {
+        "index": 38,
+        "claims": [
+          {
+            "claim": "香港用差异化限高兼顾维港景观",
+            "verdict": "支持",
+            "evidence": "21"
+          },
+          {
+            "claim": "避免遮山遮海",
+            "verdict": "支持",
+            "evidence": "21"
+          }
+        ]
+      },
+      {
+        "index": 39,
+        "claims": [
+          {
+            "claim": "整句为观点/趋势判断，无事实判词",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 40,
+        "claims": [
+          {
+            "claim": "整句为观点，无事实判词",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 41,
+        "claims": [
+          {
+            "claim": "提问，无事实判词",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 42,
+        "claims": [
+          {
+            "claim": "互动引导，无事实判词",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 43,
+        "claims": [
+          {
+            "claim": "提问，无事实判词",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 44,
+        "claims": [
+          {
+            "claim": "深圳把限高压到80米",
+            "verdict": "支持",
+            "evidence": "20"
+          }
+        ]
+      },
+      {
+        "index": 45,
+        "claims": [
+          {
+            "claim": "互动引导，无事实判词",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      }
+    ],
+    "verdict_counts": {
+      "支持": 57,
+      "无支撑": 1,
+      "矛盾": 1,
+      "非判词": 13
+    },
+    "support_rate": 0.966
+  },
+  "q2": {
+    "items": [
+      {
+        "index": 34,
+        "verdict": "弱匹配",
+        "why": "片段文本出现“新加坡”和航空限高，但未直接显示“樟宜机场安全全境禁修300米以上”的完整断言，且夹杂东京内容，细节无法确认。"
+      }
+    ],
+    "verdict_counts": {
+      "匹配": 0,
+      "弱匹配": 1,
+      "错位": 0
+    },
+    "sentence_total": 46,
+    "headline_q2": 0.011
+  },
+  "q4": {
+    "titles": [
+      {
+        "platform": "B站",
+        "information": 4,
+        "accuracy": 2,
+        "appeal": 4,
+        "why": "点出两大看点但“中国占三席”实为五席，事实错误拖累准确。"
+      },
+      {
+        "platform": "西瓜视频/抖音",
+        "information": 4,
+        "accuracy": 2,
+        "appeal": 4,
+        "why": "信息量与吸引力尚可，但同样存在“中国占三席”硬伤。"
+      },
+      {
+        "platform": "微信视频号",
+        "information": 2,
+        "accuracy": 2,
+        "appeal": 2,
+        "why": "标题过简且事实错误，未体现具体数据或看点。"
+      }
+    ]
+  },
+  "q5": {
+    "flow": 5,
+    "density": 5,
+    "fact_boundary": 2,
+    "why": "结构清晰、数据密集，但“中国三座进前十”与底座五席矛盾，且若干观点/政策归因缺乏依据，事实边界需收紧。"
+  },
+  "n_sentences": 46,
+  "api_model": "deepseek-v4-pro",
+  "api_usage": {
+    "prompt_tokens": 4883,
+    "completion_tokens": 15347,
+    "total_tokens": 20230,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 12517
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 4883
+  },
+  "elapsed_s": 191.5
+}

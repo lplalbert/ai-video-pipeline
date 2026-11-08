@@ -1,0 +1,506 @@
+{
+  "sid": "cb68d6086938",
+  "judge": "pro",
+  "judge_model": "mimo-v2.6-pro",
+  "ts": "2026-11-08T19:22:10",
+  "n_sentences": 30,
+  "q1": {
+    "items": [
+      {
+        "index": 0,
+        "claims": [
+          {
+            "claim": "足球史上有三大奇迹",
+            "verdict": "非判词",
+            "evidence": "无"
+          },
+          {
+            "claim": "真正改写历史的从来不是运气，是有人在绝境里做了正确决策",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "claims": [
+          {
+            "claim": "本片盘点三场名局",
+            "verdict": "非判词",
+            "evidence": "无"
+          },
+          {
+            "claim": "奇迹和崩盘之间只隔着一个选择",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "claims": [
+          {
+            "claim": "先说伊斯坦布尔",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "claims": [
+          {
+            "claim": "2005年5月25日欧冠决赛，AC米兰对阵利物浦",
+            "verdict": "支持",
+            "evidence": "1"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "claims": [
+          {
+            "claim": "上半场AC米兰3-0领先",
+            "verdict": "支持",
+            "evidence": "2"
+          },
+          {
+            "claim": "中场哨响那一刻没人觉得还有悬念",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "claims": [
+          {
+            "claim": "转折在哪儿",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "claims": [
+          {
+            "claim": "利物浦约6分钟内连进3球扳成3-3",
+            "verdict": "支持",
+            "evidence": "3"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "claims": [
+          {
+            "claim": "这锅得算在安切洛蒂头上",
+            "verdict": "非判词",
+            "evidence": "无"
+          },
+          {
+            "claim": "AC米兰3-0领先时放中场对攻",
+            "verdict": "无支撑",
+            "evidence": "无"
+          },
+          {
+            "claim": "安切洛蒂低估了贝尼特斯的变阵决心",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "claims": [
+          {
+            "claim": "AC米兰上半场3-0领先利物浦",
+            "verdict": "支持",
+            "evidence": "2"
+          },
+          {
+            "claim": "利物浦在约6分钟内连进3球扳成3-3",
+            "verdict": "支持",
+            "evidence": "3"
+          },
+          {
+            "claim": "是米兰松懈还是利物浦战术调整精准（归因）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "claims": [
+          {
+            "claim": "点球大战利物浦3-2取胜夺冠",
+            "verdict": "支持",
+            "evidence": "4"
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "claims": [
+          {
+            "claim": "落后方六分钟内敢赌敢冲的决策值得学",
+            "verdict": "非判词",
+            "evidence": "无"
+          },
+          {
+            "claim": "不是玄学",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "claims": [
+          {
+            "claim": "存在被称为诺坎普奇迹的比赛",
+            "verdict": "支持",
+            "evidence": "5"
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "claims": [
+          {
+            "claim": "2017年3月8日欧冠1/8决赛次回合",
+            "verdict": "支持",
+            "evidence": "5"
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "claims": [
+          {
+            "claim": "首回合巴黎圣日耳曼主场4-0占先",
+            "verdict": "支持",
+            "evidence": "5"
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "claims": [
+          {
+            "claim": "次回合巴萨主场6-1逆转晋级",
+            "verdict": "支持",
+            "evidence": "6"
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "claims": [
+          {
+            "claim": "恩里克的高位逼抢加无球跑动把巴黎后防拖垮（归因）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 16,
+        "claims": [
+          {
+            "claim": "巴萨战术碾压，还是巴黎防守崩盘（设问，无事实断言）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 17,
+        "claims": [
+          {
+            "claim": "巴黎首回合4-0领先（四球领先）",
+            "verdict": "支持",
+            "evidence": "5"
+          },
+          {
+            "claim": "巴黎主帅是埃梅里",
+            "verdict": "无支撑",
+            "evidence": "无"
+          },
+          {
+            "claim": "巴黎主帅埃梅里的临场应变被彻底打爆",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 18,
+        "claims": [
+          {
+            "claim": "总比分领先不等于安全，领先方一旦不敢收缩，奇迹就是对手的（观点/修辞）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 19,
+        "claims": [
+          {
+            "claim": "最后是希腊神话（转场语，无事实断言）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 20,
+        "claims": [
+          {
+            "claim": "2004年欧洲杯揭幕战希腊2-1爆冷击败东道主葡萄牙",
+            "verdict": "支持",
+            "evidence": "7"
+          }
+        ]
+      },
+      {
+        "index": 21,
+        "claims": [
+          {
+            "claim": "希腊淘汰赛1-0胜法国进四强",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "希腊决赛1-0胜葡萄牙，首夺德劳内杯",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 22,
+        "claims": [
+          {
+            "claim": "查理斯特亚斯决赛破门",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 23,
+        "claims": [
+          {
+            "claim": "雷哈格尔的战术是铁桶阵加定位球",
+            "verdict": "无支撑",
+            "evidence": "无"
+          },
+          {
+            "claim": "雷哈格尔这套战术是本届杯赛被低估的战术教科书（观点）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 24,
+        "claims": [
+          {
+            "claim": "希腊踢得好",
+            "verdict": "非判词",
+            "evidence": "无"
+          },
+          {
+            "claim": "强队轻敌",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 25,
+        "claims": [
+          {
+            "claim": "葡萄牙、法国、西班牙都栽在同一套打法上",
+            "verdict": "无支撑",
+            "evidence": "无"
+          },
+          {
+            "claim": "该打法是密集防守加高效反击",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 26,
+        "claims": [
+          {
+            "claim": "奇迹从不是凭空降临，是有人在绝境里选对了路",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 27,
+        "claims": [
+          {
+            "claim": "三场名局",
+            "verdict": "支持",
+            "evidence": "口径禁区：本片盘点三场名局"
+          },
+          {
+            "claim": "你最服哪一个的战术决策",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 28,
+        "claims": [
+          {
+            "claim": "贝尼特斯的六分钟变阵",
+            "verdict": "无支撑",
+            "evidence": "无"
+          },
+          {
+            "claim": "恩里克的高位逼抢",
+            "verdict": "无支撑",
+            "evidence": "无"
+          },
+          {
+            "claim": "雷哈格尔的铁桶阵",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 29,
+        "claims": [
+          {
+            "claim": "评论区告诉我你的判断",
+            "verdict": "非判词",
+            "evidence": "无"
+          },
+          {
+            "claim": "你见过比这更离谱的逆转吗",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      }
+    ],
+    "verdict_counts": {
+      "支持": 16,
+      "无支撑": 8,
+      "矛盾": 0,
+      "非判词": 24
+    },
+    "support_rate": 0.667
+  },
+  "q2": {
+    "items": [
+      {
+        "index": 3,
+        "verdict": "匹配",
+        "why": "片段明确提到2005年5月25日欧冠决赛AC米兰对利物浦，与解说句完全一致。"
+      },
+      {
+        "index": 6,
+        "verdict": "匹配",
+        "why": "片段提到利物浦6分多钟内将比分改写为3比3，与解说句连进三球扳平一致。"
+      },
+      {
+        "index": 7,
+        "verdict": "错位",
+        "why": "片段描述的是开场1比0领先及场上局势，未涉及安切洛蒂放中场对攻或贝尼特斯变阵的判断。"
+      },
+      {
+        "index": 9,
+        "verdict": "匹配",
+        "why": "片段提到舍甫琴科点球被扑、利物浦点球大战3比2胜出夺冠，与解说句一致。"
+      },
+      {
+        "index": 12,
+        "verdict": "匹配",
+        "why": "片段明确提到2017年3月8日欧冠八分之一决赛次回合，与解说句时点和事件一致。"
+      },
+      {
+        "index": 14,
+        "verdict": "弱匹配",
+        "why": "片段提到巴萨主场对阵巴黎圣日耳曼的次回合，但未提及6比1逆转晋级的结果，仅能确认事件背景相关。"
+      },
+      {
+        "index": 15,
+        "verdict": "错位",
+        "why": "解说句说的是恩里克高位逼抢拖垮巴黎后防，片段说的是恩里克第65分钟换人调整，动作和事件不符"
+      },
+      {
+        "index": 20,
+        "verdict": "匹配",
+        "why": "片段明确提到希腊2-1战胜葡萄牙拿到开门红，与解说句揭幕战爆冷击败东道主葡萄牙一致"
+      },
+      {
+        "index": 21,
+        "verdict": "弱匹配",
+        "why": "片段提到一比零淘汰法国与解说句一致，但未提及决赛胜葡萄牙和首夺德劳内杯，细节无法完全确认"
+      },
+      {
+        "index": 22,
+        "verdict": "匹配",
+        "why": "片段提到查理斯特亚斯无人防守下强力头球破门，希腊一比零领先，与解说句决赛破门一致"
+      },
+      {
+        "index": 23,
+        "verdict": "弱匹配",
+        "why": "片段提到主帅雷哈格尔是希腊的王牌，但未具体提及铁桶阵加定位球的战术细节"
+      }
+    ],
+    "verdict_counts": {
+      "匹配": 6,
+      "弱匹配": 3,
+      "错位": 2
+    },
+    "sentence_total": 30,
+    "headline_q2": 0.25
+  },
+  "q4": {
+    "titles": [
+      {
+        "platform": "B站",
+        "information": 5,
+        "accuracy": 5,
+        "appeal": 5,
+        "why": "三大看点全列出，信息量足，结尾金句提升点击欲"
+      },
+      {
+        "platform": "西瓜视频/抖音（中视频伙伴计划）",
+        "information": 4,
+        "accuracy": 4,
+        "appeal": 4,
+        "why": "聚焦伊斯坦布尔一场，悬念设置好，但只覆盖三大奇迹之一"
+      },
+      {
+        "platform": "微信视频号",
+        "information": 2,
+        "accuracy": 3,
+        "appeal": 3,
+        "why": "过于简略，未点明是哪场翻盘，信息量不足"
+      }
+    ]
+  },
+  "q5": {
+    "flow": 4,
+    "density": 4,
+    "fact_boundary": 3,
+    "why": "叙事结构清晰、节奏紧凑，干货密度较高，但多处归因（如安切洛蒂放任对攻、恩里克高位逼抢是分水岭）属主观断言且缺乏佐证，事实边界需收紧。"
+  },
+  "elapsed_s": 50.9
+}

@@ -1,0 +1,561 @@
+{
+  "sid": "591872f7b43a",
+  "judge": "deepseek-flash",
+  "judge_model": "external:deepseek-flash",
+  "ts": "2026-11-08T10:32:53",
+  "source": "api",
+  "q1": {
+    "items": [
+      {
+        "index": 0,
+        "claims": [
+          {
+            "claim": "IG这波采访语音刷屏（赛后采访与队内语音多方曝光）",
+            "verdict": "支持",
+            "evidence": "底座1"
+          },
+          {
+            "claim": "第二局猴子Wei自己承认打团送了两三波",
+            "verdict": "支持",
+            "evidence": "底座4"
+          },
+          {
+            "claim": "最该被记住的不是Rookie的泪目（取舍评价）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "claims": [
+          {
+            "claim": "IG赢了四强（3-1 TES晋级四强）",
+            "verdict": "支持",
+            "evidence": "底座1"
+          },
+          {
+            "claim": "这才是IG现在最可怕的地方（评价）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "claims": [
+          {
+            "claim": "接下来讲Wei采访（结构提示）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "claims": [
+          {
+            "claim": "主持人问他连续拿一血",
+            "verdict": "支持",
+            "evidence": "底座2"
+          },
+          {
+            "claim": "他说训练赛内容带进比赛、前期找机会能力强",
+            "verdict": "支持",
+            "evidence": "底座2"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "claims": [
+          {
+            "claim": "IG前期节奏不是灵光一现是练出来的（推论）",
+            "verdict": "非判词",
+            "evidence": "底座2（弱依据的主观推论）"
+          },
+          {
+            "claim": "亮了一半底牌（修辞）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "claims": [
+          {
+            "claim": "他复盘第二局说猴子打团送了两三波",
+            "verdict": "支持",
+            "evidence": "底座4"
+          },
+          {
+            "claim": "第三局才把心态调好",
+            "verdict": "支持",
+            "evidence": "底座4"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "claims": [
+          {
+            "claim": "打野在采访里这么拆自己（评价与二选一猜测）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "claims": [
+          {
+            "claim": "抛问观众（互动）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "claims": [
+          {
+            "claim": "Wei复盘了第一局蓝BUFF区三打五",
+            "verdict": "支持",
+            "evidence": "底座3"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "claims": [
+          {
+            "claim": "对方先交多个大招击杀辛德拉",
+            "verdict": "支持",
+            "evidence": "底座3"
+          },
+          {
+            "claim": "自己位置不利难拉扯",
+            "verdict": "支持",
+            "evidence": "底座3"
+          },
+          {
+            "claim": "等对面技能交完再找机会、小技能沟通到位才打赢",
+            "verdict": "支持",
+            "evidence": "底座3"
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "claims": [
+          {
+            "claim": "先扛、后等、再反打（概括修辞）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "claims": [
+          {
+            "claim": "不是操作碾压是信息差碾压（评价）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "claims": [
+          {
+            "claim": "IG这局赢在麦克风里那几秒的报技能（主观判断）",
+            "verdict": "非判词",
+            "evidence": "底座3（判断依据）"
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "claims": [
+          {
+            "claim": "等于告诉后面所有对手要掐断IG语音流（推断）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "claims": [
+          {
+            "claim": "TheShy英文流采访",
+            "verdict": "支持",
+            "evidence": "底座6"
+          },
+          {
+            "claim": "讲两件事（结构提示）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "claims": [
+          {
+            "claim": "暂停时新人jiaqi很紧张，TheShy以哥哥身份安慰",
+            "verdict": "支持",
+            "evidence": "底座6"
+          }
+        ]
+      },
+      {
+        "index": 16,
+        "claims": [
+          {
+            "claim": "他自评薇恩那把是自己的失误、非常愧疚",
+            "verdict": "支持",
+            "evidence": "底座6（标题口径）"
+          }
+        ]
+      },
+      {
+        "index": 17,
+        "claims": [
+          {
+            "claim": "老将认锅比赢十把有说服力（评价）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 18,
+        "claims": [
+          {
+            "claim": "今年长时间休息后回归，心态转为努力带队",
+            "verdict": "支持",
+            "evidence": "底座7"
+          },
+          {
+            "claim": "队伍需要他玩什么就玩什么",
+            "verdict": "支持",
+            "evidence": "底座7"
+          },
+          {
+            "claim": "IG制胜计划围绕打野和下路",
+            "verdict": "支持",
+            "evidence": "底座7"
+          }
+        ]
+      },
+      {
+        "index": 19,
+        "claims": [
+          {
+            "claim": "从「我要秀」变「我配合」（解读）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 20,
+        "claims": [
+          {
+            "claim": "这个转变TES没算到",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 21,
+        "claims": [
+          {
+            "claim": "主持人称Rookie自2019年后再次闯进全球总决赛四强",
+            "verdict": "支持",
+            "evidence": "底座8"
+          }
+        ]
+      },
+      {
+        "index": 22,
+        "claims": [
+          {
+            "claim": "历届世界赛非十六强即四强或冠军",
+            "verdict": "支持",
+            "evidence": "底座8"
+          },
+          {
+            "claim": "先打好四强有机会争冠",
+            "verdict": "支持",
+            "evidence": "底座8"
+          },
+          {
+            "claim": "2018年曾亲手捧起冠军奖杯",
+            "verdict": "支持",
+            "evidence": "底座8"
+          },
+          {
+            "claim": "如今心态与决心更强烈",
+            "verdict": "支持",
+            "evidence": "底座8"
+          },
+          {
+            "claim": "对粉丝喊话「IG又回来了」",
+            "verdict": "支持",
+            "evidence": "底座8"
+          }
+        ]
+      },
+      {
+        "index": 23,
+        "claims": [
+          {
+            "claim": "阿水赛后采访被自媒体转引",
+            "verdict": "支持",
+            "evidence": "底座8"
+          },
+          {
+            "claim": "称IG现在实力很强、最有希望夺冠",
+            "verdict": "支持",
+            "evidence": "底座8（转引口径）"
+          },
+          {
+            "claim": "祝福出身于IG的老东家",
+            "verdict": "支持",
+            "evidence": "底座8（转引口径）"
+          }
+        ]
+      },
+      {
+        "index": 24,
+        "claims": [
+          {
+            "claim": "一个TES选手公开说IG最有希望",
+            "verdict": "支持",
+            "evidence": "底座8（转引口径）"
+          },
+          {
+            "claim": "是真心还是客套（提问）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 25,
+        "claims": [
+          {
+            "claim": "进入队内语音环节（结构提示）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 26,
+        "claims": [
+          {
+            "claim": "Wei开场感叹并与jiaqi互动",
+            "verdict": "支持",
+            "evidence": "底座8"
+          },
+          {
+            "claim": "标题口径为「我和嘉琪现在很可怕」",
+            "verdict": "支持",
+            "evidence": "底座8（标题口径）"
+          }
+        ]
+      },
+      {
+        "index": 27,
+        "claims": [
+          {
+            "claim": "收尾是Meiko指挥「拆塔、点塔、一波」",
+            "verdict": "支持",
+            "evidence": "底座8"
+          }
+        ]
+      },
+      {
+        "index": 28,
+        "claims": [
+          {
+            "claim": "采访说给观众听、语音说给队友听（比喻）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 29,
+        "claims": [
+          {
+            "claim": "Wei在采访中自曝送人头、Meiko在语音里直接喊一波",
+            "verdict": "支持",
+            "evidence": "底座4/底座8"
+          },
+          {
+            "claim": "更衣室文化是错了就认、赢了就冲（评价）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 30,
+        "claims": [
+          {
+            "claim": "某些队伍输了互相甩锅，氛围完全不同",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 31,
+        "claims": [
+          {
+            "claim": "真性情还是公关秀（设问）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 32,
+        "claims": [
+          {
+            "claim": "坦荡还是摆烂（设问）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 33,
+        "claims": [
+          {
+            "claim": "打分互动（提问）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 34,
+        "claims": [
+          {
+            "claim": "IG现在的问题不是实力而是怎么赢下后面三个BO5",
+            "verdict": "无支撑",
+            "evidence": "无（晋级四强后剩余淘汰赛轮次未在底座给出，三个BO5无依据）"
+          }
+        ]
+      },
+      {
+        "index": 35,
+        "claims": [
+          {
+            "claim": "关注引导（行动号召）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      }
+    ],
+    "verdict_counts": {
+      "支持": 31,
+      "无支撑": 3,
+      "矛盾": 0,
+      "非判词": 22
+    },
+    "support_rate": 0.912
+  },
+  "q2": {
+    "items": [
+      {
+        "index": 0,
+        "verdict": "匹配",
+        "why": "片段即Wei谈第二局猴子打团送两三波的原声，主体、事件、时点一致"
+      },
+      {
+        "index": 8,
+        "verdict": "匹配",
+        "why": "片段时间主持人点题第一局蓝BUFF区三打五并请其复盘，与解说句同一事件"
+      },
+      {
+        "index": 14,
+        "verdict": "弱匹配",
+        "why": "仅见英文流致谢翻译的客套语，无法确认就是TheShy谈两件事的对应画面内容"
+      },
+      {
+        "index": 21,
+        "verdict": "匹配",
+        "why": "片段为主持人提及Rookie自2019年重回世界赛的提问，与其后闯进四强语境一致"
+      },
+      {
+        "index": 27,
+        "verdict": "错位",
+        "why": "片段是英文讨论选手的闲谈，与Meiko指挥拆塔点塔一波无关"
+      }
+    ],
+    "verdict_counts": {
+      "匹配": 3,
+      "弱匹配": 1,
+      "错位": 1
+    },
+    "sentence_total": 36,
+    "headline_q2": 0.097
+  },
+  "q4": {
+    "titles": [
+      {
+        "platform": "B站",
+        "information": 5,
+        "accuracy": 4,
+        "appeal": 4,
+        "why": "说清赛事结果与三大看点，仅「比赢比赛更狠」为主观加码"
+      },
+      {
+        "platform": "西瓜视频/抖音（中视频伙伴计划）",
+        "information": 3,
+        "accuracy": 4,
+        "appeal": 4,
+        "why": "保留核心钩子但缺赛事信息与三打五看点，信息偏薄"
+      },
+      {
+        "platform": "微信视频号",
+        "information": 2,
+        "accuracy": 4,
+        "appeal": 3,
+        "why": "只有一句主观判断，未交代IG/赛事背景，点击驱动不足"
+      }
+    ]
+  },
+  "q5": {
+    "flow": 4,
+    "density": 3,
+    "fact_boundary": 3,
+    "why": "分段清晰、推进顺畅，但「我说白了」等重复注水较多，且「TES没算到」「后面三个BO5」「某些队伍甩锅」等断言越出事实底座"
+  },
+  "n_sentences": 36,
+  "api_model": "deepseek-flash",
+  "api_usage": {
+    "prompt_tokens": 4811,
+    "completion_tokens": 4234,
+    "total_tokens": 9045,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 2093
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 4811
+  },
+  "elapsed_s": 23.7
+}

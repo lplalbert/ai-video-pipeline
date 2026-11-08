@@ -1,0 +1,546 @@
+{
+  "sid": "aeb3cd48a0af",
+  "judge": "deepseek",
+  "judge_model": "external:deepseek",
+  "ts": "2026-11-08T19:08:24",
+  "source": "api",
+  "q1": {
+    "items": [
+      {
+        "index": 0,
+        "claims": [
+          {
+            "claim": "半场0比3的伊斯坦布尔",
+            "verdict": "支持",
+            "evidence": "2"
+          },
+          {
+            "claim": "首回合0比4的诺坎普",
+            "verdict": "支持",
+            "evidence": "5"
+          },
+          {
+            "claim": "决赛打东道主的希腊神话",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "claims": [
+          {
+            "claim": "整句（观点/预告）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "claims": [
+          {
+            "claim": "整句（过渡）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "claims": [
+          {
+            "claim": "2005年5月25号，欧冠决赛，AC米兰对利物浦",
+            "verdict": "支持",
+            "evidence": "1"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "claims": [
+          {
+            "claim": "上半场米兰3比0",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "claims": [
+          {
+            "claim": "马尔蒂尼开场就进球",
+            "verdict": "无支撑",
+            "evidence": "无"
+          },
+          {
+            "claim": "克雷斯波梅开二度",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "claims": [
+          {
+            "claim": "下半场利物浦约6分钟内连进3球，扳成3比3",
+            "verdict": "支持",
+            "evidence": "3"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "claims": [
+          {
+            "claim": "整句（设问过渡）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "claims": [
+          {
+            "claim": "杰拉德头球",
+            "verdict": "无支撑",
+            "evidence": "无"
+          },
+          {
+            "claim": "哈曼换上场",
+            "verdict": "无支撑",
+            "evidence": "无"
+          },
+          {
+            "claim": "斯米切尔和阿隆索跟进",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "claims": [
+          {
+            "claim": "整句（主观判断）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "claims": [
+          {
+            "claim": "点球大战利物浦3比2拿下",
+            "verdict": "支持",
+            "evidence": "4"
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "claims": [
+          {
+            "claim": "整句（设问过渡）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "claims": [
+          {
+            "claim": "半场3球的差距，6分钟就能抹平",
+            "verdict": "支持",
+            "evidence": "2,3"
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "claims": [
+          {
+            "claim": "整句（过渡）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "claims": [
+          {
+            "claim": "2017年3月8号，欧冠1/8决赛次回合",
+            "verdict": "支持",
+            "evidence": "5"
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "claims": [
+          {
+            "claim": "首回合巴黎圣日耳曼主场4比0",
+            "verdict": "支持",
+            "evidence": "5"
+          }
+        ]
+      },
+      {
+        "index": 16,
+        "claims": [
+          {
+            "claim": "次回合主场巴塞罗那6比1逆转晋级",
+            "verdict": "支持",
+            "evidence": "6"
+          }
+        ]
+      },
+      {
+        "index": 17,
+        "claims": [
+          {
+            "claim": "苏亚雷斯开场进球",
+            "verdict": "无支撑",
+            "evidence": "无"
+          },
+          {
+            "claim": "梅西点球",
+            "verdict": "无支撑",
+            "evidence": "无"
+          },
+          {
+            "claim": "内马尔梅开二度",
+            "verdict": "无支撑",
+            "evidence": "无"
+          },
+          {
+            "claim": "补时再进一个",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 18,
+        "claims": [
+          {
+            "claim": "整句（反问/观点）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 19,
+        "claims": [
+          {
+            "claim": "巴萨当时有MSN三叉戟",
+            "verdict": "无支撑",
+            "evidence": "无"
+          },
+          {
+            "claim": "巴萨主场作战",
+            "verdict": "支持",
+            "evidence": "6"
+          }
+        ]
+      },
+      {
+        "index": 20,
+        "claims": [
+          {
+            "claim": "整句（问句）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 21,
+        "claims": [
+          {
+            "claim": "整句（主观判断）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 22,
+        "claims": [
+          {
+            "claim": "整句（观点）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 23,
+        "claims": [
+          {
+            "claim": "整句（过渡）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 24,
+        "claims": [
+          {
+            "claim": "希腊揭幕战在巨龙球场2比1胜葡萄牙",
+            "verdict": "支持",
+            "evidence": "7"
+          },
+          {
+            "claim": "淘汰赛1比0胜法国进四强",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "决赛又1比0再胜葡萄牙，首夺德劳内杯",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 25,
+        "claims": [
+          {
+            "claim": "查理斯特亚斯决赛头球破门",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 26,
+        "claims": [
+          {
+            "claim": "整句（评价/设问）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 27,
+        "claims": [
+          {
+            "claim": "整句（观点分析）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 28,
+        "claims": [
+          {
+            "claim": "雷哈格尔的球队靠铁桶阵加定位球",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 29,
+        "claims": [
+          {
+            "claim": "希腊连赢法国和葡萄牙两场1比0",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 30,
+        "claims": [
+          {
+            "claim": "整句（观点总结）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 31,
+        "claims": [
+          {
+            "claim": "整句（问句）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 32,
+        "claims": [
+          {
+            "claim": "伊斯坦布尔的6分钟",
+            "verdict": "支持",
+            "evidence": "3"
+          },
+          {
+            "claim": "诺坎普的6比1",
+            "verdict": "支持",
+            "evidence": "6"
+          },
+          {
+            "claim": "希腊的两场1比0",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 33,
+        "claims": [
+          {
+            "claim": "整句（互动引导）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      }
+    ],
+    "verdict_counts": {
+      "支持": 20,
+      "无支撑": 11,
+      "矛盾": 0,
+      "非判词": 16
+    },
+    "support_rate": 0.645
+  },
+  "q2": {
+    "items": [
+      {
+        "index": 3,
+        "verdict": "匹配",
+        "why": "片段明确提到2005年5月25号欧冠决赛AC米兰对利物浦，与解说句一致"
+      },
+      {
+        "index": 5,
+        "verdict": "弱匹配",
+        "why": "片段提到克雷斯波进球及比分2:0，但未提马尔蒂尼和3:0，细节不完整"
+      },
+      {
+        "index": 6,
+        "verdict": "匹配",
+        "why": "片段明确提到利物浦6分多钟扳为三比三，与解说句一致"
+      },
+      {
+        "index": 8,
+        "verdict": "弱匹配",
+        "why": "片段仅提到杰拉德、阿隆索等名字，未涉及具体进球或换人动作"
+      },
+      {
+        "index": 9,
+        "verdict": "错位",
+        "why": "片段提及第23分钟贝尼特斯换人（斯米切尔），而解说句指向下半场6分钟的关键换人，时点不符"
+      },
+      {
+        "index": 10,
+        "verdict": "匹配",
+        "why": "片段明确提到点球大战利物浦3比2胜出，与解说句一致"
+      },
+      {
+        "index": 14,
+        "verdict": "匹配",
+        "why": "片段明确提到2017年3月8日欧冠八分之一决赛次回合，与解说句一致"
+      },
+      {
+        "index": 15,
+        "verdict": "匹配",
+        "why": "片段通过恩里克言论“他们能进我们四个”对应首回合巴黎4:0，内容一致"
+      },
+      {
+        "index": 16,
+        "verdict": "匹配",
+        "why": "片段明确提到六比一和导演逆转，与解说句一致"
+      },
+      {
+        "index": 17,
+        "verdict": "弱匹配",
+        "why": "片段仅出现苏亚雷斯进球镜头，梅西点球和内马尔梅开二度未体现"
+      },
+      {
+        "index": 24,
+        "verdict": "弱匹配",
+        "why": "片段仅对应决赛希腊对葡萄牙，未覆盖揭幕战和淘汰赛，且地点为光明球场而非巨龙球场"
+      },
+      {
+        "index": 25,
+        "verdict": "错位",
+        "why": "片段提到巴特斯无能为力，对应淘汰赛对法国，而非解说句所指决赛对葡萄牙"
+      },
+      {
+        "index": 28,
+        "verdict": "弱匹配",
+        "why": "片段提到雷哈格尔，但未涉及铁桶阵、定位球等具体战术描述"
+      }
+    ],
+    "verdict_counts": {
+      "匹配": 6,
+      "弱匹配": 5,
+      "错位": 2
+    },
+    "sentence_total": 34,
+    "headline_q2": 0.25
+  },
+  "q4": {
+    "titles": [
+      {
+        "platform": "B站",
+        "information": 4,
+        "accuracy": 3,
+        "appeal": 4,
+        "why": "信息丰富且包含悬念，但“规则漏洞”与内文“巴黎保守”不完全相符，略有夸大"
+      },
+      {
+        "platform": "西瓜视频/抖音（中视频伙伴计划）",
+        "information": 3,
+        "accuracy": 4,
+        "appeal": 3,
+        "why": "标题被截断导致信息不完整，但已点出主题，吸引力一般"
+      },
+      {
+        "platform": "微信视频号",
+        "information": 2,
+        "accuracy": 5,
+        "appeal": 2,
+        "why": "过于笼统，未突出具体看点，点击欲较低"
+      }
+    ]
+  },
+  "q5": {
+    "flow": 5,
+    "density": 4,
+    "fact_boundary": 4,
+    "why": "叙事紧凑、结构清晰，信息密度较高且观点标注明确，但部分细节未标明出处，事实边界略有扩张"
+  },
+  "n_sentences": 34,
+  "api_model": "deepseek-v4-pro",
+  "api_usage": {
+    "prompt_tokens": 3982,
+    "completion_tokens": 14663,
+    "total_tokens": 18645,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 11928
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 3982
+  },
+  "elapsed_s": 194.2
+}

@@ -1,0 +1,566 @@
+{
+  "sid": "8e8e6753587a",
+  "judge": "deepseek",
+  "judge_model": "external:deepseek",
+  "ts": "2026-11-08T15:18:33",
+  "source": "api",
+  "q1": {
+    "items": [
+      {
+        "index": 0,
+        "claims": [
+          {
+            "claim": "都江堰是两千多年前的水利",
+            "verdict": "支持",
+            "evidence": "17"
+          },
+          {
+            "claim": "都江堰排在三峡和港珠澳大桥前面",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "claims": [
+          {
+            "claim": "今天按硬指标拆八个工程",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "claims": [
+          {
+            "claim": "先说白鹤滩",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "claims": [
+          {
+            "claim": "总装机一千六百万千瓦",
+            "verdict": "支持",
+            "evidence": "1"
+          },
+          {
+            "claim": "十六台机组",
+            "verdict": "支持",
+            "evidence": "1"
+          },
+          {
+            "claim": "单机一百万千瓦",
+            "verdict": "支持",
+            "evidence": "1"
+          },
+          {
+            "claim": "全球单机容量最大的水轮发电机组",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "claims": [
+          {
+            "claim": "一台机组顶过去一座中型电站",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "claims": [
+          {
+            "claim": "这意味着什么",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "claims": [
+          {
+            "claim": "中国在百万千瓦级水电机组赛道上没有对手了",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "claims": [
+          {
+            "claim": "FAST中国天眼五百米口径",
+            "verdict": "支持",
+            "evidence": "3"
+          },
+          {
+            "claim": "架在贵州",
+            "verdict": "支持",
+            "evidence": "3"
+          },
+          {
+            "claim": "到二零二四年已经发现脉冲星超九百颗",
+            "verdict": "支持",
+            "evidence": "4"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "claims": [
+          {
+            "claim": "是看天，还是别的",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "claims": [
+          {
+            "claim": "九百颗脉冲星的价值在于中国第一次握住深空观测话语权",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "claims": [
+          {
+            "claim": "准东到皖南正负一千一百千伏直流",
+            "verdict": "支持",
+            "evidence": "5"
+          },
+          {
+            "claim": "全长三千二百九十三公里",
+            "verdict": "支持",
+            "evidence": "5"
+          },
+          {
+            "claim": "把新疆电直接送到东南沿海",
+            "verdict": "支持",
+            "evidence": "5"
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "claims": [
+          {
+            "claim": "三千多公里",
+            "verdict": "支持",
+            "evidence": "5"
+          },
+          {
+            "claim": "电损耗还控制得住，西电东送真正的骨架",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "claims": [
+          {
+            "claim": "天山胜利隧道全长二十二点一三公里",
+            "verdict": "支持",
+            "evidence": "6"
+          },
+          {
+            "claim": "最大埋深超一千一百米",
+            "verdict": "支持",
+            "evidence": "6"
+          },
+          {
+            "claim": "要穿过十六条地质断裂带",
+            "verdict": "支持",
+            "evidence": "6"
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "claims": [
+          {
+            "claim": "二零二五年通车",
+            "verdict": "支持",
+            "evidence": "7"
+          },
+          {
+            "claim": "穿越天山车程从约七小时缩短到约二十分钟",
+            "verdict": "支持",
+            "evidence": "7"
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "claims": [
+          {
+            "claim": "这不是提速，是把天山从屏障改成了通道",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "claims": [
+          {
+            "claim": "工程奇迹还是路线改写",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 16,
+        "claims": [
+          {
+            "claim": "我的判断是后者",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 17,
+        "claims": [
+          {
+            "claim": "三峡总库容三百九十三亿立方米",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "三十二台机组",
+            "verdict": "支持",
+            "evidence": "9"
+          },
+          {
+            "claim": "总装机两千二百五十万千瓦",
+            "verdict": "支持",
+            "evidence": "9"
+          },
+          {
+            "claim": "双线五级船闸",
+            "verdict": "支持",
+            "evidence": "9"
+          },
+          {
+            "claim": "总水头一百一十三米",
+            "verdict": "支持",
+            "evidence": "10"
+          }
+        ]
+      },
+      {
+        "index": 18,
+        "claims": [
+          {
+            "claim": "截至二零二五年底累计发电超一点八万亿千瓦时",
+            "verdict": "支持",
+            "evidence": "11"
+          }
+        ]
+      },
+      {
+        "index": 19,
+        "claims": [
+          {
+            "claim": "三峡首要使命是防洪",
+            "verdict": "支持",
+            "evidence": "11"
+          },
+          {
+            "claim": "荆江河段防洪标准从十年一遇提到百年一遇",
+            "verdict": "支持",
+            "evidence": "12"
+          }
+        ]
+      },
+      {
+        "index": 20,
+        "claims": [
+          {
+            "claim": "发电是副产品，防洪才是本分",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 21,
+        "claims": [
+          {
+            "claim": "港珠澳大桥全长约五十五公里",
+            "verdict": "支持",
+            "evidence": "13"
+          },
+          {
+            "claim": "世界最长跨海桥隧工程",
+            "verdict": "支持",
+            "evidence": "13"
+          },
+          {
+            "claim": "海底沉管隧道每节约八万吨",
+            "verdict": "支持",
+            "evidence": "14"
+          },
+          {
+            "claim": "对接精度毫米级",
+            "verdict": "支持",
+            "evidence": "14"
+          }
+        ]
+      },
+      {
+        "index": 22,
+        "claims": [
+          {
+            "claim": "八万吨的管子、毫米级对上，这活儿谁干的",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 23,
+        "claims": [
+          {
+            "claim": "是工程团队的精度，不是运气",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 24,
+        "claims": [
+          {
+            "claim": "一九九三年银河号货轮因GPS信号被切断",
+            "verdict": "支持",
+            "evidence": "15"
+          },
+          {
+            "claim": "在海上滞留约三周",
+            "verdict": "支持",
+            "evidence": "15"
+          }
+        ]
+      },
+      {
+        "index": 25,
+        "claims": [
+          {
+            "claim": "北斗三号二零二零年建成开通",
+            "verdict": "支持",
+            "evidence": "16"
+          },
+          {
+            "claim": "北斗系统累计发射五十五颗卫星",
+            "verdict": "支持",
+            "evidence": "16"
+          },
+          {
+            "claim": "屈辱才有了后来的北斗三号",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 26,
+        "claims": [
+          {
+            "claim": "断供一次换来五十五颗星，这笔账值不值",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 27,
+        "claims": [
+          {
+            "claim": "约公元前二五六年修建",
+            "verdict": "支持",
+            "evidence": "17"
+          },
+          {
+            "claim": "无坝引水",
+            "verdict": "支持",
+            "evidence": "17"
+          },
+          {
+            "claim": "没有钢筋水泥",
+            "verdict": "支持",
+            "evidence": "17"
+          },
+          {
+            "claim": "没有现代闸门",
+            "verdict": "支持",
+            "evidence": "17"
+          },
+          {
+            "claim": "运行至今约两千二百八十年",
+            "verdict": "支持",
+            "evidence": "17"
+          },
+          {
+            "claim": "还在灌溉成都平原",
+            "verdict": "支持",
+            "evidence": "18"
+          }
+        ]
+      },
+      {
+        "index": 28,
+        "claims": [
+          {
+            "claim": "都江堰零现代材料跑赢了两千年，白鹤滩三峡都做不到",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 29,
+        "claims": [
+          {
+            "claim": "这八个工程你心里的排序是什么",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 30,
+        "claims": [
+          {
+            "claim": "都江堰该不该排在三峡前面，评论区吵起来",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      }
+    ],
+    "verdict_counts": {
+      "支持": 39,
+      "无支撑": 0,
+      "矛盾": 0,
+      "非判词": 20
+    },
+    "support_rate": 1.0
+  },
+  "q2": {
+    "items": [
+      {
+        "index": 3,
+        "verdict": "匹配",
+        "why": "片段明确白鹤滩总装机1600万千瓦、单机100万千瓦世界第一，主体和数据一致"
+      },
+      {
+        "index": 6,
+        "verdict": "错位",
+        "why": "片段讲三峡机组与船闸，与解说句白鹤滩百万千瓦级赛道无对手不同主体"
+      },
+      {
+        "index": 7,
+        "verdict": "匹配",
+        "why": "片段讲中国天眼FAST，贵州直径500米，主体一致"
+      },
+      {
+        "index": 10,
+        "verdict": "弱匹配",
+        "why": "片段讲新疆送电东南沿海距离三四千公里，但未明确准东—皖南±1100千伏工程，细节无法确认"
+      },
+      {
+        "index": 12,
+        "verdict": "匹配",
+        "why": "片段明确天山胜利隧道全长22.13公里、最大埋深超1100米，数据一致"
+      },
+      {
+        "index": 21,
+        "verdict": "匹配",
+        "why": "片段明确全长55公里、世界最长跨海桥隧、8万吨沉管，与港珠澳大桥一致"
+      },
+      {
+        "index": 24,
+        "verdict": "匹配",
+        "why": "片段明确1993年中国货轮因GPS失去定位漂流22天，与银河号事件主体一致"
+      },
+      {
+        "index": 27,
+        "verdict": "匹配",
+        "why": "片段指向第一名无钢筋水泥无闸门，与都江堰特征一致"
+      }
+    ],
+    "verdict_counts": {
+      "匹配": 6,
+      "弱匹配": 1,
+      "错位": 1
+    },
+    "sentence_total": 31,
+    "headline_q2": 0.21
+  },
+  "q4": {
+    "titles": [
+      {
+        "platform": "B站",
+        "information": 5,
+        "accuracy": 5,
+        "appeal": 5,
+        "why": "冲突前置+八大工程硬指标，信息完整准确，悬念强"
+      },
+      {
+        "platform": "西瓜视频/抖音（中视频伙伴计划）",
+        "information": 4,
+        "accuracy": 5,
+        "appeal": 3,
+        "why": "点明工程数量和硬指标但缺少冲突钩子，吸引一般"
+      },
+      {
+        "platform": "微信视频号",
+        "information": 3,
+        "accuracy": 4,
+        "appeal": 4,
+        "why": "只提排名冲突未提八大工程，信息量不足，准确但吸引力中等"
+      }
+    ]
+  },
+  "q5": {
+    "flow": 5,
+    "density": 5,
+    "fact_boundary": 5,
+    "why": "叙事流畅分节清晰，信息密度高，事实有据观点有标记"
+  },
+  "n_sentences": 31,
+  "api_model": "deepseek-v4-pro",
+  "api_usage": {
+    "prompt_tokens": 3892,
+    "completion_tokens": 13061,
+    "total_tokens": 16953,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 10238
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 3892
+  },
+  "elapsed_s": 126.9
+}

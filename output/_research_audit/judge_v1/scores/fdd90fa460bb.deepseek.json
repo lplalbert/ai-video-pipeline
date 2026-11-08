@@ -1,0 +1,566 @@
+{
+  "sid": "fdd90fa460bb",
+  "judge": "deepseek",
+  "judge_model": "external:deepseek",
+  "ts": "2026-11-08T10:56:45",
+  "source": "api",
+  "q1": {
+    "items": [
+      {
+        "index": 0,
+        "claims": [
+          {
+            "claim": "三个人打五个还打赢了",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "IG用一场30分钟39个人头的对攻",
+            "verdict": "支持",
+            "evidence": "4"
+          },
+          {
+            "claim": "老IG的看家绝活回来了",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "claims": [
+          {
+            "claim": "今天只复盘第一局",
+            "verdict": "支持",
+            "evidence": "无"
+          },
+          {
+            "claim": "这一局够聊的东西比很多BO5加起来还多",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "claims": [
+          {
+            "claim": "先看开局",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "claims": [
+          {
+            "claim": "2分35秒上路直接爆发对拼击杀",
+            "verdict": "支持",
+            "evidence": "5"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "claims": [
+          {
+            "claim": "3分07秒Wei抓中逼出对方中单闪现",
+            "verdict": "支持",
+            "evidence": "5"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "claims": [
+          {
+            "claim": "这节奏不是LCK慢慢运营打法，是LPL血腥味",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "claims": [
+          {
+            "claim": "5分30秒小龙团IG拿到小龙，TES打成一换三占人头优势",
+            "verdict": "支持",
+            "evidence": "6"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "claims": [
+          {
+            "claim": "开局双方就在互换资源和人头，谁也不怂",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "claims": [
+          {
+            "claim": "这局从第一分钟开始就注定是一场对攻大战",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "claims": [
+          {
+            "claim": "接下来是全场最炸的时刻",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "claims": [
+          {
+            "claim": "15分23秒Meiko泰坦出钩配合Wei先攻偷钱，Rookie被控阵亡，IG只剩三个人",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "claims": [
+          {
+            "claim": "换一般人这波就撤了",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "claims": [
+          {
+            "claim": "老IG的看家绝活是什么",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "claims": [
+          {
+            "claim": "人越少伤害越高",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "claims": [
+          {
+            "claim": "三人组直接反打打出二换五全场沸腾",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "claims": [
+          {
+            "claim": "这不是运气，是IG骨子里的莽劲儿回来了",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 16,
+        "claims": [
+          {
+            "claim": "敢在三打五时不跑反而往前冲，这种决策只有IG做得出来",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 17,
+        "claims": [
+          {
+            "claim": "再看中路这波团",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 18,
+        "claims": [
+          {
+            "claim": "Wei大招开团瞬秒Rell，TES双锁头换掉Wei，蛇女收下Meiko人头，jiaqi拿到三杀，团战打成二换三",
+            "verdict": "支持",
+            "evidence": "10"
+          }
+        ]
+      },
+      {
+        "index": 19,
+        "claims": [
+          {
+            "claim": "jiaqi对位经济领先约2600，除了5-1的蛇女TES全面落后",
+            "verdict": "支持",
+            "evidence": "10"
+          }
+        ]
+      },
+      {
+        "index": 20,
+        "claims": [
+          {
+            "claim": "这意味着什么",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 21,
+        "claims": [
+          {
+            "claim": "IG的C位在对位上已经打穿了",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 22,
+        "claims": [
+          {
+            "claim": "TES打野Tian在尽力，但双C经济差摆在那儿，团战怎么打都是亏的",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 23,
+        "claims": [
+          {
+            "claim": "22分30秒听牌龙团前JKL远程技能连中把IG众人打残",
+            "verdict": "支持",
+            "evidence": "11"
+          },
+          {
+            "claim": "看起来TES要翻盘了",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 24,
+        "claims": [
+          {
+            "claim": "Rookie极限推球推晕369集火带走，解说惊叹100层的辛德拉",
+            "verdict": "支持",
+            "evidence": "11"
+          }
+        ]
+      },
+      {
+        "index": 25,
+        "claims": [
+          {
+            "claim": "Rookie这局的辛德拉就是IG的定海神针",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 26,
+        "claims": [
+          {
+            "claim": "23分16秒大龙区Rookie蹲草推人、再度极限推球打出关键闪现",
+            "verdict": "支持",
+            "evidence": "12"
+          }
+        ]
+      },
+      {
+        "index": 27,
+        "claims": [
+          {
+            "claim": "24分35秒团战TheShy纳尔变大进场击杀JackeyLove，IG团战大胜",
+            "verdict": "支持",
+            "evidence": "13"
+          }
+        ]
+      },
+      {
+        "index": 28,
+        "claims": [
+          {
+            "claim": "是Rookie个人秀还是IG整体节奏的胜利",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 29,
+        "claims": [
+          {
+            "claim": "两者都有，但Rookie的推球是把优势变成胜势的关键手",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 30,
+        "claims": [
+          {
+            "claim": "最后看终局",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 31,
+        "claims": [
+          {
+            "claim": "30分09秒369先被击杀，Wei绕后闪现开团推到四人，解说直接喊完美推，IG一波结束第一局",
+            "verdict": "支持",
+            "evidence": "15"
+          },
+          {
+            "claim": "30分57秒推掉TES基地水晶",
+            "verdict": "支持",
+            "evidence": "3"
+          }
+        ]
+      },
+      {
+        "index": 32,
+        "claims": [
+          {
+            "claim": "从15分23秒的3V5到30分57秒的完美推",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 33,
+        "claims": [
+          {
+            "claim": "传统手艺回归，全员不怕背锅、敢抓机会，拿到优势又冷静运营",
+            "verdict": "非判词",
+            "evidence": "无"
+          },
+          {
+            "claim": "解说说稳得让人害怕",
+            "verdict": "支持",
+            "evidence": "16"
+          }
+        ]
+      },
+      {
+        "index": 34,
+        "claims": [
+          {
+            "claim": "IG这局的3V5是老IG莽劲儿回来了还是TES决策出了问题",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 35,
+        "claims": [
+          {
+            "claim": "是Rookie个人能力carry还是IG整体节奏胜利",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 36,
+        "claims": [
+          {
+            "claim": "评论区告诉我你的看法",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 37,
+        "claims": [
+          {
+            "claim": "IG晋级四强",
+            "verdict": "支持",
+            "evidence": "2"
+          },
+          {
+            "claim": "下一轮对手会是谁",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 38,
+        "claims": [
+          {
+            "claim": "咱们下期接着聊",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 39,
+        "claims": [
+          {
+            "claim": "别忘了点赞关注",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      }
+    ],
+    "verdict_counts": {
+      "支持": 18,
+      "无支撑": 0,
+      "矛盾": 0,
+      "非判词": 29
+    },
+    "support_rate": 1.0
+  },
+  "q2": {
+    "items": [
+      {
+        "index": 0,
+        "verdict": "匹配",
+        "why": "片段含“老IG看家绝活都复活了、人越少伤害越高”等对应词，同指IG三打五获胜名场面。"
+      },
+      {
+        "index": 4,
+        "verdict": "匹配",
+        "why": "片段出现“3分07秒小微抓中...逼出Rook闪现”，主体动作时点一致。"
+      },
+      {
+        "index": 6,
+        "verdict": "弱匹配",
+        "why": "片段同提5分30秒小龙团，但IG拿龙、TES一换三细节未被清晰呈现。"
+      },
+      {
+        "index": 10,
+        "verdict": "错位",
+        "why": "片段描述六九见Rookie反打、晒哥意外，与15分23秒Meiko泰坦出钩Rookie被控事件主体时点不符。"
+      },
+      {
+        "index": 14,
+        "verdict": "匹配",
+        "why": "片段明确“埃及猛夫三人组...三打五”，与三人反打事件一致。"
+      },
+      {
+        "index": 18,
+        "verdict": "匹配",
+        "why": "片段含小微大招开团、瑞儿融化、双锁头击杀小微，与中路团前半段一致。"
+      },
+      {
+        "index": 23,
+        "verdict": "匹配",
+        "why": "片段出现22分30秒听牌龙团、杰克连持三发，与JKL远程技能连中一致。"
+      },
+      {
+        "index": 24,
+        "verdict": "匹配",
+        "why": "片段“309被Rookie推晕、集火带走”直接对应解说句。"
+      },
+      {
+        "index": 26,
+        "verdict": "弱匹配",
+        "why": "片段有Rookie闪现反手推散TES，但未出现23分16秒大龙区/关键闪现背景，细节不够匹配。"
+      },
+      {
+        "index": 27,
+        "verdict": "匹配",
+        "why": "片段开头“Nar变Nar，24分35秒”对应纳尔变大进场时点。"
+      },
+      {
+        "index": 31,
+        "verdict": "匹配",
+        "why": "片段含30分09秒、369先被击杀、Wei绕后，与终局团事件一致。"
+      }
+    ],
+    "verdict_counts": {
+      "匹配": 8,
+      "弱匹配": 2,
+      "错位": 1
+    },
+    "sentence_total": 40,
+    "headline_q2": 0.225
+  },
+  "q4": {
+    "titles": [
+      {
+        "platform": "B站",
+        "information": 5,
+        "accuracy": 5,
+        "appeal": 5,
+        "why": "比分、晋级、核心名场面和结束时间齐全，与内容一致，点击欲强。"
+      },
+      {
+        "platform": "西瓜视频/抖音（中视频伙伴计划）",
+        "information": 4,
+        "accuracy": 5,
+        "appeal": 5,
+        "why": "突出15分23秒奇迹3V5和IG 3-1 TES，信息准确但缺少晋级四强/时间。"
+      },
+      {
+        "platform": "微信视频号",
+        "information": 3,
+        "accuracy": 5,
+        "appeal": 5,
+        "why": "只留奇迹3V5和晋级四强，核心卖点够，但比分与场次信息省略。"
+      }
+    ]
+  },
+  "q5": {
+    "flow": 5,
+    "density": 4,
+    "fact_boundary": 4,
+    "why": "结构清晰、叙事顺畅；干货密集但设问互动略多；断言多与底座吻合，观点有标记但个别主观句可再克制。"
+  },
+  "n_sentences": 40,
+  "api_model": "deepseek-v4-pro",
+  "api_usage": {
+    "prompt_tokens": 5629,
+    "completion_tokens": 14116,
+    "total_tokens": 19745,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 10715
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 5629
+  },
+  "elapsed_s": 123.6
+}

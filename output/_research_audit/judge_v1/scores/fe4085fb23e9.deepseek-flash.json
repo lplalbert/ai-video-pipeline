@@ -1,0 +1,591 @@
+{
+  "sid": "fe4085fb23e9",
+  "judge": "deepseek-flash",
+  "judge_model": "external:deepseek-flash",
+  "ts": "2026-11-08T13:32:21",
+  "source": "api",
+  "q1": {
+    "items": [
+      {
+        "index": 0,
+        "claims": [
+          {
+            "claim": "成功学就是个骗局",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "claims": [
+          {
+            "claim": "每一个退学创业神话背后都站着一百万个手稿不见天日的写作者",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "claims": [
+          {
+            "claim": "三分钟讲透幸存者偏差，之后看励志故事会脊背发凉",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "claims": [
+          {
+            "claim": "先说二战轰炸机",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "claims": [
+          {
+            "claim": "美军统计返航飞机的弹孔分布",
+            "verdict": "支持",
+            "evidence": "2"
+          },
+          {
+            "claim": "发现机翼、机身中部弹孔多",
+            "verdict": "支持",
+            "evidence": "2"
+          },
+          {
+            "claim": "专家主张给弹孔多的地方加装甲",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "claims": [
+          {
+            "claim": "统计学家瓦尔德指出专家把加固方向搞反了",
+            "verdict": "支持",
+            "evidence": "2、3"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "claims": [
+          {
+            "claim": "真正该加固的是弹孔少的要害部位，如引擎、驾驶舱、油箱一带",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "claims": [
+          {
+            "claim": "为什么",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "claims": [
+          {
+            "claim": "能飞回来的都是挨了非致命伤的飞机",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "claims": [
+          {
+            "claim": "要害中弹的飞机早已坠毁，不在统计样本里",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "claims": [
+          {
+            "claim": "专家看到的不是飞机，是幸存者",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "claims": [
+          {
+            "claim": "瓦尔德直接改写了美军的装甲方案",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "claims": [
+          {
+            "claim": "这事儿的本质是什么",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "claims": [
+          {
+            "claim": "幸存者偏差的本质是把必要条件当成充分条件",
+            "verdict": "支持",
+            "evidence": "1"
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "claims": [
+          {
+            "claim": "马云退学创业成功",
+            "verdict": "无支撑",
+            "evidence": "无"
+          },
+          {
+            "claim": "退学是成功的钥匙",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "claims": [
+          {
+            "claim": "退学的人里成功的是极少数",
+            "verdict": "无支撑",
+            "evidence": "无"
+          },
+          {
+            "claim": "失败的退学者没人给他们拍纪录片",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 16,
+        "claims": [
+          {
+            "claim": "视频给过比例：每位著名出版作家背后约有一百万个沉默失败者",
+            "verdict": "支持",
+            "evidence": "6"
+          }
+        ]
+      },
+      {
+        "index": 17,
+        "claims": [
+          {
+            "claim": "沉默失败者包括出不了书、找不到出版社、手稿锁在抽屉里的人",
+            "verdict": "支持",
+            "evidence": "6"
+          }
+        ]
+      },
+      {
+        "index": 18,
+        "claims": [
+          {
+            "claim": "刷到的每个成功案例都是从一百万具尸体上爬出来的",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 19,
+        "claims": [
+          {
+            "claim": "分母被算法藏起来，只看见分子在跳舞",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 20,
+        "claims": [
+          {
+            "claim": "再给一个思想实验",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 21,
+        "claims": [
+          {
+            "claim": "假设香烟完全无害，但每18250包有一根装炸弹、点燃即爆",
+            "verdict": "支持",
+            "evidence": "4"
+          }
+        ]
+      },
+      {
+        "index": 22,
+        "claims": [
+          {
+            "claim": "新闻一报道，全世界立马戒烟",
+            "verdict": "支持",
+            "evidence": "4"
+          }
+        ]
+      },
+      {
+        "index": 23,
+        "claims": [
+          {
+            "claim": "吸烟平均每四秒夺走一条命",
+            "verdict": "支持",
+            "evidence": "5"
+          },
+          {
+            "claim": "全球每秒有二十二万三千支烟被点燃",
+            "verdict": "支持",
+            "evidence": "5"
+          },
+          {
+            "claim": "吸烟死亡安静发生在病床上，没人恐慌",
+            "verdict": "支持",
+            "evidence": "4"
+          }
+        ]
+      },
+      {
+        "index": 24,
+        "claims": [
+          {
+            "claim": "是X还是Y",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 25,
+        "claims": [
+          {
+            "claim": "是真危险更可怕，还是看得见的危险更可怕",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 26,
+        "claims": [
+          {
+            "claim": "大脑厌恶不确定性",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "它怕爆炸，不怕概率",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 27,
+        "claims": [
+          {
+            "claim": "慢刀子割肉永远打不过一颗哑弹的头条",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 28,
+        "claims": [
+          {
+            "claim": "回到今天",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 29,
+        "claims": [
+          {
+            "claim": "短视频推给你的全是年入百万、一技之长、逆袭翻盘",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 30,
+        "claims": [
+          {
+            "claim": "为什么",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 31,
+        "claims": [
+          {
+            "claim": "失败案例没人点赞",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 32,
+        "claims": [
+          {
+            "claim": "算法不是中立的镜子，是幸存者偏差的放大器",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 33,
+        "claims": [
+          {
+            "claim": "没有任何平台会推“创业失败负债三十万”还能爆的视频，除非最后逆袭",
+            "verdict": "无支撑",
+            "evidence": "无"
+          },
+          {
+            "claim": "逆袭案例又变成新的幸存样本",
+            "verdict": "支持",
+            "evidence": "1"
+          }
+        ]
+      },
+      {
+        "index": 34,
+        "claims": [
+          {
+            "claim": "这就是闭环",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 35,
+        "claims": [
+          {
+            "claim": "你的焦虑是被精心筛选过的样本喂出来的",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 36,
+        "claims": [
+          {
+            "claim": "所以怎么办",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 37,
+        "claims": [
+          {
+            "claim": "三步",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 38,
+        "claims": [
+          {
+            "claim": "主动去找沉默证据，问失败的人在哪",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 39,
+        "claims": [
+          {
+            "claim": "用概率思维替代直觉，别拿个例当规律",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 40,
+        "claims": [
+          {
+            "claim": "逆向推理，分清相关和因果",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 41,
+        "claims": [
+          {
+            "claim": "未来十年能看穿幸存者偏差的人与被算法投喂的人会活在两个平行世界",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 42,
+        "claims": [
+          {
+            "claim": "前者做决策，后者做燃料",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 43,
+        "claims": [
+          {
+            "claim": "评论区告诉我你最近一次被幸存者偏差骗到是什么时候",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 44,
+        "claims": [
+          {
+            "claim": "点赞过万，下期拆解沉默的螺旋",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 45,
+        "claims": [
+          {
+            "claim": "评论区告诉我你最近一次被幸存者偏差骗到是什么时候",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 46,
+        "claims": [
+          {
+            "claim": "点赞过万，下期拆解沉默的螺旋",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      }
+    ],
+    "verdict_counts": {
+      "支持": 22,
+      "无支撑": 6,
+      "矛盾": 0,
+      "非判词": 27
+    },
+    "support_rate": 0.786
+  },
+  "q2": {
+    "items": [
+      {
+        "index": 4,
+        "verdict": "匹配",
+        "why": "片段明确给出机翼、机身中部、尾部油箱的弹孔分布及专家讨论，与解说句同事件、同主体、同动作。"
+      }
+    ],
+    "verdict_counts": {
+      "匹配": 1,
+      "弱匹配": 0,
+      "错位": 0
+    },
+    "sentence_total": 47,
+    "headline_q2": 0.021
+  },
+  "q4": {
+    "titles": [
+      {
+        "platform": "B站",
+        "information": 4,
+        "accuracy": 3,
+        "appeal": 5,
+        "why": "双钩子信息量足、点击欲强，但“最安全”对幸存者机制有简化误导。"
+      },
+      {
+        "platform": "西瓜视频/抖音（中视频伙伴计划）",
+        "information": 3,
+        "accuracy": 3,
+        "appeal": 4,
+        "why": "钩子集中但信息量偏单薄，“最安全”也略夸大。"
+      },
+      {
+        "platform": "微信视频号",
+        "information": 3,
+        "accuracy": 5,
+        "appeal": 3,
+        "why": "表述准确克制，但与正文爆点相比信息量和吸引力一般。"
+      }
+    ]
+  },
+  "q5": {
+    "flow": 4,
+    "density": 4,
+    "fact_boundary": 3,
+    "why": "结构清楚、案例串联顺，但结尾重复、“X/Y”占位及“改写方案”等断言需修，统计数据也多未交代口径。"
+  },
+  "n_sentences": 47,
+  "api_model": "deepseek-flash",
+  "api_usage": {
+    "prompt_tokens": 4012,
+    "completion_tokens": 10395,
+    "total_tokens": 14407,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 8484
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 4012
+  },
+  "elapsed_s": 59.8
+}

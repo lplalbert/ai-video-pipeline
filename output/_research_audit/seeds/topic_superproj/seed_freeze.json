@@ -1,0 +1,57 @@
+{
+  "topic_title": "中国八大超级工程盘点：从白鹤滩到都江堰",
+  "seed_sha256": "07fbd66eb74465664ad466b1be17c8c60ad3f85efdc49d738a76b3028787d3a8",
+  "frozen": true,
+  "frozen_at": "2026-11-07T13:29:27",
+  "sources": [
+    {
+      "id": "BV1MgnP6yEh2",
+      "url": "https://www.bilibili.com/video/BV1MgnP6yEh2",
+      "upload_date": "20261020",
+      "local_file": "downloads\\新题\\超级工程盘点\\https-www-bilibili-com-video-av1\\启界新语 - 中国八大逆天超级工程，随便拿出一个都是世界奇迹 [BV1MgnP6yEh2].mp4",
+      "sha256": "aebfec26e03e2f8eeb5af9c2fec63fe00baaade92c8608db4a1ae98030d1bf7a"
+    }
+  ],
+  "code_snapshot_sha256": {
+    "autoline.py": "795bd9c885a8a50dc97ebec7cc36cdb0a746aa8061896e98387e972788b19200",
+    "full_agent.py": "3f52dc910cc400495a43c31c4027ca4e6559a84f8c2329735a2720d4d9195ad2",
+    "eval_harness.py": "027ae23c2044013920106cc6b00a2badf13c8f6f3fbfa3d92d0ffffdb02a963f",
+    "experiment_setup.py": "8156431f94d52a0ffd301e9bc3dca6f22fda88f7253b08329ab9b0f354295865",
+    "experiment_report.py": "18373a59c7f8068e30272a9b1bcd7d2e9725753e241f0c87993400c2cfa772e7",
+    "fault_injector.py": "fb2cd3b1c1d838e3bd940de5b272aa443e3e11cc95ad2765fc0c44ed5c2fe6e9",
+    "cut_clips.py": "dba69f1c2461c48d9347a56e9ba35d6cfd6f4c4ba7e9eca069d3533bf6bccc2f",
+    "run_pipeline.py": "ba5b90ec64dc889b7eff2a5b3f1a171fafa7baadbbf14f3519a5461955955dd6",
+    "bili_publish.py": "40b2f1b7d679e8d291f2864c1834b249939b363d591bfec8fc5d017b9bbc403f",
+    "config.py": "6a088a7d7934fa6efbb5e00c67a7408ff19f5ccbbb1704cb932ebd7a58b2ea96",
+    "pipeline/__init__.py": "c5e7cd8fd0c7fa2d2546f50501074eba738abfd59fdfe4373b0e0f34b7f3abb6",
+    "pipeline/assemble.py": "ed30e3b6b4a3cc493c59e2973c882e9e62b6aad7a5ff5a60f019a46c3422643a",
+    "pipeline/cardgen.py": "7712f30de6ea9c87b44f594831abfe40ce8a9f2cb6013b52c60d0739289fe081",
+    "pipeline/charts.py": "537351a1314982af07eb1a797e5e271c7d5b884c7abd34ac8d85522d8f734743",
+    "pipeline/footage.py": "c2a28d00a73564a82d4293e59e8cec48585d59acf873b5ed94478250c0ef6f7d",
+    "pipeline/llm.py": "c6a47925c0969b43c6287d914dbbcd4d5ea3f8adeaf883e632ab36cbb5c3914f",
+    "pipeline/matcher.py": "a28db5c6c1f69524749d779e03e540f46dec7646af47c38cbc864301c4ba2606",
+    "pipeline/matlib.py": "94fb9338cd3447bb5748b4f4614587f2b8516de5b9348b642d34de788e9a2a27",
+    "pipeline/newswire.py": "6b23f79606906208a6ce4a09b42fa9d3ccc3ee54119df9051ce310c101be0970",
+    "pipeline/publish.py": "d11858c12c349a7cea8a6979fd84f8af21237a4d4e911e928b5fd688606d5ebf",
+    "pipeline/sources.py": "dc21d6080f5190a529f78d26c8b2132a348415faa08a2b7412559f56aae01193",
+    "pipeline/subtitles.py": "323ce570f8bbab785d15ad2b10c1ce1516a6b246130c2accefe1711f23686552",
+    "pipeline/topics.py": "bfa1c3bce15a4a24b2fd10ca04221d96ed0095b7cbd177238b7da7f2b0af6180",
+    "pipeline/tts.py": "e576f50c1bc484b92639d52bdc441704c0a7b74dbc212207eeef8286ba4cbf96",
+    "pipeline/writer.py": "db39b516154d88ed4c8e593e421933038992fa416fa48c146a425a6e20da2f08"
+  },
+  "git_commit": "no-commit-yet",
+  "model_config": {
+    "engine": "mimo",
+    "model_flash": "mimo-v2.6-flash",
+    "model_pro": "mimo-v2.6-pro",
+    "model_tts": "mimo-v2.5-tts",
+    "tts_voice": "白桦",
+    "tts_style": "沉稳清晰的科普解说腔调，语速适中，语气自然平实，吐字清楚。",
+    "tts_atempo": "1.3",
+    "chat_temperature_default": 0.7,
+    "thinking": "disabled",
+    "max_attempts_gate": 2,
+    "supervisor_llm_budget": 3
+  },
+  "note": "开发/主实验种子冻结清单；secrets 不入清单；改内容须换目录重冻"
+}

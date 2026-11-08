@@ -1,0 +1,396 @@
+{
+  "sid": "1ca9756d0df2",
+  "judge": "gpt",
+  "judge_model": "external:gpt",
+  "ts": "2026-11-08T13:12:33",
+  "source": "manual_packet",
+  "q1": {
+    "items": [
+      {
+        "index": 0,
+        "claims": [
+          {
+            "claim": "IG四强采访语音比比赛精彩",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "claims": [
+          {
+            "claim": "阿水称IG最有希望夺冠、Rookie称IG回来；两人赛后口径对齐",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "claims": [
+          {
+            "claim": "本稿拆解金句背后人物角色",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "claims": [
+          {
+            "claim": "引出Wei",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "claims": [
+          {
+            "claim": "Wei连续一血归因训练内容和前期找机会",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "claims": [
+          {
+            "claim": "IG赛季逻辑是赛训组喂套路而非个人发挥",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "claims": [
+          {
+            "claim": "第一局蓝区三打五，对手交大招杀辛德拉，IG待技能空档反打",
+            "verdict": "支持",
+            "evidence": "3"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "claims": [
+          {
+            "claim": "此波是纪律性胜过对方上头",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "claims": [
+          {
+            "claim": "引出TheShy采访",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "claims": [
+          {
+            "claim": "暂停时jiaqi紧张，TheShy以哥哥身份安慰",
+            "verdict": "支持",
+            "evidence": "6"
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "claims": [
+          {
+            "claim": "TheShy自评薇恩局失误并愧疚",
+            "verdict": "支持",
+            "evidence": "6"
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "claims": [
+          {
+            "claim": "TheShy角色彻底从锋利刀变稳锚",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "claims": [
+          {
+            "claim": "TheShy愿按队伍需要选角，计划围绕打野下路",
+            "verdict": "支持",
+            "evidence": "7"
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "claims": [
+          {
+            "claim": "IG不再靠上路打天下",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "claims": [
+          {
+            "claim": "设问谁促成让权",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "claims": [
+          {
+            "claim": "两因素皆有、结果好、TheShy转变令IG完整",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 16,
+        "claims": [
+          {
+            "claim": "Rookie专访信息量大",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 17,
+        "claims": [
+          {
+            "claim": "Rookie历届非16强即四强或冠军、2018捧杯、决心增强并称IG回来了",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 18,
+        "claims": [
+          {
+            "claim": "Rookie给自己立军令状，目标复刻2018",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 19,
+        "claims": [
+          {
+            "claim": "主持人称Rookie自2019后再入全球总决赛四强",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 20,
+        "claims": [
+          {
+            "claim": "对老将是勋章和压力",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 21,
+        "claims": [
+          {
+            "claim": "转引阿水称IG强且最有望夺冠并祝福老东家",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 22,
+        "claims": [
+          {
+            "claim": "此话来自现役滔搏核心，分量不同",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 23,
+        "claims": [
+          {
+            "claim": "Meiko指挥拆塔一波收尾，Wei与jiaqi开场互动",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 24,
+        "claims": [
+          {
+            "claim": "IG最可怕的是语音体现的行动确定感",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 25,
+        "claims": [
+          {
+            "claim": "Meiko指挥体现全队信任链",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 26,
+        "claims": [
+          {
+            "claim": "设问四强缘由",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 27,
+        "claims": [
+          {
+            "claim": "询问阿水祝福真假",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 28,
+        "claims": [
+          {
+            "claim": "邀请讨论IG前景",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 29,
+        "claims": [
+          {
+            "claim": "点赞关注预告",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      }
+    ],
+    "verdict_counts": {
+      "支持": 10,
+      "无支撑": 9,
+      "矛盾": 0,
+      "非判词": 11
+    },
+    "support_rate": 0.526
+  },
+  "q2": {
+    "items": [
+      {
+        "index": 1,
+        "verdict": "错位",
+        "why": "片段只含IG加油及Rookie字样，无法确认阿水夺冠判断或两人发言。"
+      },
+      {
+        "index": 4,
+        "verdict": "匹配",
+        "why": "片段对应Wei连续一血提问及训练赛回答。"
+      },
+      {
+        "index": 6,
+        "verdict": "弱匹配",
+        "why": "片段仅引出蓝区三打五并提问，未包含解说句中的复盘细节。"
+      },
+      {
+        "index": 8,
+        "verdict": "弱匹配",
+        "why": "采访片尾致谢，无法确认对应的两段内容。"
+      },
+      {
+        "index": 12,
+        "verdict": "错位",
+        "why": "片段讨论Rookie对线，不是TheShy战队策略采访。"
+      },
+      {
+        "index": 17,
+        "verdict": "弱匹配",
+        "why": "片段包含捧杯回顾与当前状态提问，未覆盖历届成绩和回归口号全句。"
+      },
+      {
+        "index": 21,
+        "verdict": "匹配",
+        "why": "片段直接对应阿水被问夺冠人选及其IG回答。"
+      }
+    ],
+    "verdict_counts": {
+      "匹配": 2,
+      "弱匹配": 3,
+      "错位": 2
+    },
+    "sentence_total": 30,
+    "headline_q2": 0.117
+  },
+  "q4": {
+    "titles": [
+      {
+        "platform": "B站",
+        "information": 5,
+        "accuracy": 3,
+        "appeal": 5,
+        "why": "主题和人物丰富有吸引力，但搬运工、要打破规律等引申超出采访内容。"
+      },
+      {
+        "platform": "西瓜视频/抖音（中视频伙伴计划）",
+        "information": 3,
+        "accuracy": 4,
+        "appeal": 4,
+        "why": "聚焦Wei一血采访，但搬运工表述略有夸张且内容单一。"
+      },
+      {
+        "platform": "微信视频号",
+        "information": 3,
+        "accuracy": 4,
+        "appeal": 4,
+        "why": "点出阿水祝福和语音亮点，但信息较概括。"
+      }
+    ]
+  },
+  "q5": {
+    "flow": 4,
+    "density": 4,
+    "fact_boundary": 2,
+    "why": "按人物展开易读且素材多，但将采访推演为角色转型、体系胜利和动机等判断过多。"
+  },
+  "n_sentences": 30
+}

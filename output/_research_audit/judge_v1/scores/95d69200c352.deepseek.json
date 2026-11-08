@@ -1,0 +1,476 @@
+{
+  "sid": "95d69200c352",
+  "judge": "deepseek",
+  "judge_model": "external:deepseek",
+  "ts": "2026-11-08T10:40:51",
+  "source": "api",
+  "q1": {
+    "items": [
+      {
+        "index": 0,
+        "claims": [
+          {
+            "claim": "三个人打对面五个，还打赢了",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "claims": [
+          {
+            "claim": "IG用一场三十分钟、三十九个人头的对攻",
+            "verdict": "支持",
+            "evidence": "4"
+          },
+          {
+            "claim": "老IG的看家绝活回来了",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "claims": [
+          {
+            "claim": "这场八强淘汰赛第一局",
+            "verdict": "支持",
+            "evidence": "1"
+          },
+          {
+            "claim": "IG怎么把TES按在地上摩擦的",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "claims": [
+          {
+            "claim": "先看开局",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "claims": [
+          {
+            "claim": "两分三十五秒，上路直接爆发对拼击杀",
+            "verdict": "支持",
+            "evidence": "5"
+          },
+          {
+            "claim": "这局的血腥味，第一口就拉满了",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "claims": [
+          {
+            "claim": "三分钟零七秒，Wei抓中，逼出对方中单闪现",
+            "verdict": "支持",
+            "evidence": "5"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "claims": [
+          {
+            "claim": "IG这局的思路很清楚：不跟你发育，上来就找架打",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "claims": [
+          {
+            "claim": "五分三十秒小龙团，IG拿到小龙，Wei收下，但TES打成一换三，占了人头优势",
+            "verdict": "支持",
+            "evidence": "6"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "claims": [
+          {
+            "claim": "这局从头到尾就没打算和平发育",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "claims": [
+          {
+            "claim": "十三分钟零一秒，Wei抓下，直接击杀JackeyLove",
+            "verdict": "支持",
+            "evidence": "7"
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "claims": [
+          {
+            "claim": "紧接着Rookie传送上路，配合TheShy抓369，结果369反杀TheShy",
+            "verdict": "支持",
+            "evidence": "7"
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "claims": [
+          {
+            "claim": "这一波交换，TES不亏，369的反杀给TES续了一口命",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "claims": [
+          {
+            "claim": "十三分钟抓下，随后上路对拼",
+            "verdict": "支持",
+            "evidence": "7"
+          },
+          {
+            "claim": "IG这局的战术重心就是：打野Wei疯狂做事，中上两路随时能配合",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "claims": [
+          {
+            "claim": "然后就是全场沸腾的名场面",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "claims": [
+          {
+            "claim": "十五分二十三秒，Meiko泰坦出钩，配合Wei先攻偷钱，Rookie被控阵亡",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "claims": [
+          {
+            "claim": "IG莽夫三人组三打五反打成功，打出二换五",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 16,
+        "claims": [
+          {
+            "claim": "解说喊的是「老IG的看家绝活都复活了」「人越少伤害越高」",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 17,
+        "claims": [
+          {
+            "claim": "这一波就是IG的DNA：人越少越敢打，越劣势越兴奋",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 18,
+        "claims": [
+          {
+            "claim": "三个人打五个还赢了",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "这不是运气，这是刻在IG骨子里的东西",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 19,
+        "claims": [
+          {
+            "claim": "二十二分三十秒，听牌龙团前，JackeyLove远程技能连中，把IG众人打残",
+            "verdict": "支持",
+            "evidence": "11"
+          }
+        ]
+      },
+      {
+        "index": 20,
+        "claims": [
+          {
+            "claim": "Rookie极限推球推晕369，集火带走，解说惊叹「这球推的确实有两下」——一百层的辛德拉",
+            "verdict": "支持",
+            "evidence": "11"
+          }
+        ]
+      },
+      {
+        "index": 21,
+        "claims": [
+          {
+            "claim": "二十三分十六秒，大龙区拉扯，Rookie蹲草推人，TheShy纳尔在TES三人面前牵扯",
+            "verdict": "支持",
+            "evidence": "12"
+          }
+        ]
+      },
+      {
+        "index": 22,
+        "claims": [
+          {
+            "claim": "二十四分三十五秒，Wei闪现开团，被Tian大招锁头阵亡，但TheShy纳尔变大进场，击杀JackeyLove，IG团战大胜",
+            "verdict": "支持",
+            "evidence": "13"
+          }
+        ]
+      },
+      {
+        "index": 23,
+        "claims": [
+          {
+            "claim": "火龙魂团，Rookie蹲草被扫描发现，闪现强开、反手推散TES",
+            "verdict": "支持",
+            "evidence": "14"
+          }
+        ]
+      },
+      {
+        "index": 24,
+        "claims": [
+          {
+            "claim": "IG转身抓住残血清兵的369，Meiko出钩、jiaqi一套带走，Wei拿下小龙，人头资源两不误",
+            "verdict": "支持",
+            "evidence": "14"
+          }
+        ]
+      },
+      {
+        "index": 25,
+        "claims": [
+          {
+            "claim": "三十分钟零九秒终局团，369先被击杀，Wei绕后闪现开团推到四人，解说称「完美推」，IG一波结束第一局",
+            "verdict": "支持",
+            "evidence": "15"
+          }
+        ]
+      },
+      {
+        "index": 26,
+        "claims": [
+          {
+            "claim": "IG三比一淘汰TES晋级四强",
+            "verdict": "支持",
+            "evidence": "2"
+          },
+          {
+            "claim": "咱们今天只聊了第一局",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 27,
+        "claims": [
+          {
+            "claim": "我的判断是：IG这局赢在敢打敢拼，老IG的传统手艺全回来了——全员不怕背锅、敢抓机会，拿到优势又冷静运营，稳得让人害怕",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 28,
+        "claims": [
+          {
+            "claim": "这种打法是IG的看家绝活，还是版本红利？",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 29,
+        "claims": [
+          {
+            "claim": "是IG真的变强了，还是TES没准备好？",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 30,
+        "claims": [
+          {
+            "claim": "评论区聊聊你的看法，咱们下期见",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      }
+    ],
+    "verdict_counts": {
+      "支持": 21,
+      "无支撑": 0,
+      "矛盾": 0,
+      "非判词": 16
+    },
+    "support_rate": 1.0
+  },
+  "q2": {
+    "items": [
+      {
+        "index": 1,
+        "verdict": "弱匹配",
+        "why": "片段只出现老IG看家绝活等名场面解说，未提及30分钟39人头整体对攻"
+      },
+      {
+        "index": 4,
+        "verdict": "错位",
+        "why": "片段为24分35秒团战，非2分35秒上路对拼"
+      },
+      {
+        "index": 5,
+        "verdict": "匹配",
+        "why": "均指3分07秒Wei抓中逼出中单闪现"
+      },
+      {
+        "index": 7,
+        "verdict": "弱匹配",
+        "why": "时点均为5分30秒小龙团，但片段未确认IG拿龙、Wei收下与一换三"
+      },
+      {
+        "index": 9,
+        "verdict": "匹配",
+        "why": "均指13分01秒Wei抓下击杀JackeyLove"
+      },
+      {
+        "index": 10,
+        "verdict": "匹配",
+        "why": "均指Rookie传送上路配合TheShy抓369，369反杀"
+      },
+      {
+        "index": 14,
+        "verdict": "弱匹配",
+        "why": "片段涉及Meiko泰坦和Rookie/杰克互换，但未体现先攻偷钱及明确15分23秒"
+      },
+      {
+        "index": 15,
+        "verdict": "匹配",
+        "why": "均指15分23秒IG三打五反杀成功二换五"
+      },
+      {
+        "index": 19,
+        "verdict": "匹配",
+        "why": "均指22分30秒听牌龙团前JackeyLove远程技能连中"
+      },
+      {
+        "index": 20,
+        "verdict": "匹配",
+        "why": "均指Rookie推晕369被集火带走"
+      },
+      {
+        "index": 23,
+        "verdict": "匹配",
+        "why": "均指火龙魂团Rookie闪现强开反手推散TES"
+      },
+      {
+        "index": 25,
+        "verdict": "匹配",
+        "why": "均指30分09秒终局团369先被击杀，Wei绕后完美开团"
+      }
+    ],
+    "verdict_counts": {
+      "匹配": 8,
+      "弱匹配": 3,
+      "错位": 1
+    },
+    "sentence_total": 31,
+    "headline_q2": 0.306
+  },
+  "q4": {
+    "titles": [
+      {
+        "platform": "B站",
+        "information": 5,
+        "accuracy": 5,
+        "appeal": 4,
+        "why": "信息完整准确点出关键节点，但标题较长"
+      },
+      {
+        "platform": "西瓜视频/抖音",
+        "information": 4,
+        "accuracy": 3,
+        "appeal": 4,
+        "why": "点出核心名场面但“碾压”“看呆全”略有夸大且不完整"
+      },
+      {
+        "platform": "微信视频号",
+        "information": 3,
+        "accuracy": 3,
+        "appeal": 4,
+        "why": "突出三打五和碾压，但缺比分局数等关键信息"
+      }
+    ]
+  },
+  "q5": {
+    "flow": 5,
+    "density": 5,
+    "fact_boundary": 4,
+    "why": "结构清晰、干货密集；事实叙述有据，但存在“碾压”“按在地上摩擦”等主观修辞"
+  },
+  "n_sentences": 31,
+  "api_model": "deepseek-v4-pro",
+  "api_usage": {
+    "prompt_tokens": 5547,
+    "completion_tokens": 14009,
+    "total_tokens": 19556,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 11084
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 5547
+  },
+  "elapsed_s": 113.3
+}

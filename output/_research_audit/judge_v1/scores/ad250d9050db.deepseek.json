@@ -1,0 +1,566 @@
+{
+  "sid": "ad250d9050db",
+  "judge": "deepseek",
+  "judge_model": "external:deepseek",
+  "ts": "2026-11-08T17:24:47",
+  "source": "api",
+  "q1": {
+    "items": [
+      {
+        "index": 0,
+        "claims": [
+          {
+            "claim": "全球百米以上高楼最多的城市前五名中国占了仨",
+            "verdict": "矛盾",
+            "evidence": "16,17,18,19,20,21"
+          },
+          {
+            "claim": "香港1985座",
+            "verdict": "支持",
+            "evidence": "21"
+          },
+          {
+            "claim": "深圳1553座",
+            "verdict": "支持",
+            "evidence": "20"
+          },
+          {
+            "claim": "广州412座",
+            "verdict": "支持",
+            "evidence": "16"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "claims": [
+          {
+            "claim": "但你猜怎么着？",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "claims": [
+          {
+            "claim": "香港最高楼才484米",
+            "verdict": "支持",
+            "evidence": "21"
+          },
+          {
+            "claim": "世界前十都进不去",
+            "verdict": "支持",
+            "evidence": "2,21"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "claims": [
+          {
+            "claim": "今天我把十大最高建筑和高楼之城双榜全给你盘完，看完你会发现，限高令才是这场游戏里真正的隐藏BOSS。",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "claims": [
+          {
+            "claim": "世界前十高楼中国独占四席",
+            "verdict": "矛盾",
+            "evidence": "2,3,4,7,9"
+          },
+          {
+            "claim": "上海中心632米",
+            "verdict": "支持",
+            "evidence": "9"
+          },
+          {
+            "claim": "深圳平安599米",
+            "verdict": "支持",
+            "evidence": "7"
+          },
+          {
+            "claim": "广州东塔530.5米",
+            "verdict": "支持",
+            "evidence": "4"
+          },
+          {
+            "claim": "北京中国尊528米",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "claims": [
+          {
+            "claim": "迪拜哈利法塔828米",
+            "verdict": "支持",
+            "evidence": "11"
+          },
+          {
+            "claim": "相当于270多层居民楼",
+            "verdict": "支持",
+            "evidence": "11"
+          },
+          {
+            "claim": "从2010年用到现在没人能撼动",
+            "verdict": "支持",
+            "evidence": "11"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "claims": [
+          {
+            "claim": "我说白了，哈利法塔就是人类超高层的天花板，后面想超它，得先解决钱和地的问题。",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "claims": [
+          {
+            "claim": "第二名吉隆坡默迪卡118，678.9米",
+            "verdict": "支持",
+            "evidence": "10"
+          },
+          {
+            "claim": "侧边天线就占了160米",
+            "verdict": "支持",
+            "evidence": "10"
+          },
+          {
+            "claim": "网友叫它吉隆坡大哥大",
+            "verdict": "支持",
+            "evidence": "10"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "claims": [
+          {
+            "claim": "第三名上海中心632米",
+            "verdict": "支持",
+            "evidence": "9"
+          },
+          {
+            "claim": "配了全球最重的阻尼器",
+            "verdict": "支持",
+            "evidence": "9"
+          },
+          {
+            "claim": "能扛15级台风",
+            "verdict": "支持",
+            "evidence": "9"
+          },
+          {
+            "claim": "120度螺旋上升的龙脊造型",
+            "verdict": "支持",
+            "evidence": "9"
+          },
+          {
+            "claim": "这是中国第一高楼",
+            "verdict": "支持",
+            "evidence": "9"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "claims": [
+          {
+            "claim": "香港1985座百米楼",
+            "verdict": "支持",
+            "evidence": "21"
+          },
+          {
+            "claim": "全球第一",
+            "verdict": "支持",
+            "evidence": "21"
+          },
+          {
+            "claim": "最高楼环球贸易广场才484米",
+            "verdict": "支持",
+            "evidence": "21"
+          },
+          {
+            "claim": "连世界前十都排不进",
+            "verdict": "支持",
+            "evidence": "2,21"
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "claims": [
+          {
+            "claim": "是香港建不起高楼吗？",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "claims": [
+          {
+            "claim": "地方太小只能往上堆密度",
+            "verdict": "支持",
+            "evidence": "21"
+          },
+          {
+            "claim": "搞差异化限高",
+            "verdict": "支持",
+            "evidence": "21"
+          },
+          {
+            "claim": "护住维港景观和山体海岸线",
+            "verdict": "支持",
+            "evidence": "21"
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "claims": [
+          {
+            "claim": "我的判断是，香港走的是数量牌，迪拜走的是高度牌，这两条路你更看好哪个？",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "claims": [
+          {
+            "claim": "深圳1553座百米楼",
+            "verdict": "支持",
+            "evidence": "20"
+          },
+          {
+            "claim": "原则上限高80米",
+            "verdict": "支持",
+            "evidence": "20"
+          },
+          {
+            "claim": "超标要特批",
+            "verdict": "支持",
+            "evidence": "20"
+          },
+          {
+            "claim": "结果建了这么多，说明特批通道一直在开",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "claims": [
+          {
+            "claim": "我说白了，限高令到底是真约束还是纸老虎，深圳这组数据就是最好的试金石。",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "claims": [
+          {
+            "claim": "再往下看，限高令的玩法更魔幻。",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 16,
+        "claims": [
+          {
+            "claim": "新加坡516座",
+            "verdict": "支持",
+            "evidence": "18"
+          },
+          {
+            "claim": "最高丹戎巴葛中心才290米",
+            "verdict": "支持",
+            "evidence": "18"
+          }
+        ]
+      },
+      {
+        "index": 17,
+        "claims": [
+          {
+            "claim": "樟宜机场飞行安全，全境禁修300米以上",
+            "verdict": "支持",
+            "evidence": "18"
+          },
+          {
+            "claim": "这是拿航空安全换天际线",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 18,
+        "claims": [
+          {
+            "claim": "东京638座",
+            "verdict": "支持",
+            "evidence": "17"
+          },
+          {
+            "claim": "最高是晴空塔634米",
+            "verdict": "支持",
+            "evidence": "17"
+          },
+          {
+            "claim": "但那是广播观光塔不算楼",
+            "verdict": "支持",
+            "evidence": "17"
+          },
+          {
+            "claim": "受抗震标准和航空限高双重夹击",
+            "verdict": "支持",
+            "evidence": "17"
+          },
+          {
+            "claim": "极少修300米以上",
+            "verdict": "支持",
+            "evidence": "17"
+          }
+        ]
+      },
+      {
+        "index": 19,
+        "claims": [
+          {
+            "claim": "武汉395座",
+            "verdict": "支持",
+            "evidence": "15"
+          },
+          {
+            "claim": "广州412座",
+            "verdict": "支持",
+            "evidence": "16"
+          },
+          {
+            "claim": "都严控超高地标立项",
+            "verdict": "支持",
+            "evidence": "15,16"
+          },
+          {
+            "claim": "重庆147座",
+            "verdict": "支持",
+            "evidence": "12"
+          },
+          {
+            "claim": "受地形和航线限制核心区已严控超高",
+            "verdict": "支持",
+            "evidence": "12"
+          }
+        ]
+      },
+      {
+        "index": 20,
+        "claims": [
+          {
+            "claim": "我的判断是，中国城市的限高令正在从竞赛模式切到管控模式，这波收紧，是理性回归还是错失天际线？",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 21,
+        "claims": [
+          {
+            "claim": "十大最高建筑里中国占四席",
+            "verdict": "矛盾",
+            "evidence": "2,3,4,7,9"
+          },
+          {
+            "claim": "高楼之城前十里中国占五席",
+            "verdict": "支持",
+            "evidence": "1"
+          },
+          {
+            "claim": "香港、深圳、广州、武汉、重庆",
+            "verdict": "支持",
+            "evidence": "21,20,16,15,12"
+          }
+        ]
+      },
+      {
+        "index": 22,
+        "claims": [
+          {
+            "claim": "是基建狂魔的胜利，还是城市化进程的必然？",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 23,
+        "claims": [
+          {
+            "claim": "我说白了，高楼数量反映的是土地稀缺度，高楼高度反映的是资本野心，两者根本不是一个赛道。",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 24,
+        "claims": [
+          {
+            "claim": "迪拜356座却拥有世界第一高",
+            "verdict": "支持",
+            "evidence": "11,14"
+          },
+          {
+            "claim": "香港1985座却只有484米",
+            "verdict": "支持",
+            "evidence": "21"
+          },
+          {
+            "claim": "这组对比就是最好的注脚",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 25,
+        "claims": [
+          {
+            "claim": "最后留个问题给你：如果只能选一座城市定居，你要高楼密度拉满的香港，还是要高度封顶的迪拜？",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 26,
+        "claims": [
+          {
+            "claim": "评论区告诉我你的选择，点赞过万我下期盘全球最魔幻的十大烂尾摩天楼。",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      }
+    ],
+    "verdict_counts": {
+      "支持": 47,
+      "无支撑": 0,
+      "矛盾": 3,
+      "非判词": 15
+    },
+    "support_rate": 0.94
+  },
+  "q2": {
+    "items": [
+      {
+        "index": 5,
+        "verdict": "匹配",
+        "why": "主体迪拜哈利法塔、828米、270多层等核心数据一致"
+      },
+      {
+        "index": 7,
+        "verdict": "匹配",
+        "why": "默迪卡118、678.9米、天线160米等主体和细节一致"
+      },
+      {
+        "index": 9,
+        "verdict": "匹配",
+        "why": "香港1985座、环球贸易广场484米等核心数据一致"
+      },
+      {
+        "index": 11,
+        "verdict": "匹配",
+        "why": "香港差异化限高、维港景观和山体海岸线等表述一致"
+      },
+      {
+        "index": 17,
+        "verdict": "错位",
+        "why": "解说句主体为新加坡樟宜机场禁修300米，片段文本仍在讲东京机场限高，仅开头提到新加坡"
+      },
+      {
+        "index": 19,
+        "verdict": "弱匹配",
+        "why": "片段文本只对应重庆147座与陆海国际中心，未覆盖解说句中的武汉、广州部分"
+      }
+    ],
+    "verdict_counts": {
+      "匹配": 4,
+      "弱匹配": 1,
+      "错位": 1
+    },
+    "sentence_total": 27,
+    "headline_q2": 0.167
+  },
+  "q4": {
+    "titles": [
+      {
+        "platform": "B站",
+        "information": 5,
+        "accuracy": 5,
+        "appeal": 5,
+        "why": "双榜、具体数据、反直觉和隐藏BOSS悬念齐备，与内容一致"
+      },
+      {
+        "platform": "西瓜视频/抖音（中视频伙伴计划）",
+        "information": 3,
+        "accuracy": 5,
+        "appeal": 4,
+        "why": "核心冲突和悬念有余，但缺具体数据与双榜信息，信息量一般"
+      },
+      {
+        "platform": "微信视频号",
+        "information": 2,
+        "accuracy": 4,
+        "appeal": 3,
+        "why": "仅有笼统悬念，信息量低，吸引力一般，未涉及具体内容"
+      }
+    ]
+  },
+  "q5": {
+    "flow": 5,
+    "density": 5,
+    "fact_boundary": 2,
+    "why": "叙事结构清晰、数据密集，但存在两处排名硬伤：前五中国占仨（实为前五两席、广州第6）、十大最高中国占四席（漏天津周大福，实为五席）"
+  },
+  "n_sentences": 27,
+  "api_model": "deepseek-v4-pro",
+  "api_usage": {
+    "prompt_tokens": 5351,
+    "completion_tokens": 15517,
+    "total_tokens": 20868,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 12156
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 5351
+  },
+  "elapsed_s": 198.5
+}

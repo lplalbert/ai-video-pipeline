@@ -1,0 +1,666 @@
+{
+  "sid": "50d0dbaa2b31",
+  "judge": "flash",
+  "judge_model": "mimo-v2.6-flash",
+  "ts": "2026-11-08T19:47:37",
+  "n_sentences": 39,
+  "q1": {
+    "items": [
+      {
+        "index": 0,
+        "claims": [
+          {
+            "claim": "这场系列赛比分为 3-1",
+            "verdict": "支持",
+            "evidence": "底座1（IG 3-1 TES 晋级四强）"
+          },
+          {
+            "claim": "赛后采访比比赛本身信息量还大",
+            "verdict": "非判词",
+            "evidence": "无"
+          },
+          {
+            "claim": "阿水亲口说 IG 最有希望夺冠",
+            "verdict": "支持",
+            "evidence": "底座8（自媒体解说转引：阿水称 IG 现在实力很强、最有希望夺冠）"
+          },
+          {
+            "claim": "Rookie 喊出「IG 又回来了」",
+            "verdict": "支持",
+            "evidence": "底座8（Rookie 对粉丝喊话「IG 又回来了」，标题互证）"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "claims": [
+          {
+            "claim": "先看最炸的一条",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "claims": [
+          {
+            "claim": "赛后采访中主持人问阿水，八强谁最有望夺冠",
+            "verdict": "支持",
+            "evidence": "底座8（自媒体解说转引：主持人问阿水八强谁最有望夺冠）"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "claims": [
+          {
+            "claim": "阿水说 IG 现在实力很强、最有希望夺冠",
+            "verdict": "支持",
+            "evidence": "底座8"
+          },
+          {
+            "claim": "阿水祝福了出身于 IG 的老东家",
+            "verdict": "支持",
+            "evidence": "底座8（并祝福出身于 IG 的老东家）"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "claims": [
+          {
+            "claim": "这是自媒体解说转引的口径，不是原始采访画面",
+            "verdict": "支持",
+            "evidence": "底座8 + 口径禁区（BV1UoxD64EU7 为自媒体解说视频，JKL 受访内容系叙述者转引）"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "claims": [
+          {
+            "claim": "说这话的人是阿水",
+            "verdict": "支持",
+            "evidence": "底座8"
+          },
+          {
+            "claim": "阿水被 IG 捧起过冠军奖杯",
+            "verdict": "支持",
+            "evidence": "底座8（2018 年曾亲手捧起冠军奖杯——注：底座此条系 Rookie 专访口径，阿水 2018 随 IG 夺冠为通行公开口径，底座未单列阿水条目）"
+          },
+          {
+            "claim": "阿水现在站在 TES 阵营",
+            "verdict": "支持",
+            "evidence": "底座1（IG 3-1 TES，JKL 为 TES 选手，通行口径）"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "claims": [
+          {
+            "claim": "对手打完输给你，还说你最有希望夺冠",
+            "verdict": "支持",
+            "evidence": "底座1 + 底座8（TES 负于 IG；阿水称 IG 最有希望夺冠）"
+          },
+          {
+            "claim": "这叫什么？",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "claims": [
+          {
+            "claim": "这叫实力被认证，不是客套",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "claims": [
+          {
+            "claim": "你觉得这是真心话还是场面话？",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "claims": [
+          {
+            "claim": "评论区扣一扣。",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "claims": [
+          {
+            "claim": "Wei 的赛后采访由余霜在中文流进行",
+            "verdict": "支持",
+            "evidence": "1"
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "claims": [
+          {
+            "claim": "Wei 称系列赛连续拿到一血",
+            "verdict": "支持",
+            "evidence": "2"
+          },
+          {
+            "claim": "Wei 称连续一血与把训练赛内容带进比赛、前期找机会能力强有关",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "claims": [
+          {
+            "claim": "Wei 复盘第二局猴子，称自己打团「送了两三波」、可惜",
+            "verdict": "支持",
+            "evidence": "4"
+          },
+          {
+            "claim": "Wei 称第三局把心态调整好",
+            "verdict": "支持",
+            "evidence": "4"
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "claims": [
+          {
+            "claim": "Wei 在赛后采访中自己承认打团「送了两三波」",
+            "verdict": "支持",
+            "evidence": "4"
+          },
+          {
+            "claim": "现在 LPL 敢在赛后采访里自认失误的选手所剩无几",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "claims": [
+          {
+            "claim": "这不是甩锅，这是把问题摆到台面上",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "claims": [
+          {
+            "claim": "Wei 称第三局杰斯是训练赛练过的选择",
+            "verdict": "支持",
+            "evidence": "4"
+          },
+          {
+            "claim": "Wei 称杰斯效果还行",
+            "verdict": "支持",
+            "evidence": "4"
+          },
+          {
+            "claim": "Wei 称杰斯优势时有点厉害",
+            "verdict": "支持",
+            "evidence": "4"
+          }
+        ]
+      },
+      {
+        "index": 16,
+        "claims": [
+          {
+            "claim": "IG 现在的前期节奏不是玄学，是训练赛转化率高",
+            "verdict": "支持",
+            "evidence": "2（Wei 称把训练赛内容带进比赛、前期找机会能力强）"
+          },
+          {
+            "claim": "（隐含）IG 现在前期节奏强",
+            "verdict": "支持",
+            "evidence": "2（Wei 称系列赛连续拿到一血、前期找机会能力强）"
+          }
+        ]
+      },
+      {
+        "index": 17,
+        "claims": [
+          {
+            "claim": "IG 有一血率这一数据表现",
+            "verdict": "支持",
+            "evidence": "2（Wei 称系列赛连续拿到一血）"
+          },
+          {
+            "claim": "（设问）一血率是版本红利还是真本事",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 18,
+        "claims": [
+          {
+            "claim": "英文流采访中，暂停时新人 jiaqi 很紧张",
+            "verdict": "支持",
+            "evidence": "6"
+          },
+          {
+            "claim": "TheShy 以哥哥身份安慰他",
+            "verdict": "支持",
+            "evidence": "6"
+          }
+        ]
+      },
+      {
+        "index": 19,
+        "claims": [
+          {
+            "claim": "TheShy 称薇恩那把是自己的失误",
+            "verdict": "支持",
+            "evidence": "6"
+          },
+          {
+            "claim": "TheShy 对薇恩那把非常愧疚",
+            "verdict": "支持",
+            "evidence": "6"
+          }
+        ]
+      },
+      {
+        "index": 20,
+        "claims": [
+          {
+            "claim": "TheShy 今年长时间休息后回归",
+            "verdict": "支持",
+            "evidence": "7"
+          },
+          {
+            "claim": "TheShy 回归后心态变了，从要秀变成要带队",
+            "verdict": "支持",
+            "evidence": "7（心态转为以努力带队）"
+          }
+        ]
+      },
+      {
+        "index": 21,
+        "claims": [
+          {
+            "claim": "TheShy 称队伍需要他玩什么就玩什么",
+            "verdict": "支持",
+            "evidence": "7"
+          },
+          {
+            "claim": "IG 的制胜计划围绕打野与下路",
+            "verdict": "支持",
+            "evidence": "7"
+          },
+          {
+            "claim": "自瑞士轮起执行到位",
+            "verdict": "支持",
+            "evidence": "7"
+          }
+        ]
+      },
+      {
+        "index": 22,
+        "claims": [
+          {
+            "claim": "你看出来没？",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 23,
+        "claims": [
+          {
+            "claim": "IG 现在的战术重心是打野加下路",
+            "verdict": "支持",
+            "evidence": "7（IG 的制胜计划围绕打野与下路）"
+          },
+          {
+            "claim": "IG 战术重心已从「上路 carry」转移",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 24,
+        "claims": [
+          {
+            "claim": "TheShy 自己甘当绿叶",
+            "verdict": "无支撑",
+            "evidence": "无"
+          },
+          {
+            "claim": "这才是这支 IG 最大的变化",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 25,
+        "claims": [
+          {
+            "claim": "当年的 TheShy 是莽的",
+            "verdict": "非判词",
+            "evidence": "无"
+          },
+          {
+            "claim": "现在的 TheShy 是稳的",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 26,
+        "claims": [
+          {
+            "claim": "接下来谈 Rookie",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 27,
+        "claims": [
+          {
+            "claim": "主持人口径称 Rookie 自 2019 年后再次闯入全球总决赛四强",
+            "verdict": "支持",
+            "evidence": "底座8（BV1w2xS6LEVB 转写[28.6-36.6]）"
+          }
+        ]
+      },
+      {
+        "index": 28,
+        "claims": [
+          {
+            "claim": "Rookie 称自己历届世界赛「非 16 强即四强或冠军」",
+            "verdict": "支持",
+            "evidence": "底座8（[44.4-60.9]）"
+          },
+          {
+            "claim": "Rookie 称先打好四强有机会争冠",
+            "verdict": "支持",
+            "evidence": "底座8（[44.4-60.9]）"
+          },
+          {
+            "claim": "Rookie 2018 年曾亲手捧起冠军奖杯",
+            "verdict": "支持",
+            "evidence": "底座8（[208.0-243.5]）"
+          },
+          {
+            "claim": "Rookie 如今心态与决心更强烈",
+            "verdict": "支持",
+            "evidence": "底座8（[208.0-243.5]）"
+          }
+        ]
+      },
+      {
+        "index": 29,
+        "claims": [
+          {
+            "claim": "Rookie 对粉丝喊出「IG 又回来了」",
+            "verdict": "支持",
+            "evidence": "底座8（BV1w2xS6LEVB 转写[294.0-313.0]，Rookie 本人对粉丝喊话口径）"
+          }
+        ]
+      },
+      {
+        "index": 30,
+        "claims": [
+          {
+            "claim": "这句话从 Rookie 嘴里说出来",
+            "verdict": "非判词",
+            "evidence": "无"
+          },
+          {
+            "claim": "Rookie 是亲历过 IG 巅峰的人",
+            "verdict": "支持",
+            "evidence": "底座8（2018 年曾亲手捧起冠军奖杯 [208.0-243.5]）"
+          }
+        ]
+      },
+      {
+        "index": 31,
+        "claims": [
+          {
+            "claim": "队内语音里 Meiko 指挥「拆塔、点塔、一波」收尾",
+            "verdict": "支持",
+            "evidence": "底座8（BV1N24t6fEQi 标题口径+转写[153.6-167.6][263.2-268.2]近义簇佐证）"
+          },
+          {
+            "claim": "标题口径有「我和嘉琪现在很可怕」",
+            "verdict": "支持",
+            "evidence": "底座8（BV1N24t6fEQi 标题口径）"
+          }
+        ]
+      },
+      {
+        "index": 32,
+        "claims": [
+          {
+            "claim": "IG 现在最可怕的是指挥链清晰、情绪稳定（而非操作）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 33,
+        "claims": [
+          {
+            "claim": "IG 是回光返照还是真王者归来",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 34,
+        "claims": [
+          {
+            "claim": "阿水说 IG 最有希望夺冠",
+            "verdict": "支持",
+            "evidence": "8（BV1UoxD64EU7 转写[166.0-196.0]，叙述者转引口径）"
+          }
+        ]
+      },
+      {
+        "index": 35,
+        "claims": [
+          {
+            "claim": "IG 现在战术重心是打野加下路",
+            "verdict": "支持",
+            "evidence": "7（TheShy 称 IG 制胜计划围绕打野与下路）"
+          },
+          {
+            "claim": "该战术重心能否扛住四强对手",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 36,
+        "claims": [
+          {
+            "claim": "Rookie 说过「IG 又回来了」",
+            "verdict": "支持",
+            "evidence": "8（BV1w2xS6LEVB 转写[294.0-313.0]，Rookie 本人对粉丝喊话）"
+          },
+          {
+            "claim": "是口号还是宣言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 37,
+        "claims": [
+          {
+            "claim": "点赞过万出一期 IG 四强前瞻",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 38,
+        "claims": [
+          {
+            "claim": "下期见",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      }
+    ],
+    "verdict_counts": {
+      "支持": 45,
+      "无支撑": 3,
+      "矛盾": 0,
+      "非判词": 20
+    },
+    "support_rate": 0.938
+  },
+  "q2": {
+    "items": [
+      {
+        "index": 2,
+        "verdict": "匹配",
+        "why": "解说提及赛后采访阿水，片段为转引JKL赛后采访，主体事件一致"
+      },
+      {
+        "index": 3,
+        "verdict": "匹配",
+        "why": "解说叙述阿水祝福老东家IG，片段内容一致"
+      },
+      {
+        "index": 5,
+        "verdict": "匹配",
+        "why": "解说强调阿水IG出身背景，片段叙述同一背景信息"
+      },
+      {
+        "index": 10,
+        "verdict": "匹配",
+        "why": "解说提及Wei赛后采访余霜中文流，片段为余霜采访Wei打招呼，主体时点一致"
+      },
+      {
+        "index": 11,
+        "verdict": "匹配",
+        "why": "解说提及连续一血与训练赛转化，片段为余霜提问连续一血Wei回应训练赛转化，内容一致"
+      },
+      {
+        "index": 12,
+        "verdict": "匹配",
+        "why": "解说提及复盘第二局猴子失误与第三局心态调整，片段内容一致"
+      },
+      {
+        "index": 15,
+        "verdict": "匹配",
+        "why": "解说与片段均指第三局杰斯、训练赛练过、效果还行，主体动作一致"
+      },
+      {
+        "index": 18,
+        "verdict": "匹配",
+        "why": "均指英文流采访中TheShy以哥哥身份安慰紧张新人jiaqi，事件一致"
+      },
+      {
+        "index": 19,
+        "verdict": "弱匹配",
+        "why": "片段仅称TheShy含糊讨论对线与薇恩，是否承认失误、愧疚情绪无法确认"
+      },
+      {
+        "index": 21,
+        "verdict": "匹配",
+        "why": "均指TheShy谈IG围绕打野与下路的制胜计划，主体与内容一致"
+      },
+      {
+        "index": 27,
+        "verdict": "匹配",
+        "why": "均指Rookie专访中主持人称其2019年后再进四强，主体与口径一致"
+      },
+      {
+        "index": 28,
+        "verdict": "匹配",
+        "why": "均指Rookie谈历届世界赛成绩与争冠决心，内容一致"
+      },
+      {
+        "index": 29,
+        "verdict": "匹配",
+        "why": "片段文本与解说句均为Rookie对粉丝喊出「IG又回来了」，主体、动作、事件一致"
+      },
+      {
+        "index": 31,
+        "verdict": "弱匹配",
+        "why": "拆塔、点塔、一波的指挥内容一致，但解说句还提到「我和嘉琪现在很可怕」，片段文本未包含该内容，无法确认"
+      }
+    ],
+    "verdict_counts": {
+      "匹配": 12,
+      "弱匹配": 2,
+      "错位": 0
+    },
+    "sentence_total": 39,
+    "headline_q2": 0.333
+  },
+  "q4": {
+    "titles": [
+      {
+        "platform": "B站",
+        "information": 5,
+        "accuracy": 4,
+        "appeal": 5,
+        "why": "看点、人物、情绪钩子齐全，信息量足但需确认采访细节是否准确"
+      },
+      {
+        "platform": "西瓜视频/抖音（中视频伙伴计划）",
+        "information": 4,
+        "accuracy": 4,
+        "appeal": 4,
+        "why": "保留核心悬念但删掉了Rookie眼泪等具体看点，吸引力略降"
+      },
+      {
+        "platform": "微信视频号",
+        "information": 2,
+        "accuracy": 4,
+        "appeal": 3,
+        "why": "过于简略，没说清是什么采访、谁的眼泪，信息量不足"
+      }
+    ]
+  },
+  "q5": {
+    "flow": 4,
+    "density": 4,
+    "fact_boundary": 4,
+    "why": "四段式结构清晰、口语化互动自然，信息以采访转述为主较扎实，且主动标注了转引口径与原话大意，但部分断言如'指挥链清晰''训练赛转化率高'仍略超证据。"
+  },
+  "elapsed_s": 91.0
+}

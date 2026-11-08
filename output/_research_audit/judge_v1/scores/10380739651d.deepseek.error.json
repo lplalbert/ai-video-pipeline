@@ -1,0 +1,10 @@
+{
+  "sid": "10380739651d",
+  "judge": "deepseek",
+  "judge_model": "external:deepseek",
+  "api_model": "deepseek-v4-pro",
+  "ts": "2026-11-08T10:09:15",
+  "source": "api",
+  "error": "Expecting ',' delimiter: line 129 column 76 (char 3514)",
+  "elapsed_s": 155.9
+}

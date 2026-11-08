@@ -1,0 +1,671 @@
+{
+  "sid": "e456d2f7d1ff",
+  "judge": "deepseek-flash",
+  "judge_model": "external:deepseek-flash",
+  "ts": "2026-11-08T10:51:56",
+  "source": "api",
+  "q1": {
+    "items": [
+      {
+        "index": 0,
+        "claims": [
+          {
+            "claim": "阿水（JKL）说「IG 最有希望夺冠」",
+            "verdict": "支持",
+            "evidence": "8（自媒体解说转引口径）"
+          },
+          {
+            "claim": "阿水是 TES 现役选手、且 TES 刚被 IG 淘汰出局",
+            "verdict": "无支撑",
+            "evidence": "无（底座只载 IG 3-1 TES 晋级，未载阿水现役队属）"
+          },
+          {
+            "claim": "这句是阿水「亲口」原话",
+            "verdict": "无支撑",
+            "evidence": "8 明确为叙述者转引，非原声直引"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "claims": [
+          {
+            "claim": "反问句，无事实断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "claims": [
+          {
+            "claim": "「体面/诛心」为评价修辞",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "claims": [
+          {
+            "claim": "本期内容为拆解赛后采访与队内语音",
+            "verdict": "非判词",
+            "evidence": "无（节目自述）"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "claims": [
+          {
+            "claim": "过渡句，无断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "claims": [
+          {
+            "claim": "余霜（主持人）提问 Wei 连续拿一血",
+            "verdict": "支持",
+            "evidence": "2（主持人提问口径）"
+          },
+          {
+            "claim": "Wei 将连续一血归因于训练赛内容敢搬进比赛、前期找机会能力强",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "claims": [
+          {
+            "claim": "IG 有「涅槃组」背景、从涅槃组打回来",
+            "verdict": "支持",
+            "evidence": "5（Wei 谈第三赛段先打回登峰组、不想挂涅槃称号）"
+          },
+          {
+            "claim": "「立敢打的牌」为解读",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "claims": [
+          {
+            "claim": "第一局蓝 BUFF 区发生三打五",
+            "verdict": "支持",
+            "evidence": "3"
+          },
+          {
+            "claim": "Wei 复盘称对面先交大招秒辛德拉、己方位置不利难拉扯",
+            "verdict": "支持",
+            "evidence": "3"
+          },
+          {
+            "claim": "Wei 称等对方技能交完再上、小技能沟通到位才打赢",
+            "verdict": "支持",
+            "evidence": "3"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "claims": [
+          {
+            "claim": "「不是奇迹团而是纪律性」为主观定性",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "claims": [
+          {
+            "claim": "评价性表述，无事实断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "claims": [
+          {
+            "claim": "Wei 自评第二局猴子自己打团「送了两三波」",
+            "verdict": "支持",
+            "evidence": "4"
+          },
+          {
+            "claim": "第三局杰斯是训练赛练过的选择",
+            "verdict": "支持",
+            "evidence": "4"
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "claims": [
+          {
+            "claim": "「把锅认了、把功劳给准备」为概括评价",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "claims": [
+          {
+            "claim": "比较性评价，无事实断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "claims": [
+          {
+            "claim": "TheShy 该段为英文流采访（多级转译）",
+            "verdict": "支持",
+            "evidence": "6（英文流采访，转译按大意）"
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "claims": [
+          {
+            "claim": "暂停时新人 jiaqi 很紧张",
+            "verdict": "支持",
+            "evidence": "6"
+          },
+          {
+            "claim": "TheShy 以哥哥身份安慰 jiaqi",
+            "verdict": "支持",
+            "evidence": "6"
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "claims": [
+          {
+            "claim": "TheShy 自评薇恩那把是自己的失误、非常愧疚",
+            "verdict": "支持",
+            "evidence": "6（标题口径）"
+          }
+        ]
+      },
+      {
+        "index": 16,
+        "claims": [
+          {
+            "claim": "「神鬼二象性、输了不太解释」属印象式评价",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 17,
+        "claims": [
+          {
+            "claim": "TheShy 主动认下薇恩的失误",
+            "verdict": "支持",
+            "evidence": "6"
+          },
+          {
+            "claim": "TheShy 称队伍需要他玩什么就玩什么",
+            "verdict": "支持",
+            "evidence": "7"
+          }
+        ]
+      },
+      {
+        "index": 18,
+        "claims": [
+          {
+            "claim": "TheShy 称 IG 制胜计划围绕打野与下路",
+            "verdict": "支持",
+            "evidence": "7"
+          },
+          {
+            "claim": "该计划自瑞士轮起执行到位",
+            "verdict": "支持",
+            "evidence": "7"
+          }
+        ]
+      },
+      {
+        "index": 19,
+        "claims": [
+          {
+            "claim": "反问句，无断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 20,
+        "claims": [
+          {
+            "claim": "「发动机不是他」为推断性解读",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 21,
+        "claims": [
+          {
+            "claim": "评价性表述",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 22,
+        "claims": [
+          {
+            "claim": "立场表态，无事实断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 23,
+        "claims": [
+          {
+            "claim": "主持人口径称 Rookie 自 2019 年后再次闯入全球总决赛四强",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 24,
+        "claims": [
+          {
+            "claim": "Rookie 称自己历届世界赛「非 16 强即四强或冠军」",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "Rookie 称先打好四强、有机会争冠",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 25,
+        "claims": [
+          {
+            "claim": "Rookie 称 2018 年亲手捧起冠军奖杯",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "Rookie 称如今心态与决心更强烈",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 26,
+        "claims": [
+          {
+            "claim": "Rookie 对粉丝喊「IG 又回来了」",
+            "verdict": "支持",
+            "evidence": "8（本人喊话口径）"
+          }
+        ]
+      },
+      {
+        "index": 27,
+        "claims": [
+          {
+            "claim": "「情怀牌还是实力牌」为主观设问",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 28,
+        "claims": [
+          {
+            "claim": "Rookie 未提「我们已经是最强」，只说「有机会」",
+            "verdict": "支持",
+            "evidence": "8（底座采访范围内无「最强」表述，只出现「有机会争冠」）"
+          }
+        ]
+      },
+      {
+        "index": 29,
+        "claims": [
+          {
+            "claim": "「老中单的分寸感」为评价",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 30,
+        "claims": [
+          {
+            "claim": "阿水那句「IG 最有希望夺冠」系自媒体转引口径",
+            "verdict": "支持",
+            "evidence": "8（BV1UoxD64EU7 叙述者转引）"
+          }
+        ]
+      },
+      {
+        "index": 31,
+        "claims": [
+          {
+            "claim": "阿水为 TES 现役选手并向 IG 送出祝福",
+            "verdict": "无支撑",
+            "evidence": "8 仅载「祝福出身于 IG 的老东家」，未载现役队属"
+          },
+          {
+            "claim": "「把聚光灯推给 IG」为解读",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 32,
+        "claims": [
+          {
+            "claim": "过渡句，无断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 33,
+        "claims": [
+          {
+            "claim": "标题口径为 Wei 感叹「我和嘉琪现在很可怕」",
+            "verdict": "支持",
+            "evidence": "8（标题口径）"
+          },
+          {
+            "claim": "标题口径为 Meiko 指挥「拆塔一波」",
+            "verdict": "支持",
+            "evidence": "8（标题口径）"
+          }
+        ]
+      },
+      {
+        "index": 34,
+        "claims": [
+          {
+            "claim": "转写可对应开场感叹与「拆拆拆/点塔/一波」簇",
+            "verdict": "支持",
+            "evidence": "8（转写[0.0-4.5]与[263.2-268.2]佐证）"
+          }
+        ]
+      },
+      {
+        "index": 35,
+        "claims": [
+          {
+            "claim": "评价句，无事实断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 36,
+        "claims": [
+          {
+            "claim": "收尾语音含「听我指挥、拆塔」语义",
+            "verdict": "支持",
+            "evidence": "8（标题口径+「拆拆拆/点塔/一波」簇）"
+          },
+          {
+            "claim": "语音中说「我来我来」",
+            "verdict": "无支撑",
+            "evidence": "无（底座无此表述）"
+          },
+          {
+            "claim": "「指挥链收敛」为推断",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 37,
+        "claims": [
+          {
+            "claim": "TheShy 曾说制胜计划围绕打野与下路",
+            "verdict": "支持",
+            "evidence": "7"
+          },
+          {
+            "claim": "「Wei 找节奏、下路收比赛、上路补开团」为延伸分工解读",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 38,
+        "claims": [
+          {
+            "claim": "「最可怕的是秩序感」为主观判断",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 39,
+        "claims": [
+          {
+            "claim": "「对手研究不了」为夸张修辞",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 40,
+        "claims": [
+          {
+            "claim": "设问，无事实断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 41,
+        "claims": [
+          {
+            "claim": "「四强对上 GEN 这种运营队」为假设前瞻",
+            "verdict": "非判词",
+            "evidence": "无（底座未载四强对手）"
+          }
+        ]
+      },
+      {
+        "index": 42,
+        "claims": [
+          {
+            "claim": "互动引导，无事实断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 43,
+        "claims": [
+          {
+            "claim": "节目预告与引导关注",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      }
+    ],
+    "verdict_counts": {
+      "支持": 30,
+      "无支撑": 4,
+      "矛盾": 0,
+      "非判词": 27
+    },
+    "support_rate": 0.882
+  },
+  "q2": {
+    "items": [
+      {
+        "index": 0,
+        "verdict": "匹配",
+        "why": "片段即自媒体转引阿水赛后采访画面，与解说句的转引主体一致"
+      },
+      {
+        "index": 5,
+        "verdict": "匹配",
+        "why": "余霜采访 Wei、提问连续一血与训练赛归因，人物与事件对应"
+      },
+      {
+        "index": 7,
+        "verdict": "匹配",
+        "why": "Wei 复盘第一局蓝 BUFF 三打五、讲等技能与小技能沟通，细节一致"
+      },
+      {
+        "index": 10,
+        "verdict": "弱匹配",
+        "why": "同属 Wei 自评段，但片段落在第二局猴子与第三局心态，未含杰斯「训练赛练过」细节"
+      },
+      {
+        "index": 14,
+        "verdict": "匹配",
+        "why": "TheShy 英文流采访谈安慰紧张新人 jiaqi，主体与事件一致"
+      },
+      {
+        "index": 17,
+        "verdict": "弱匹配",
+        "why": "同为 TheShy 英文流采访，但片段落在「为队伍努力、不被上路单杀」，与认薇恩存在细节偏差"
+      },
+      {
+        "index": 18,
+        "verdict": "匹配",
+        "why": "片段即 TheShy 讲围绕打野与下路的制胜计划，与解说句一致"
+      },
+      {
+        "index": 23,
+        "verdict": "匹配",
+        "why": "Rookie 专访开场主持人称自 2019 年后再进四强，时点主体一致"
+      },
+      {
+        "index": 24,
+        "verdict": "匹配",
+        "why": "Rookie 讲历届世界赛非 16 强即四强或冠军、先打好四强，内容对应"
+      },
+      {
+        "index": 25,
+        "verdict": "匹配",
+        "why": "Rookie 讲 2018 捧杯后心态与决心更强，与解说句一致"
+      },
+      {
+        "index": 26,
+        "verdict": "匹配",
+        "why": "片段即 Rookie 对粉丝喊「IG 又回来了」，主体动作一致"
+      },
+      {
+        "index": 30,
+        "verdict": "匹配",
+        "why": "片段为自媒体转引阿水祝福老东家 IG，与解说句的转引口径相符"
+      },
+      {
+        "index": 33,
+        "verdict": "弱匹配",
+        "why": "片段只覆盖开场 Wei 与嘉琪互动，Meiko「拆塔一波」不在该段画面内"
+      },
+      {
+        "index": 34,
+        "verdict": "匹配",
+        "why": "片段为收尾「拆拆拆、点塔、一波」簇，与解说句所指一致"
+      }
+    ],
+    "verdict_counts": {
+      "匹配": 11,
+      "弱匹配": 3,
+      "错位": 0
+    },
+    "sentence_total": 44,
+    "headline_q2": 0.284
+  },
+  "q4": {
+    "titles": [
+      {
+        "platform": "B站",
+        "information": 4,
+        "accuracy": 4,
+        "appeal": 4,
+        "why": "说清 3-1 结果、Wei 采访与 Meiko 指挥两条主线，无夸大，稍长略堆叠"
+      },
+      {
+        "platform": "西瓜视频/抖音（中视频伙伴计划）",
+        "information": 2,
+        "accuracy": 3,
+        "appeal": 2,
+        "why": "标题在「是复盘也是」处截断，看点不完整、点击欲弱"
+      },
+      {
+        "platform": "微信视频号",
+        "information": 1,
+        "accuracy": 2,
+        "appeal": 1,
+        "why": "仅剩「IG 3-1 TES：Wei 的」，语义残缺，无法传达看点"
+      }
+    ]
+  },
+  "q5": {
+    "flow": 4,
+    "density": 3,
+    "fact_boundary": 4,
+    "why": "四段结构清晰、口语推进顺；但采访复述与个人点评比例偏评论，干货集中在少数引语，且个别表述（阿水「亲口」、TES 现役身份）略越出转引口径，整体事实边界仍算克制。"
+  },
+  "n_sentences": 44,
+  "api_model": "deepseek-flash",
+  "api_usage": {
+    "prompt_tokens": 5600,
+    "completion_tokens": 6645,
+    "total_tokens": 12245,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 3194
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 5600
+  },
+  "elapsed_s": 39.0
+}

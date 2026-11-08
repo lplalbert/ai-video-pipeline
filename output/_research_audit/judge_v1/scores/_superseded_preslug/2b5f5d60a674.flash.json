@@ -1,0 +1,426 @@
+{
+  "sid": "2b5f5d60a674",
+  "judge": "flash",
+  "judge_model": "mimo-v2.6-flash",
+  "ts": "2026-11-07T23:08:35",
+  "n_sentences": 26,
+  "q1": {
+    "items": [
+      {
+        "index": 0,
+        "claims": [
+          {
+            "claim": "三个人打对面五个还打赢了（IG 3V5 反打成功）",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "claims": [
+          {
+            "claim": "IG 与对手进行了一场约三十分钟、39 个人头的对攻",
+            "verdict": "支持",
+            "evidence": "4"
+          },
+          {
+            "claim": "老 IG 的看家绝活回来了（解说/标题观点句）",
+            "verdict": "支持",
+            "evidence": "8、16"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "claims": [
+          {
+            "claim": "IG 3-1 淘汰 TES 晋级四强",
+            "verdict": "支持",
+            "evidence": "2"
+          },
+          {
+            "claim": "IG 晋级靠的是把老 IG 的传统手艺捡回来（观点句）",
+            "verdict": "支持",
+            "evidence": "16"
+          },
+          {
+            "claim": "全员不怕背锅、敢抓机会",
+            "verdict": "支持",
+            "evidence": "16"
+          },
+          {
+            "claim": "拿到优势还能冷静运营",
+            "verdict": "支持",
+            "evidence": "16"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "claims": [
+          {
+            "claim": "这就是 LPL 的比赛（解说观点句）",
+            "verdict": "支持",
+            "evidence": "4"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "claims": [
+          {
+            "claim": "三十分钟 39 个人头的血腥对攻",
+            "verdict": "支持",
+            "evidence": "4"
+          },
+          {
+            "claim": "你上一次看到这么血腥的对攻是什么时候（修辞性提问，无事实断言）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "claims": [
+          {
+            "claim": "先看打野对位（结构引导语，无事实断言）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "claims": [
+          {
+            "claim": "Wei 三分零七秒抓中逼出闪现",
+            "verdict": "支持",
+            "evidence": "5"
+          },
+          {
+            "claim": "Wei 十三分零一秒抓下击杀 JackeyLove",
+            "verdict": "支持",
+            "evidence": "7"
+          },
+          {
+            "claim": "Wei 三十分钟零九秒终局团绕后闪现推到四个人",
+            "verdict": "支持",
+            "evidence": "15"
+          },
+          {
+            "claim": "解说喊「完美推」",
+            "verdict": "支持",
+            "evidence": "15"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "claims": [
+          {
+            "claim": "Tian 全程被牵着鼻子走（定性评价，无具体可证伪事实断言）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "claims": [
+          {
+            "claim": "这局 Tian 背锅不冤，打野节奏一崩导致 TES 全线被动",
+            "verdict": "非判词",
+            "evidence": "无"
+          },
+          {
+            "claim": "TES 全线被动",
+            "verdict": "支持",
+            "evidence": "10"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "claims": [
+          {
+            "claim": "Rookie 使用辛德拉",
+            "verdict": "支持",
+            "evidence": "11"
+          },
+          {
+            "claim": "Rookie 的辛德拉表现离谱（评价）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "claims": [
+          {
+            "claim": "22 分 30 秒听牌龙团之前",
+            "verdict": "支持",
+            "evidence": "11"
+          },
+          {
+            "claim": "Rookie 极限推球推晕 369，集火带走",
+            "verdict": "支持",
+            "evidence": "11"
+          },
+          {
+            "claim": "解说惊叹「这球推的确实有两下」「100 层的辛德拉」",
+            "verdict": "支持",
+            "evidence": "11"
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "claims": [
+          {
+            "claim": "23 分 16 秒大龙区",
+            "verdict": "支持",
+            "evidence": "12"
+          },
+          {
+            "claim": "Rookie 再度极限推球打出关键闪现",
+            "verdict": "支持",
+            "evidence": "12"
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "claims": [
+          {
+            "claim": "Rookie 是 IG 的定海神针，有他在 IG 就敢打",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "claims": [
+          {
+            "claim": "15 分 23 秒那波让全场沸腾",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "claims": [
+          {
+            "claim": "Meiko 泰坦出钩配合 Wei 先攻偷钱",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "Rookie 被控阵亡",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "IG 三人组三打五反打成功，打出二换五",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "claims": [
+          {
+            "claim": "解说喊「老 IG 的看家绝活都复活了」「人越少伤害越高」",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 16,
+        "claims": [
+          {
+            "claim": "这波（三打五）不是 IG 运气好，是他们敢打",
+            "verdict": "非判词",
+            "evidence": "无"
+          },
+          {
+            "claim": "换成别的队，三打五早就跑了",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 17,
+        "claims": [
+          {
+            "claim": "很多人只看到 IG 打得凶",
+            "verdict": "非判词",
+            "evidence": "无"
+          },
+          {
+            "claim": "IG 打得稳",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 18,
+        "claims": [
+          {
+            "claim": "IG 拿到优势不浪，该运营运营，该抓机会抓机会",
+            "verdict": "支持",
+            "evidence": "16"
+          }
+        ]
+      },
+      {
+        "index": 19,
+        "claims": [
+          {
+            "claim": "解说说过「稳得让人害怕」",
+            "verdict": "支持",
+            "evidence": "16"
+          },
+          {
+            "claim": "我举双手同意",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 20,
+        "claims": [
+          {
+            "claim": "到底是 IG 突然变强了，还是他们本来就该这么打",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 21,
+        "claims": [
+          {
+            "claim": "我的答案是后者——这才是 IG 该有的样子",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 22,
+        "claims": [
+          {
+            "claim": "IG 这套打法能否一路走到决赛",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 23,
+        "claims": [
+          {
+            "claim": "这只是昙花一现",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 24,
+        "claims": [
+          {
+            "claim": "评论区互动提问：IG下一场是否还能这么打",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 25,
+        "claims": [
+          {
+            "claim": "引导点赞关注、预告下期继续复盘",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      }
+    ],
+    "verdict_counts": {
+      "支持": 27,
+      "无支撑": 0,
+      "矛盾": 0,
+      "非判词": 17
+    },
+    "support_rate": 1.0
+  },
+  "q2": {
+    "items": [
+      {
+        "index": 1,
+        "verdict": "匹配",
+        "why": "解说与片段均指同一场比赛30分钟39人头的对攻，主体事件一致"
+      },
+      {
+        "index": 9,
+        "verdict": "错位",
+        "why": "解说指Rookie辛德拉离谱，片段讲的是JackeyLove交闪、Miko泰坦被击杀等团战细节，主体动作不符"
+      },
+      {
+        "index": 13,
+        "verdict": "匹配",
+        "why": "解说与片段均指15分23秒那波名场面，时点与事件一致"
+      }
+    ],
+    "verdict_counts": {
+      "匹配": 2,
+      "弱匹配": 0,
+      "错位": 1
+    },
+    "sentence_total": 26,
+    "headline_q2": 0.077
+  },
+  "q4": {
+    "titles": [
+      {
+        "platform": "B站",
+        "information": 5,
+        "accuracy": 4,
+        "appeal": 5,
+        "why": "比分、晋级结果、具体名场面时间点和数据齐全，看点清晰，但'39人头血腥对攻'需核实是否准确。"
+      },
+      {
+        "platform": "西瓜视频/抖音（中视频伙伴计划）",
+        "information": 4,
+        "accuracy": 5,
+        "appeal": 4,
+        "why": "比分、晋级和核心名场面时间点都有，信息够用但略少于B站版，吸引力中上。"
+      },
+      {
+        "platform": "微信视频号",
+        "information": 2,
+        "accuracy": 5,
+        "appeal": 2,
+        "why": "只有比分和结果，无任何看点信息，平淡缺乏点击欲。"
+      }
+    ]
+  },
+  "q5": {
+    "flow": 4,
+    "density": 4,
+    "fact_boundary": 4,
+    "why": "结构清晰、时间戳与解说引用具体，但部分断言（如「Tian背锅」「稳得让人害怕」）略带主观定性，需稍作克制。"
+  },
+  "elapsed_s": 58.2
+}

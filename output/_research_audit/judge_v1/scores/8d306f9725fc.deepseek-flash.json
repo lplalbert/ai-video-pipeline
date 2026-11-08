@@ -1,0 +1,606 @@
+{
+  "sid": "8d306f9725fc",
+  "judge": "deepseek-flash",
+  "judge_model": "external:deepseek-flash",
+  "ts": "2026-11-08T15:23:27",
+  "source": "api",
+  "q1": {
+    "items": [
+      {
+        "index": 0,
+        "claims": [
+          {
+            "claim": "都江堰是建于两千多年前的水利工程",
+            "verdict": "支持",
+            "evidence": "17"
+          },
+          {
+            "claim": "都江堰的排序在三峡和港珠澳大桥之前",
+            "verdict": "非判词",
+            "evidence": "主观榜单排序，按口径禁区不作客观事实"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "claims": [
+          {
+            "claim": "都江堰是八个工程中唯一至今仍在使用的古代项目",
+            "verdict": "支持",
+            "evidence": "17、18"
+          },
+          {
+            "claim": "其余七个工程都是近一百年内建成的现代工程",
+            "verdict": "支持",
+            "evidence": "2、3、5、6、9、13、16"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "claims": [
+          {
+            "claim": "本期按硬指标逐个拆解八个工程",
+            "verdict": "非判词",
+            "evidence": "节目框架说明"
+          },
+          {
+            "claim": "评判谁被高估、谁被低估",
+            "verdict": "非判词",
+            "evidence": "评价性主张，无事实断言"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "claims": [
+          {
+            "claim": "先讲白鹤滩",
+            "verdict": "非判词",
+            "evidence": "过渡语"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "claims": [
+          {
+            "claim": "白鹤滩总装机1600万千瓦",
+            "verdict": "支持",
+            "evidence": "1"
+          },
+          {
+            "claim": "白鹤滩有16台百万千瓦机组",
+            "verdict": "支持",
+            "evidence": "1"
+          },
+          {
+            "claim": "白鹤滩单机容量为全球最大的水轮发电机组",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "claims": [
+          {
+            "claim": "一台机组相当于一个中型电厂",
+            "verdict": "非判词",
+            "evidence": "类比修辞，非严格事实断言"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "claims": [
+          {
+            "claim": "三峡有32台机组",
+            "verdict": "支持",
+            "evidence": "9"
+          },
+          {
+            "claim": "三峡总装机2250万千瓦",
+            "verdict": "支持",
+            "evidence": "9"
+          },
+          {
+            "claim": "三峡总库容393亿立方米",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "三峡截至2025年底累计发电超1.8万亿千瓦时",
+            "verdict": "支持",
+            "evidence": "11"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "claims": [
+          {
+            "claim": "三峡的首要作用是防洪而非发电",
+            "verdict": "支持",
+            "evidence": "11"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "claims": [
+          {
+            "claim": "荆江河段防洪标准由十年一遇提高到百年一遇",
+            "verdict": "支持",
+            "evidence": "12"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "claims": [
+          {
+            "claim": "三峡总装机大于白鹤滩",
+            "verdict": "支持",
+            "evidence": "1、9"
+          },
+          {
+            "claim": "白鹤滩单机容量大于三峡机组",
+            "verdict": "支持",
+            "evidence": "2、9"
+          },
+          {
+            "claim": "谁是水电之王",
+            "verdict": "非判词",
+            "evidence": "设问修辞"
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "claims": [
+          {
+            "claim": "三峡与白鹤滩不在同一评价赛道上",
+            "verdict": "非判词",
+            "evidence": "主观判断"
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "claims": [
+          {
+            "claim": "第二个硬指标是口径",
+            "verdict": "非判词",
+            "evidence": "段落过渡"
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "claims": [
+          {
+            "claim": "FAST口径500米",
+            "verdict": "支持",
+            "evidence": "3"
+          },
+          {
+            "claim": "FAST位于贵州",
+            "verdict": "支持",
+            "evidence": "3"
+          },
+          {
+            "claim": "FAST已发现脉冲星超900颗",
+            "verdict": "支持",
+            "evidence": "4"
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "claims": [
+          {
+            "claim": "这数字什么概念",
+            "verdict": "非判词",
+            "evidence": "设问修辞"
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "claims": [
+          {
+            "claim": "FAST发现的脉冲星数量等于把人类此前几十年的发现量翻着倍往上追",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "claims": [
+          {
+            "claim": "第三个工程是特高压",
+            "verdict": "非判词",
+            "evidence": "过渡语"
+          }
+        ]
+      },
+      {
+        "index": 16,
+        "claims": [
+          {
+            "claim": "准东—皖南为±1100千伏直流工程",
+            "verdict": "支持",
+            "evidence": "5"
+          },
+          {
+            "claim": "该工程全长3293公里",
+            "verdict": "支持",
+            "evidence": "5"
+          },
+          {
+            "claim": "该工程把新疆电力送往东南沿海",
+            "verdict": "支持",
+            "evidence": "5"
+          }
+        ]
+      },
+      {
+        "index": 17,
+        "claims": [
+          {
+            "claim": "西部发出的电被输送到长三角地区",
+            "verdict": "支持",
+            "evidence": "5"
+          },
+          {
+            "claim": "西部电力几秒后在长三角点亮一盏灯",
+            "verdict": "非判词",
+            "evidence": "修辞化表述，不构成独立事实断言"
+          },
+          {
+            "claim": "没有比这更野的能源调度",
+            "verdict": "非判词",
+            "evidence": "主观评价"
+          }
+        ]
+      },
+      {
+        "index": 18,
+        "claims": [
+          {
+            "claim": "FAST是往天上听、特高压是往地上送",
+            "verdict": "非判词",
+            "evidence": "概括修辞"
+          },
+          {
+            "claim": "一个是科研话语权，一个是能源话语权",
+            "verdict": "非判词",
+            "evidence": "观点评价"
+          }
+        ]
+      },
+      {
+        "index": 19,
+        "claims": [
+          {
+            "claim": "天山胜利隧道全长22.13公里",
+            "verdict": "支持",
+            "evidence": "6"
+          },
+          {
+            "claim": "最大埋深超1100米",
+            "verdict": "支持",
+            "evidence": "6"
+          },
+          {
+            "claim": "穿越16条地质断裂带",
+            "verdict": "支持",
+            "evidence": "6"
+          },
+          {
+            "claim": "2025年通车",
+            "verdict": "支持",
+            "evidence": "7"
+          },
+          {
+            "claim": "通车后穿越天山车程由约7小时缩短到约20分钟",
+            "verdict": "支持",
+            "evidence": "7"
+          }
+        ]
+      },
+      {
+        "index": 20,
+        "claims": [
+          {
+            "claim": "这不是修路，而是把天山地理屏障作废",
+            "verdict": "非判词",
+            "evidence": "修辞性评价"
+          }
+        ]
+      },
+      {
+        "index": 21,
+        "claims": [
+          {
+            "claim": "港珠澳大桥全长约55公里",
+            "verdict": "支持",
+            "evidence": "13"
+          },
+          {
+            "claim": "为世界最长跨海桥隧工程",
+            "verdict": "支持",
+            "evidence": "13"
+          },
+          {
+            "claim": "海底沉管隧道每节约8万吨",
+            "verdict": "支持",
+            "evidence": "14"
+          },
+          {
+            "claim": "沉管对接精度达毫米级",
+            "verdict": "支持",
+            "evidence": "14"
+          }
+        ]
+      },
+      {
+        "index": 22,
+        "claims": [
+          {
+            "claim": "八万吨的管子、毫米级的缝是基建狂魔还是精度强迫症",
+            "verdict": "非判词",
+            "evidence": "设问修辞"
+          }
+        ]
+      },
+      {
+        "index": 23,
+        "claims": [
+          {
+            "claim": "中国工程的短板已从能不能建变成能不能抠得更细",
+            "verdict": "非判词",
+            "evidence": "主观判断"
+          }
+        ]
+      },
+      {
+        "index": 24,
+        "claims": [
+          {
+            "claim": "第六个工程是北斗",
+            "verdict": "非判词",
+            "evidence": "过渡语"
+          }
+        ]
+      },
+      {
+        "index": 25,
+        "claims": [
+          {
+            "claim": "1993年银河号货轮因GPS信号被切断在海上滞留",
+            "verdict": "支持",
+            "evidence": "15"
+          },
+          {
+            "claim": "滞留时间约三周",
+            "verdict": "支持",
+            "evidence": "15（天数口径不一，按口径禁区取约三周）"
+          }
+        ]
+      },
+      {
+        "index": 26,
+        "claims": [
+          {
+            "claim": "银河号事件是北斗立项的直接导火索",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 27,
+        "claims": [
+          {
+            "claim": "北斗三号2020年建成开通",
+            "verdict": "支持",
+            "evidence": "16"
+          },
+          {
+            "claim": "北斗系统累计发射55颗卫星",
+            "verdict": "支持",
+            "evidence": "16"
+          }
+        ]
+      },
+      {
+        "index": 28,
+        "claims": [
+          {
+            "claim": "北斗是八个工程中唯一被卡脖子卡出来的项目",
+            "verdict": "非判词",
+            "evidence": "定性评价"
+          }
+        ]
+      },
+      {
+        "index": 29,
+        "claims": [
+          {
+            "claim": "最后讲都江堰",
+            "verdict": "非判词",
+            "evidence": "过渡语"
+          }
+        ]
+      },
+      {
+        "index": 30,
+        "claims": [
+          {
+            "claim": "都江堰约公元前256年修建",
+            "verdict": "支持",
+            "evidence": "17"
+          },
+          {
+            "claim": "都江堰为无坝引水工程",
+            "verdict": "支持",
+            "evidence": "17"
+          },
+          {
+            "claim": "都江堰无钢筋水泥、无现代闸门",
+            "verdict": "支持",
+            "evidence": "17"
+          },
+          {
+            "claim": "都江堰运行至今约2280年",
+            "verdict": "支持",
+            "evidence": "17"
+          },
+          {
+            "claim": "都江堰至今仍在灌溉成都平原",
+            "verdict": "支持",
+            "evidence": "18"
+          }
+        ]
+      },
+      {
+        "index": 31,
+        "claims": [
+          {
+            "claim": "七个工程是钢铁与混凝土的胜利，都江堰是顺应水势的胜利",
+            "verdict": "非判词",
+            "evidence": "对比修辞"
+          }
+        ]
+      },
+      {
+        "index": 32,
+        "claims": [
+          {
+            "claim": "都江堰排在前面不是出于怀旧",
+            "verdict": "非判词",
+            "evidence": "主观动机说明"
+          },
+          {
+            "claim": "都江堰用最轻的结构干了最久的活",
+            "verdict": "非判词",
+            "evidence": "修辞性概括"
+          }
+        ]
+      },
+      {
+        "index": 33,
+        "claims": [
+          {
+            "claim": "你心里的硬指标之王是谁",
+            "verdict": "非判词",
+            "evidence": "互动提问"
+          }
+        ]
+      },
+      {
+        "index": 34,
+        "claims": [
+          {
+            "claim": "都江堰有两千多年寿命",
+            "verdict": "支持",
+            "evidence": "17"
+          },
+          {
+            "claim": "白鹤滩看单机、三峡看库容",
+            "verdict": "非判词",
+            "evidence": "评选口径设问"
+          }
+        ]
+      },
+      {
+        "index": 35,
+        "claims": [
+          {
+            "claim": "到评论区讨论",
+            "verdict": "非判词",
+            "evidence": "互动引导"
+          }
+        ]
+      }
+    ],
+    "verdict_counts": {
+      "支持": 40,
+      "无支撑": 2,
+      "矛盾": 0,
+      "非判词": 26
+    },
+    "support_rate": 0.952
+  },
+  "q2": {
+    "items": [
+      {
+        "index": 0,
+        "verdict": "弱匹配",
+        "why": "片段确讲都江堰与两千多年前的水口、仍在灌溉，主体一致，但解说句的核心是「排在前面」的排序问题，画面无法证实排序主张。"
+      },
+      {
+        "index": 25,
+        "verdict": "匹配",
+        "why": "片段同为1993年中国货轮因GPS失去定位漂流（二十二天≈约三周），主体、年份、事件一致。"
+      }
+    ],
+    "verdict_counts": {
+      "匹配": 1,
+      "弱匹配": 1,
+      "错位": 0
+    },
+    "sentence_total": 36,
+    "headline_q2": 0.042
+  },
+  "q4": {
+    "titles": [
+      {
+        "platform": "B站",
+        "information": 5,
+        "accuracy": 4,
+        "appeal": 5,
+        "why": "两个装机数字准确且信息明确，但「王座之争」与片中「不在一个赛道」的结论略有张力，且标题只覆盖八个工程中的两个。"
+      },
+      {
+        "platform": "西瓜视频/抖音（中视频伙伴计划）",
+        "information": 4,
+        "accuracy": 4,
+        "appeal": 4,
+        "why": "保留了对比与悬念，去掉数字后信息略减，准确性同前，适合移动端。"
+      },
+      {
+        "platform": "微信视频号",
+        "information": 3,
+        "accuracy": 4,
+        "appeal": 3,
+        "why": "只有「王座之争」四字，缺少具体看点与数字，点击驱动力偏弱。"
+      }
+    ]
+  },
+  "q5": {
+    "flow": 5,
+    "density": 4,
+    "fact_boundary": 4,
+    "why": "分节推进、过渡清晰，干货指标密集；仅「翻着倍往上追」「北斗立项直接导火索」等处断言偏放，其余数据与底座一致。"
+  },
+  "n_sentences": 36,
+  "api_model": "deepseek-flash",
+  "api_usage": {
+    "prompt_tokens": 3559,
+    "completion_tokens": 6728,
+    "total_tokens": 10287,
+    "prompt_tokens_details": {
+      "cached_tokens": 3328
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 3796
+    },
+    "prompt_cache_hit_tokens": 3328,
+    "prompt_cache_miss_tokens": 231
+  },
+  "elapsed_s": 32.8
+}

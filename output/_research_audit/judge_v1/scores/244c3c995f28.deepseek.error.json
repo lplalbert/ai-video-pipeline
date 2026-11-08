@@ -1,0 +1,10 @@
+{
+  "sid": "244c3c995f28",
+  "judge": "deepseek",
+  "judge_model": "external:deepseek",
+  "api_model": "deepseek-v4-pro",
+  "ts": "2026-11-08T10:11:39",
+  "source": "api",
+  "error": "未找到 JSON 对象",
+  "elapsed_s": 153.2
+}

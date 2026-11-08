@@ -1,0 +1,636 @@
+{
+  "sid": "b2386c4e3bf4",
+  "judge": "deepseek-flash",
+  "judge_model": "external:deepseek-flash",
+  "ts": "2026-11-08T10:44:38",
+  "source": "api",
+  "q1": {
+    "items": [
+      {
+        "index": 0,
+        "claims": [
+          {
+            "claim": "第三局 KC 扳回一小分",
+            "verdict": "支持",
+            "evidence": "12"
+          },
+          {
+            "claim": "当时弹幕已经有人慌了",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "claims": [
+          {
+            "claim": "那一分改变不了系列赛走向",
+            "verdict": "非判词",
+            "evidence": "无"
+          },
+          {
+            "claim": "第四局 T1 掏出一套低出场率的下路组合",
+            "verdict": "支持",
+            "evidence": "13"
+          },
+          {
+            "claim": "把悬念亲手拆掉了",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "claims": [
+          {
+            "claim": "本期拆解四局各一个胜负手",
+            "verdict": "非判词",
+            "evidence": "无"
+          },
+          {
+            "claim": "KC 输得不冤",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "claims": [
+          {
+            "claim": "先说第一局",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "claims": [
+          {
+            "claim": "第一局 KC 禁用发条魔灵",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "T1 四楼选出辛德拉",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "claims": [
+          {
+            "claim": "解说指出 T1 阵容两件套后曲线遥遥领先",
+            "verdict": "支持",
+            "evidence": "11"
+          },
+          {
+            "claim": "KC 中期发力窗口很短",
+            "verdict": "支持",
+            "evidence": "11"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "claims": [
+          {
+            "claim": "KC 这局从 BP 就输了",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "claims": [
+          {
+            "claim": "KC 阵容偏前中期发力",
+            "verdict": "支持",
+            "evidence": "11"
+          },
+          {
+            "claim": "T1 被放任拖到后期并取胜",
+            "verdict": "支持",
+            "evidence": "5"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "claims": [
+          {
+            "claim": "最后一波小龙团 T1 取胜",
+            "verdict": "支持",
+            "evidence": "6"
+          },
+          {
+            "claim": "T1 拿下第一局、1-0 领先",
+            "verdict": "支持",
+            "evidence": "6"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "claims": [
+          {
+            "claim": "标题观点句称 Yike 盲僧全场零节奏",
+            "verdict": "支持",
+            "evidence": "7"
+          },
+          {
+            "claim": "我看没毛病",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "claims": [
+          {
+            "claim": "盲僧全场带不起节奏导致 KC 中期哑火",
+            "verdict": "非判词",
+            "evidence": "无（零节奏系标题观点句，不外推为客观事实）"
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "claims": [
+          {
+            "claim": "这锅是 BP 的还是打野的",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "claims": [
+          {
+            "claim": "两队今年已交手两次",
+            "verdict": "支持",
+            "evidence": "9、10"
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "claims": [
+          {
+            "claim": "MSI 入围赛 BO5 T1 3-0 淘汰 KC",
+            "verdict": "支持",
+            "evidence": "9"
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "claims": [
+          {
+            "claim": "EWC 上 KC 2-1 战胜 T1",
+            "verdict": "支持",
+            "evidence": "10"
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "claims": [
+          {
+            "claim": "KC 赢过 T1 一次",
+            "verdict": "支持",
+            "evidence": "10"
+          },
+          {
+            "claim": "KC 在 BO5 面对 T1 至今没赢过",
+            "verdict": "支持",
+            "evidence": "9（底座记载的唯一一次 BO5 为 KC 0-3 负）"
+          }
+        ]
+      },
+      {
+        "index": 16,
+        "claims": [
+          {
+            "claim": "第二局 T1 拿下之后大比分二比一",
+            "verdict": "矛盾",
+            "evidence": "2、12（T1 3-1 胜、KC 仅第三局得分，第二局后应为 2-0）"
+          },
+          {
+            "claim": "交手纪录的分量就出来了",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 17,
+        "claims": [
+          {
+            "claim": "BO5 的 T1 与 BO3 的 T1 是两支队伍",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 18,
+        "claims": [
+          {
+            "claim": "EWC 上 KC 赢了 T1 一场",
+            "verdict": "支持",
+            "evidence": "10"
+          },
+          {
+            "claim": "KC 靠的是单局爆发",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 19,
+        "claims": [
+          {
+            "claim": "淘汰赛是 BO5，拼阵容深度与调整能力，这是 T1 最老牌的东西",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 20,
+        "claims": [
+          {
+            "claim": "第三局 KC 靠后期稳定阵容扳回一小分",
+            "verdict": "支持",
+            "evidence": "12"
+          },
+          {
+            "claim": "弹幕当时就炸了",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 21,
+        "claims": [
+          {
+            "claim": "我的看法是反过来的",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 22,
+        "claims": [
+          {
+            "claim": "T1 当时是二比一领先",
+            "verdict": "矛盾",
+            "evidence": "2、12（第三局开打前 T1 为 2-0）"
+          },
+          {
+            "claim": "这一分暴露的不是 KC 变强而是 T1 松了",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 23,
+        "claims": [
+          {
+            "claim": "KC 这局赢靠阵容后期够稳",
+            "verdict": "支持",
+            "evidence": "12"
+          },
+          {
+            "claim": "不是他们中期打出了什么新东西",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 24,
+        "claims": [
+          {
+            "claim": "KC 胜利方式没变，变的是 T1 给了拖到后期的机会",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 25,
+        "claims": [
+          {
+            "claim": "是 KC 主动抢下还是 T1 主动让出",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 26,
+        "claims": [
+          {
+            "claim": "我倾向后者",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 27,
+        "claims": [
+          {
+            "claim": "真正的强队不会在领先时把比赛拖进对手舒适区",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 28,
+        "claims": [
+          {
+            "claim": "接着讲第四局",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 29,
+        "claims": [
+          {
+            "claim": "T1 下路选出妮蔻+女枪",
+            "verdict": "支持",
+            "evidence": "13"
+          },
+          {
+            "claim": "该组合出场率很低",
+            "verdict": "支持",
+            "evidence": "13"
+          }
+        ]
+      },
+      {
+        "index": 30,
+        "claims": [
+          {
+            "claim": "对线阶段持续压制并积累优势",
+            "verdict": "支持",
+            "evidence": "13"
+          }
+        ]
+      },
+      {
+        "index": 31,
+        "claims": [
+          {
+            "claim": "关键团战靠完美反手大招取胜",
+            "verdict": "支持",
+            "evidence": "14"
+          },
+          {
+            "claim": "解说喊\"全抬起来了\"",
+            "verdict": "支持",
+            "evidence": "14"
+          },
+          {
+            "claim": "经济差进一步拉开",
+            "verdict": "支持",
+            "evidence": "14"
+          }
+        ]
+      },
+      {
+        "index": 32,
+        "claims": [
+          {
+            "claim": "T1 先拆两路",
+            "verdict": "支持",
+            "evidence": "15"
+          },
+          {
+            "claim": "一波推平基地，3-1 结束系列赛",
+            "verdict": "支持",
+            "evidence": "15"
+          }
+        ]
+      },
+      {
+        "index": 33,
+        "claims": [
+          {
+            "claim": "T1 在淘汰赛掏出低出场率组合",
+            "verdict": "支持",
+            "evidence": "13"
+          },
+          {
+            "claim": "他们准备的牌根本没打完",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 34,
+        "claims": [
+          {
+            "claim": "KC 输在 T1 每局都有后手",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 35,
+        "claims": [
+          {
+            "claim": "T1 队史第十一次打进世界赛四强",
+            "verdict": "支持",
+            "evidence": "3（解说口径原话，按\"解说称\"核）"
+          }
+        ]
+      },
+      {
+        "index": 36,
+        "claims": [
+          {
+            "claim": "解说称四强格局跟 S7 一样是 LPL 与 LCK 的大战",
+            "verdict": "支持",
+            "evidence": "4"
+          },
+          {
+            "claim": "半决赛 BLG 对 T1、Faker 对 Bin",
+            "verdict": "支持",
+            "evidence": "4"
+          }
+        ]
+      },
+      {
+        "index": 37,
+        "claims": [
+          {
+            "claim": "KC 从入围赛一路杀到八强",
+            "verdict": "支持",
+            "evidence": "16"
+          },
+          {
+            "claim": "KC 输得体面、八强是新生队伍天花板",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 38,
+        "claims": [
+          {
+            "claim": "半决赛还敢不敢再掏这套组合",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 39,
+        "claims": [
+          {
+            "claim": "BLG 该怎么应对",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 40,
+        "claims": [
+          {
+            "claim": "点赞过万出半决赛前瞻",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      }
+    ],
+    "verdict_counts": {
+      "支持": 32,
+      "无支撑": 2,
+      "矛盾": 2,
+      "非判词": 27
+    },
+    "support_rate": 0.889
+  },
+  "q2": {
+    "items": [
+      {
+        "index": 1,
+        "verdict": "匹配",
+        "why": "片段正对应第四局 T1 启用出场率低的妮蔻+女枪组合，主体与事件一致。"
+      },
+      {
+        "index": 4,
+        "verdict": "匹配",
+        "why": "片段明确提到 T1 四楼出辛德拉并讨论 KC 的禁选取舍，与第一局 BP 同一事件。"
+      },
+      {
+        "index": 8,
+        "verdict": "弱匹配",
+        "why": "片段是最后一波小龙团喊话，但无法确认 T1 收下团战及 1-0 收尾。"
+      },
+      {
+        "index": 16,
+        "verdict": "弱匹配",
+        "why": "片段只覆盖全年交手纪录（MSI 入围赛 BO5），第二局与二比一比分无对应。"
+      },
+      {
+        "index": 20,
+        "verdict": "匹配",
+        "why": "片段原话\"KC 利用非常后期的稳定阵容终于是拿下一小分\"与解说句同指第三局。"
+      },
+      {
+        "index": 29,
+        "verdict": "错位",
+        "why": "片段是 T1 三比一晋级四强的终局/赛后欢呼，与开场 BP 选妮蔻女枪的时点不符。"
+      },
+      {
+        "index": 31,
+        "verdict": "匹配",
+        "why": "片段\"全抬起来了/完美反手大招/经济差再一步拉开\"与解说句逐点对应。"
+      },
+      {
+        "index": 32,
+        "verdict": "匹配",
+        "why": "片段\"T1 顺势直接先两路…感觉要一波了\"与先拆两路再推平的终局动作一致。"
+      }
+    ],
+    "verdict_counts": {
+      "匹配": 5,
+      "弱匹配": 2,
+      "错位": 1
+    },
+    "sentence_total": 41,
+    "headline_q2": 0.146
+  },
+  "q4": {
+    "titles": [
+      {
+        "platform": "B站",
+        "information": 5,
+        "accuracy": 5,
+        "appeal": 4,
+        "why": "比分与\"四局各拆胜负手\"的结构均与内容吻合，看点明确，仅略偏长。"
+      },
+      {
+        "platform": "西瓜视频/抖音（中视频伙伴计划）",
+        "information": 4,
+        "accuracy": 5,
+        "appeal": 4,
+        "why": "用第四局妮蔻女枪做钩子且符合内容，\"杀招\"轻微渲染但不算夸大。"
+      },
+      {
+        "platform": "微信视频号",
+        "information": 2,
+        "accuracy": 5,
+        "appeal": 2,
+        "why": "仅陈述比分与晋级，无复盘角度和钩子，属最低限度可用。"
+      }
+    ]
+  },
+  "q5": {
+    "flow": 4,
+    "density": 4,
+    "fact_boundary": 3,
+    "why": "四局分段结构清晰、论据基本落在底座上，但\"第二局后二比一\"\"二比一领先时松了\"两处比分错误必须改正，且反问句偏多略稀释干货。"
+  },
+  "n_sentences": 41,
+  "api_model": "deepseek-flash",
+  "api_usage": {
+    "prompt_tokens": 4698,
+    "completion_tokens": 6932,
+    "total_tokens": 11630,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 4491
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 4698
+  },
+  "elapsed_s": 40.5
+}

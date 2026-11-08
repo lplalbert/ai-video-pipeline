@@ -1,0 +1,821 @@
+{
+  "sid": "a472fc629d7f",
+  "judge": "pro",
+  "judge_model": "mimo-v2.6-pro",
+  "ts": "2026-11-08T21:27:45",
+  "n_sentences": 42,
+  "q1": {
+    "items": [
+      {
+        "index": 0,
+        "claims": [
+          {
+            "claim": "全球最高的十栋楼中，中国占五席",
+            "verdict": "支持",
+            "evidence": "1（中国城市占一半）+ 2、4、7、9（中信大厦、广州东塔、平安、上海中心均在中国）"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "claims": [
+          {
+            "claim": "全球高楼最多的十座城中，中国占一半",
+            "verdict": "支持",
+            "evidence": "1"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "claims": [
+          {
+            "claim": "比谁楼高是面子工程",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "claims": [
+          {
+            "claim": "比谁楼多才是真经济账",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "claims": [
+          {
+            "claim": "先看高楼榜",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "claims": [
+          {
+            "claim": "按超过一百米算",
+            "verdict": "支持",
+            "evidence": "1"
+          },
+          {
+            "claim": "世界第十高是北京中信大厦",
+            "verdict": "支持",
+            "evidence": "2"
+          },
+          {
+            "claim": "北京中信大厦高五百二十八米",
+            "verdict": "支持",
+            "evidence": "2"
+          },
+          {
+            "claim": "北京中信大厦地上一百零八层",
+            "verdict": "支持",
+            "evidence": "2"
+          },
+          {
+            "claim": "北京中信大厦外形灵感来自古礼器「尊」",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "claims": [
+          {
+            "claim": "世界第九高是天津周大福金融中心",
+            "verdict": "支持",
+            "evidence": "3"
+          },
+          {
+            "claim": "天津周大福金融中心高五百三十米",
+            "verdict": "支持",
+            "evidence": "3"
+          },
+          {
+            "claim": "网友叫天津周大福金融中心「金箍棒」",
+            "verdict": "支持",
+            "evidence": "3"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "claims": [
+          {
+            "claim": "世界第八高是广州东塔",
+            "verdict": "支持",
+            "evidence": "4"
+          },
+          {
+            "claim": "广州东塔高五百三十点五米",
+            "verdict": "支持",
+            "evidence": "4"
+          },
+          {
+            "claim": "广州东塔地上一百一十一层",
+            "verdict": "支持",
+            "evidence": "4"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "claims": [
+          {
+            "claim": "世界第七高是纽约世贸中心一号楼",
+            "verdict": "支持",
+            "evidence": "5"
+          },
+          {
+            "claim": "纽约世贸中心一号楼高541米",
+            "verdict": "支持",
+            "evidence": "5"
+          },
+          {
+            "claim": "纽约世贸中心一号楼是911事件后重建的",
+            "verdict": "支持",
+            "evidence": "5"
+          },
+          {
+            "claim": "纽约世贸中心一号楼是美国第一高楼",
+            "verdict": "支持",
+            "evidence": "5"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "claims": [
+          {
+            "claim": "世界第六高是首尔乐天世界大厦",
+            "verdict": "支持",
+            "evidence": "6"
+          },
+          {
+            "claim": "首尔乐天世界大厦高555米",
+            "verdict": "支持",
+            "evidence": "6"
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "claims": [
+          {
+            "claim": "世界第五高是深圳平安金融中心",
+            "verdict": "支持",
+            "evidence": "7"
+          },
+          {
+            "claim": "深圳平安金融中心高599米",
+            "verdict": "支持",
+            "evidence": "7"
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "claims": [
+          {
+            "claim": "深圳平安金融中心原设计高度为660米",
+            "verdict": "支持",
+            "evidence": "7"
+          },
+          {
+            "claim": "深圳平安金融中心因航空限高约束设计高度缩减",
+            "verdict": "支持",
+            "evidence": "7"
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "claims": [
+          {
+            "claim": "世界第四高是沙特麦加皇家钟塔酒店",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "沙特麦加皇家钟塔酒店高601米",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "沙特麦加皇家钟塔酒店总造价约150亿美元",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "claims": [
+          {
+            "claim": "世界第三高是上海中心大厦",
+            "verdict": "支持",
+            "evidence": "9"
+          },
+          {
+            "claim": "上海中心大厦高632米",
+            "verdict": "支持",
+            "evidence": "9"
+          },
+          {
+            "claim": "上海中心大厦配备全球最重阻尼器",
+            "verdict": "支持",
+            "evidence": "9"
+          },
+          {
+            "claim": "上海中心大厦可抵御15级台风",
+            "verdict": "支持",
+            "evidence": "9"
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "claims": [
+          {
+            "claim": "世界第二高是吉隆坡默迪卡118大厦",
+            "verdict": "支持",
+            "evidence": "10"
+          },
+          {
+            "claim": "吉隆坡默迪卡118大厦高678.9米",
+            "verdict": "支持",
+            "evidence": "10"
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "claims": [
+          {
+            "claim": "世界第一高是迪拜哈利法塔",
+            "verdict": "支持",
+            "evidence": "11"
+          },
+          {
+            "claim": "迪拜哈利法塔高828米",
+            "verdict": "支持",
+            "evidence": "11"
+          },
+          {
+            "claim": "迪拜哈利法塔高度约相当于270多层普通居民楼",
+            "verdict": "支持",
+            "evidence": "11"
+          },
+          {
+            "claim": "迪拜哈利法塔断层式领先（高度大幅领先第二名）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 16,
+        "claims": [
+          {
+            "claim": "前十里中国占五席",
+            "verdict": "支持",
+            "evidence": "1"
+          },
+          {
+            "claim": "单体高度的天花板是中东（迪拜哈利法塔）",
+            "verdict": "支持",
+            "evidence": "11"
+          },
+          {
+            "claim": "中东（哈利法塔）是靠砸钱砸出来的",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 17,
+        "claims": [
+          {
+            "claim": "城市榜更有意思",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 18,
+        "claims": [
+          {
+            "claim": "高楼之城第十名是重庆",
+            "verdict": "支持",
+            "evidence": "12"
+          },
+          {
+            "claim": "重庆约147座超100米建成建筑",
+            "verdict": "支持",
+            "evidence": "12"
+          },
+          {
+            "claim": "重庆最高是陆海国际中心458米",
+            "verdict": "支持",
+            "evidence": "12"
+          },
+          {
+            "claim": "重庆受地形和机场航线限制，核心区已严控超高",
+            "verdict": "支持",
+            "evidence": "12"
+          }
+        ]
+      },
+      {
+        "index": 19,
+        "claims": [
+          {
+            "claim": "高楼之城第九名是吉隆坡",
+            "verdict": "支持",
+            "evidence": "13"
+          },
+          {
+            "claim": "吉隆坡263座100米以上建筑",
+            "verdict": "支持",
+            "evidence": "13"
+          }
+        ]
+      },
+      {
+        "index": 20,
+        "claims": [
+          {
+            "claim": "高楼之城第八名是迪拜",
+            "verdict": "支持",
+            "evidence": "14"
+          },
+          {
+            "claim": "迪拜356座",
+            "verdict": "支持",
+            "evidence": "14"
+          },
+          {
+            "claim": "迪拜最高是哈利法塔，别与帆船酒店混淆",
+            "verdict": "支持",
+            "evidence": "14"
+          }
+        ]
+      },
+      {
+        "index": 21,
+        "claims": [
+          {
+            "claim": "高楼之城第七名是武汉",
+            "verdict": "支持",
+            "evidence": "15"
+          },
+          {
+            "claim": "武汉约395座",
+            "verdict": "支持",
+            "evidence": "15"
+          },
+          {
+            "claim": "武汉最高是绿地中心475米",
+            "verdict": "支持",
+            "evidence": "15"
+          }
+        ]
+      },
+      {
+        "index": 22,
+        "claims": [
+          {
+            "claim": "高楼之城第六名是广州",
+            "verdict": "支持",
+            "evidence": "16"
+          },
+          {
+            "claim": "广州约412座",
+            "verdict": "支持",
+            "evidence": "16"
+          }
+        ]
+      },
+      {
+        "index": 23,
+        "claims": [
+          {
+            "claim": "高楼之城第五名是东京",
+            "verdict": "支持",
+            "evidence": "17"
+          },
+          {
+            "claim": "东京超过638座",
+            "verdict": "支持",
+            "evidence": "17"
+          },
+          {
+            "claim": "东京最高人工构筑物是晴空塔634米",
+            "verdict": "支持",
+            "evidence": "17"
+          },
+          {
+            "claim": "晴空塔是观光塔不是楼",
+            "verdict": "支持",
+            "evidence": "17"
+          }
+        ]
+      },
+      {
+        "index": 24,
+        "claims": [
+          {
+            "claim": "东京受抗震标准和航空限高双重约束",
+            "verdict": "支持",
+            "evidence": "17"
+          },
+          {
+            "claim": "东京极少修建300米以上的楼",
+            "verdict": "支持",
+            "evidence": "17"
+          }
+        ]
+      },
+      {
+        "index": 25,
+        "claims": [
+          {
+            "claim": "高楼之城第四名是新加坡",
+            "verdict": "支持",
+            "evidence": "18"
+          },
+          {
+            "claim": "新加坡有516座超100米建筑",
+            "verdict": "支持",
+            "evidence": "18"
+          },
+          {
+            "claim": "新加坡最高建筑是丹戎巴葛中心，高290米",
+            "verdict": "支持",
+            "evidence": "18"
+          },
+          {
+            "claim": "因樟宜机场飞行安全，新加坡全境禁修300米以上建筑",
+            "verdict": "支持",
+            "evidence": "18"
+          }
+        ]
+      },
+      {
+        "index": 26,
+        "claims": [
+          {
+            "claim": "高楼之城第三名是纽约",
+            "verdict": "支持",
+            "evidence": "19"
+          },
+          {
+            "claim": "纽约约有830座超100米建筑",
+            "verdict": "支持",
+            "evidence": "19"
+          }
+        ]
+      },
+      {
+        "index": 27,
+        "claims": [
+          {
+            "claim": "高楼之城第二名是深圳",
+            "verdict": "支持",
+            "evidence": "20"
+          },
+          {
+            "claim": "视频称深圳超100米建筑高达1553座",
+            "verdict": "支持",
+            "evidence": "20"
+          }
+        ]
+      },
+      {
+        "index": 28,
+        "claims": [
+          {
+            "claim": "高楼之城第一名是香港",
+            "verdict": "支持",
+            "evidence": "21"
+          },
+          {
+            "claim": "香港约有1985座超100米建筑",
+            "verdict": "支持",
+            "evidence": "21"
+          },
+          {
+            "claim": "香港最高建筑是环球贸易广场，高484米",
+            "verdict": "支持",
+            "evidence": "21"
+          }
+        ]
+      },
+      {
+        "index": 29,
+        "claims": [
+          {
+            "claim": "香港是真正的垂直城市",
+            "verdict": "非判词",
+            "evidence": "无"
+          },
+          {
+            "claim": "香港因地方狭小只能向上发展",
+            "verdict": "支持",
+            "evidence": "21"
+          }
+        ]
+      },
+      {
+        "index": 30,
+        "claims": [
+          {
+            "claim": "限高政策最有嚼头",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 31,
+        "claims": [
+          {
+            "claim": "视频称深圳原则上限高80米",
+            "verdict": "支持",
+            "evidence": "20"
+          },
+          {
+            "claim": "深圳超标需额外特批",
+            "verdict": "支持",
+            "evidence": "20"
+          }
+        ]
+      },
+      {
+        "index": 32,
+        "claims": [
+          {
+            "claim": "结果呢？",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 33,
+        "claims": [
+          {
+            "claim": "深圳有一千五百五十三座百米以上的楼",
+            "verdict": "支持",
+            "evidence": "20"
+          }
+        ]
+      },
+      {
+        "index": 34,
+        "claims": [
+          {
+            "claim": "这说明什么？",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 35,
+        "claims": [
+          {
+            "claim": "深圳的高楼不是规划出来的，是市场逼出来的",
+            "verdict": "非判词",
+            "evidence": "无"
+          },
+          {
+            "claim": "深圳特批制度就是给资本开口子",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 36,
+        "claims": [
+          {
+            "claim": "新加坡全境禁修三百米以上建筑",
+            "verdict": "支持",
+            "evidence": "18"
+          },
+          {
+            "claim": "新加坡最高楼才两百九十米",
+            "verdict": "支持",
+            "evidence": "18"
+          },
+          {
+            "claim": "新加坡禁修三百米以上是为保樟宜机场的飞行安全",
+            "verdict": "支持",
+            "evidence": "18"
+          }
+        ]
+      },
+      {
+        "index": 37,
+        "claims": [
+          {
+            "claim": "东京受抗震加限高双重约束",
+            "verdict": "支持",
+            "evidence": "17"
+          },
+          {
+            "claim": "东京有六百三十八座百米楼",
+            "verdict": "支持",
+            "evidence": "17"
+          },
+          {
+            "claim": "东京没一座三百米以上的楼",
+            "verdict": "矛盾",
+            "evidence": "17"
+          }
+        ]
+      },
+      {
+        "index": 38,
+        "claims": [
+          {
+            "claim": "一座城市的天际线是机场、地震带、财政三股力量掰手腕的结果",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 39,
+        "claims": [
+          {
+            "claim": "你看到的是楼，看不到的是审批表",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 40,
+        "claims": [
+          {
+            "claim": "香港是被逼出来的垂直密度",
+            "verdict": "非判词",
+            "evidence": "无"
+          },
+          {
+            "claim": "迪拜是砸钱砸出来的世界第一高度",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 41,
+        "claims": [
+          {
+            "claim": "评论区聊聊，下期见",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      }
+    ],
+    "verdict_counts": {
+      "支持": 77,
+      "无支撑": 0,
+      "矛盾": 1,
+      "非判词": 17
+    },
+    "support_rate": 0.987
+  },
+  "q2": {
+    "items": [
+      {
+        "index": 5,
+        "verdict": "匹配",
+        "why": "主体北京中信大厦、528米、108层、灵感源自尊均一致"
+      },
+      {
+        "index": 6,
+        "verdict": "弱匹配",
+        "why": "主体天津周大福金融中心、530米一致，但片段未提及「金箍棒」外号，仅说网友起外号"
+      },
+      {
+        "index": 7,
+        "verdict": "匹配",
+        "why": "广州东塔即广州周大福金融中心，530.5米、111层一致"
+      },
+      {
+        "index": 8,
+        "verdict": "匹配",
+        "why": "纽约世贸中心一号楼、541米、911后重建美国第一高楼均一致"
+      },
+      {
+        "index": 9,
+        "verdict": "匹配",
+        "why": "首尔乐天世界大厦、555米一致"
+      },
+      {
+        "index": 10,
+        "verdict": "匹配",
+        "why": "深圳平安金融中心、599米一致"
+      },
+      {
+        "index": 11,
+        "verdict": "匹配",
+        "why": "片段明确提到受航空限高约束、设计高度从660米缩减，与解说句主体、事件、时点一致"
+      },
+      {
+        "index": 12,
+        "verdict": "匹配",
+        "why": "片段明确提到沙特迈迦皇家钟塔酒店、601米、总造价约150亿，与解说句一致"
+      },
+      {
+        "index": 13,
+        "verdict": "匹配",
+        "why": "片段明确提到上海中心大厦、632米、全球最重阻尼器、抵御15级台风，与解说句一致"
+      },
+      {
+        "index": 14,
+        "verdict": "匹配",
+        "why": "片段明确提到莫迪卡118大厦、678.9米、全球第二高建筑，与解说句一致"
+      },
+      {
+        "index": 15,
+        "verdict": "匹配",
+        "why": "片段明确提到828米、相当于270多层普通居民楼，与解说句主体、数据一致"
+      },
+      {
+        "index": 18,
+        "verdict": "匹配",
+        "why": "片段明确提到约147座、陆海国际中心458米、受地形机场航线限制，与解说句一致"
+      },
+      {
+        "index": 23,
+        "verdict": "匹配",
+        "why": "主体（东京）、数量（638座）、最高构筑物（晴空塔634米）、性质（观光塔）均一致"
+      },
+      {
+        "index": 24,
+        "verdict": "错位",
+        "why": "解说句讲东京的抗震与限高约束，片段文本讲武汉管控和广州排名，主体与事件不符"
+      },
+      {
+        "index": 36,
+        "verdict": "弱匹配",
+        "why": "片段文本提到东京限高和新加坡排名开头，但未包含新加坡禁修300米、最高楼290米、樟宜机场等关键细节"
+      }
+    ],
+    "verdict_counts": {
+      "匹配": 12,
+      "弱匹配": 2,
+      "错位": 1
+    },
+    "sentence_total": 42,
+    "headline_q2": 0.31
+  },
+  "q4": {
+    "titles": [
+      {
+        "platform": "B站",
+        "information": 5,
+        "accuracy": 4,
+        "appeal": 5,
+        "why": "信息完整且悬念设置到位，但'世界最高楼到底多高'的问句略显冗余"
+      },
+      {
+        "platform": "西瓜视频/抖音（中视频伙伴计划）",
+        "information": 4,
+        "accuracy": 4,
+        "appeal": 4,
+        "why": "核心看点清晰但缺少具体数据支撑，吸引力略弱于B站版本"
+      },
+      {
+        "platform": "微信视频号",
+        "information": 2,
+        "accuracy": 3,
+        "appeal": 2,
+        "why": "仅给出单一数据点，缺乏榜单对比和悬念，信息量和吸引力均不足"
+      }
+    ]
+  },
+  "q5": {
+    "flow": 5,
+    "density": 4,
+    "fact_boundary": 3,
+    "why": "叙事节奏紧凑、数据密集，但多处断言（如深圳限高80米、香港1985座、深圳1553座）依赖单一视频来源且未标注口径，事实边界偏松。"
+  },
+  "elapsed_s": 89.9
+}

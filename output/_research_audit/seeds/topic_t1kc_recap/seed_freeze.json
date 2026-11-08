@@ -1,0 +1,85 @@
+{
+  "topic_title": "T1 3-1 KC 晋级四强：八强淘汰赛复盘",
+  "seed_sha256": "586c37f0222338637a48b6a22fc5411b321929f053e1b8eee70a66015dc9efa4",
+  "frozen": true,
+  "frozen_at": "2026-11-07T15:17:03",
+  "sources": [
+    {
+      "id": "BV1Ai476dEUZ",
+      "url": "https://www.bilibili.com/video/BV1Ai476dEUZ",
+      "upload_date": "20261107",
+      "local_file": "downloads\\新题\\T1KC\\https-www-bilibili-com-video-bv1\\苦练李香兰 - T1晋级四强！T1 3-1 KC 赛后数据雷达图丨2026全球总决赛-淘汰赛 [BV1Ai476dEUZ].mp4",
+      "sha256": "2cfa6234ab768fab935b14e1e49f657c2911ee81ab438f3fb051f0a807ec164c"
+    },
+    {
+      "id": "BV19S4L6MEUr",
+      "url": "https://www.bilibili.com/video/BV19S4L6MEUr",
+      "upload_date": "20261106",
+      "local_file": "downloads\\新题\\T1KC\\https-www-bilibili-com-video-bv1\\哔哩哔哩LOL赛事直播 - 【S16高能观赛团】四分之一决赛D4 T1 VS KC 第一局：Yike盲僧全场零节奏，T1后期阵容发力先拿一分 [BV19S4L6MEUr].mp4",
+      "sha256": "0f9266978482c933a2e02fd3ef6ce67663bd531d6b92a5bf47ec7ac97a166421"
+    },
+    {
+      "id": "BV1pB476sEYz_p1",
+      "url": "https://www.bilibili.com/video/BV1pB476sEYz?p=1",
+      "upload_date": "20261107",
+      "local_file": "downloads\\新题\\T1KC\\https-www-bilibili-com-video-bv1\\大木GameDay - [S16]【T1 vs KC】第四局速看丨2026全球总决赛四分之一决赛丨20261107 p01 T1 vs KC 第四局速看 [BV1pB476sEYz_p1].mp4",
+      "sha256": "96b93817a3731f9cfd980e162c4fdcf58b0e09c04246daa7c3dab5b10923a088"
+    },
+    {
+      "id": "BV1R9476VEsG",
+      "url": "https://www.bilibili.com/video/BV1R9476VEsG",
+      "upload_date": "20261107",
+      "local_file": "downloads\\新题\\T1KC\\https-www-bilibili-com-video-bv1\\苦练李香兰 - 宿敌，这次能破纪录吗！？T1 vs BLG 数据前瞻丨S16全球总决赛-半决赛 [BV1R9476VEsG].mp4",
+      "sha256": "dc39a72929522b0d582b3cbcaaf2c99055cc876f68169bbb1a50c3dd28f49d0b"
+    },
+    {
+      "id": "BV1Zr4L6CEVS",
+      "url": "https://www.bilibili.com/video/BV1Zr4L6CEVS",
+      "upload_date": "20261106",
+      "local_file": "downloads\\新题\\T1KC\\https-www-bilibili-com-video-bv1\\LPL那些事儿 - T1大战KC现场彻底爆了! T1登场瞬间，全场响起了山呼海啸般欢呼声!高呼T1 fighting！不愧是全球第一战队，真就到哪哪是主场啊！ [BV1Zr4L6CEVS].mp4",
+      "sha256": "915a5310cc75888d234f9656b9c8b3de5202a131bfea8ec10572c5be043a3dc8"
+    }
+  ],
+  "code_snapshot_sha256": {
+    "autoline.py": "795bd9c885a8a50dc97ebec7cc36cdb0a746aa8061896e98387e972788b19200",
+    "full_agent.py": "eeafd4ddd3c7259de20ca57c442c973693bf3e72f99e4379377fe858bb8ecb71",
+    "eval_harness.py": "027ae23c2044013920106cc6b00a2badf13c8f6f3fbfa3d92d0ffffdb02a963f",
+    "experiment_setup.py": "8156431f94d52a0ffd301e9bc3dca6f22fda88f7253b08329ab9b0f354295865",
+    "experiment_report.py": "18373a59c7f8068e30272a9b1bcd7d2e9725753e241f0c87993400c2cfa772e7",
+    "fault_injector.py": "fb2cd3b1c1d838e3bd940de5b272aa443e3e11cc95ad2765fc0c44ed5c2fe6e9",
+    "cut_clips.py": "dba69f1c2461c48d9347a56e9ba35d6cfd6f4c4ba7e9eca069d3533bf6bccc2f",
+    "run_pipeline.py": "ba5b90ec64dc889b7eff2a5b3f1a171fafa7baadbbf14f3519a5461955955dd6",
+    "bili_publish.py": "40b2f1b7d679e8d291f2864c1834b249939b363d591bfec8fc5d017b9bbc403f",
+    "config.py": "6a088a7d7934fa6efbb5e00c67a7408ff19f5ccbbb1704cb932ebd7a58b2ea96",
+    "pipeline/__init__.py": "c5e7cd8fd0c7fa2d2546f50501074eba738abfd59fdfe4373b0e0f34b7f3abb6",
+    "pipeline/assemble.py": "ed30e3b6b4a3cc493c59e2973c882e9e62b6aad7a5ff5a60f019a46c3422643a",
+    "pipeline/cardgen.py": "7712f30de6ea9c87b44f594831abfe40ce8a9f2cb6013b52c60d0739289fe081",
+    "pipeline/charts.py": "537351a1314982af07eb1a797e5e271c7d5b884c7abd34ac8d85522d8f734743",
+    "pipeline/footage.py": "c2a28d00a73564a82d4293e59e8cec48585d59acf873b5ed94478250c0ef6f7d",
+    "pipeline/llm.py": "c6a47925c0969b43c6287d914dbbcd4d5ea3f8adeaf883e632ab36cbb5c3914f",
+    "pipeline/matcher.py": "a28db5c6c1f69524749d779e03e540f46dec7646af47c38cbc864301c4ba2606",
+    "pipeline/matlib.py": "94fb9338cd3447bb5748b4f4614587f2b8516de5b9348b642d34de788e9a2a27",
+    "pipeline/newswire.py": "6b23f79606906208a6ce4a09b42fa9d3ccc3ee54119df9051ce310c101be0970",
+    "pipeline/publish.py": "d11858c12c349a7cea8a6979fd84f8af21237a4d4e911e928b5fd688606d5ebf",
+    "pipeline/sources.py": "dc21d6080f5190a529f78d26c8b2132a348415faa08a2b7412559f56aae01193",
+    "pipeline/subtitles.py": "323ce570f8bbab785d15ad2b10c1ce1516a6b246130c2accefe1711f23686552",
+    "pipeline/topics.py": "bfa1c3bce15a4a24b2fd10ca04221d96ed0095b7cbd177238b7da7f2b0af6180",
+    "pipeline/tts.py": "e576f50c1bc484b92639d52bdc441704c0a7b74dbc212207eeef8286ba4cbf96",
+    "pipeline/writer.py": "db39b516154d88ed4c8e593e421933038992fa416fa48c146a425a6e20da2f08"
+  },
+  "git_commit": "no-commit-yet",
+  "model_config": {
+    "engine": "mimo",
+    "model_flash": "mimo-v2.6-flash",
+    "model_pro": "mimo-v2.6-pro",
+    "model_tts": "mimo-v2.5-tts",
+    "tts_voice": "白桦",
+    "tts_style": "沉稳清晰的科普解说腔调，语速适中，语气自然平实，吐字清楚。",
+    "tts_atempo": "1.3",
+    "chat_temperature_default": 0.7,
+    "thinking": "disabled",
+    "max_attempts_gate": 2,
+    "supervisor_llm_budget": 3
+  },
+  "note": "开发/主实验种子冻结清单；secrets 不入清单；改内容须换目录重冻"
+}

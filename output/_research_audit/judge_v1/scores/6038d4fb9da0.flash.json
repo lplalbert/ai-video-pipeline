@@ -1,0 +1,596 @@
+{
+  "sid": "6038d4fb9da0",
+  "judge": "flash",
+  "judge_model": "mimo-v2.6-flash",
+  "ts": "2026-11-08T19:41:08",
+  "n_sentences": 37,
+  "q1": {
+    "items": [
+      {
+        "index": 0,
+        "claims": [
+          {
+            "claim": "TES被淘汰后有赛后采访",
+            "verdict": "支持",
+            "evidence": "1"
+          },
+          {
+            "claim": "阿水（JKL）在采访中说IG最有希望拿世界冠军",
+            "verdict": "支持",
+            "evidence": "8（自媒体解说转引口径）"
+          },
+          {
+            "claim": "这话要么是高情商客套，要么是被打服了",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "claims": [
+          {
+            "claim": "本视频用赛后采访和队内语音拆解IG 3-1赢在哪",
+            "verdict": "非判词",
+            "evidence": "无（内容组织说明，非事实断言）"
+          },
+          {
+            "claim": "IG 3-1 获胜",
+            "verdict": "支持",
+            "evidence": "1"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "claims": [
+          {
+            "claim": "接下来讲Wei",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "claims": [
+          {
+            "claim": "余霜采访了Wei",
+            "verdict": "支持",
+            "evidence": "1"
+          },
+          {
+            "claim": "Wei称系列赛连续拿到一血",
+            "verdict": "支持",
+            "evidence": "2"
+          },
+          {
+            "claim": "Wei称连续一血与把训练赛内容带进比赛、前期找机会能力强有关",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "claims": [
+          {
+            "claim": "这是赢了之后说的话，不是赛后甩锅",
+            "verdict": "非判词",
+            "evidence": "无（评论修辞）"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "claims": [
+          {
+            "claim": "Wei复盘第二局，称自己猴子打团送了两三波",
+            "verdict": "支持",
+            "evidence": "4"
+          },
+          {
+            "claim": "Wei称第三局把心态调整好",
+            "verdict": "支持",
+            "evidence": "4"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "claims": [
+          {
+            "claim": "Wei是刚赢下BO5的打野",
+            "verdict": "支持",
+            "evidence": "5（与滔搏本赛季已交手两个BO5，本场为BO5获胜）"
+          },
+          {
+            "claim": "Wei主动承认自己送了两三波",
+            "verdict": "支持",
+            "evidence": "4"
+          },
+          {
+            "claim": "这种自我检讨比夺冠宣言值钱多了",
+            "verdict": "非判词",
+            "evidence": "无（观点修辞）"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "claims": [
+          {
+            "claim": "他不是在谦虚，是在给队伍定标准——赢了也要复盘失误",
+            "verdict": "非判词",
+            "evidence": "无（对动机的推断评论，无独立事实断言）"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "claims": [
+          {
+            "claim": "IG现在最可怕的地方是心气而非操作",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "claims": [
+          {
+            "claim": "第一局存在蓝BUFF区三打五的团战",
+            "verdict": "支持",
+            "evidence": "3"
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "claims": [
+          {
+            "claim": "Wei复盘称对面先交多个大招击杀辛德拉",
+            "verdict": "支持",
+            "evidence": "3"
+          },
+          {
+            "claim": "Wei复盘称辛德拉位置不利难拉扯",
+            "verdict": "支持",
+            "evidence": "3"
+          },
+          {
+            "claim": "Wei复盘称IG等对方技能交完、小技能沟通到位才打赢",
+            "verdict": "支持",
+            "evidence": "3"
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "claims": [
+          {
+            "claim": "听清楚了吗",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "claims": [
+          {
+            "claim": "不是靠莽是靠等",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "claims": [
+          {
+            "claim": "等对面把大招交干净再用小技能收人头",
+            "verdict": "支持",
+            "evidence": "3"
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "claims": [
+          {
+            "claim": "这波团战的判词是什么",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "claims": [
+          {
+            "claim": "IG的团队沟通质量碾压了TES的开团决策",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 16,
+        "claims": [
+          {
+            "claim": "TES那波先手交大想秒人",
+            "verdict": "支持",
+            "evidence": "3"
+          },
+          {
+            "claim": "结果被反打（IG打赢）",
+            "verdict": "支持",
+            "evidence": "3"
+          }
+        ]
+      },
+      {
+        "index": 17,
+        "claims": [
+          {
+            "claim": "谁的锅（设问）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 18,
+        "claims": [
+          {
+            "claim": "是开团决策的锅，不是操作的锅",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 19,
+        "claims": [
+          {
+            "claim": "再看TheShy（转场）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 20,
+        "claims": [
+          {
+            "claim": "TheShy英文流采访称暂停时新人jiaqi很紧张，他以哥哥身份安慰他",
+            "verdict": "支持",
+            "evidence": "6"
+          }
+        ]
+      },
+      {
+        "index": 21,
+        "claims": [
+          {
+            "claim": "TheShy说自己薇恩那把是失误、非常愧疚",
+            "verdict": "支持",
+            "evidence": "6"
+          }
+        ]
+      },
+      {
+        "index": 22,
+        "claims": [
+          {
+            "claim": "赛后先安慰新人再认自己的错",
+            "verdict": "支持",
+            "evidence": "6"
+          },
+          {
+            "claim": "这就是队长该有的样子（评价）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 23,
+        "claims": [
+          {
+            "claim": "Rookie称自己历届世界赛要么十六强要么四强或冠军",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "现在先打好四强、有机会争冠",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "对粉丝喊「IG又回来了」",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 24,
+        "claims": [
+          {
+            "claim": "2018年他亲手捧过奖杯",
+            "verdict": "支持",
+            "evidence": "8（Rookie 2018年曾亲手捧起冠军奖杯）"
+          },
+          {
+            "claim": "现在心态和决心更强",
+            "verdict": "支持",
+            "evidence": "8（如今心态与决心更强烈）"
+          }
+        ]
+      },
+      {
+        "index": 25,
+        "claims": [
+          {
+            "claim": "这两个人加起来就是IG的魂",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 26,
+        "claims": [
+          {
+            "claim": "最后看队内语音",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 27,
+        "claims": [
+          {
+            "claim": "Meiko指挥「拆塔、点塔、一波」",
+            "verdict": "支持",
+            "evidence": "8（IG队内语音：Meiko指挥「拆塔/点塔、一波」收尾，标题口径+转写簇佐证）"
+          },
+          {
+            "claim": "Wei开场跟jiaqi说「我和嘉琪现在很可怕」",
+            "verdict": "支持",
+            "evidence": "8（Wei开场感叹与jiaqi互动，标题口径「Wei：我和嘉琪现在很可怕！」）"
+          }
+        ]
+      },
+      {
+        "index": 28,
+        "claims": [
+          {
+            "claim": "Meiko这句「一波」是IG现在的真面目",
+            "verdict": "非判词",
+            "evidence": "无"
+          },
+          {
+            "claim": "不是靠个人秀赢比赛，是靠一个指挥把五个人拧成一股绳",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 29,
+        "claims": [
+          {
+            "claim": "阿水说IG现在实力很强、最有希望夺冠",
+            "verdict": "支持",
+            "evidence": "8（自媒体解说转引：阿水称IG现在实力很强、最有希望夺冠）"
+          },
+          {
+            "claim": "阿水祝福出身于IG的老东家",
+            "verdict": "支持",
+            "evidence": "8（并祝福出身于IG的老东家）"
+          }
+        ]
+      },
+      {
+        "index": 30,
+        "claims": [
+          {
+            "claim": "这是客套吗",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 31,
+        "claims": [
+          {
+            "claim": "我判断不是",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 32,
+        "claims": [
+          {
+            "claim": "阿水（JKL）刚被淘汰（即其所在队伍已被淘汰）",
+            "verdict": "无支撑",
+            "evidence": "无"
+          },
+          {
+            "claim": "阿水把话说得很满（称IG最有希望夺冠）",
+            "verdict": "支持",
+            "evidence": "8（自媒体解说转引：阿水称 IG 现在实力很强、最有希望夺冠）"
+          }
+        ]
+      },
+      {
+        "index": 33,
+        "claims": [
+          {
+            "claim": "Meiko 在队内语音中说了「一波」",
+            "verdict": "支持",
+            "evidence": "8（IG 队内语音：Meiko 指挥「拆塔/点塔、一波」收尾，标题口径+转写近义簇佐证）"
+          },
+          {
+            "claim": "阿水看到的是 Meiko 这句话背后的执行力",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 34,
+        "claims": [
+          {
+            "claim": "阿水说 IG 最有希望夺冠",
+            "verdict": "支持",
+            "evidence": "8（自媒体解说转引：阿水称 IG 现在实力很强、最有希望夺冠）"
+          },
+          {
+            "claim": "阿水是真心话还是高情商",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 35,
+        "claims": [
+          {
+            "claim": "Wei 说过「送了两三波」的自我检讨",
+            "verdict": "支持",
+            "evidence": "4（Wei 自评第二局猴子可惜、自己打团「送了两三波」）"
+          },
+          {
+            "claim": "你买账吗",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 36,
+        "claims": [
+          {
+            "claim": "下一条视频将拆解 IG 对上 GEN 的前瞻",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      }
+    ],
+    "verdict_counts": {
+      "支持": 33,
+      "无支撑": 3,
+      "矛盾": 0,
+      "非判词": 23
+    },
+    "support_rate": 0.917
+  },
+  "q2": {
+    "items": [
+      {
+        "index": 0,
+        "verdict": "匹配",
+        "why": "解说句与片段文本均指阿水赛后采访称IG最有希望夺冠，主体、事件一致"
+      },
+      {
+        "index": 3,
+        "verdict": "匹配",
+        "why": "均指余霜采访Wei，Wei称连续拿一血与训练赛内容、前期找机会有关，主体事件一致"
+      },
+      {
+        "index": 5,
+        "verdict": "匹配",
+        "why": "均指Wei自评第二局猴子打团送了两三波、第三局调整心态，主体事件一致"
+      },
+      {
+        "index": 9,
+        "verdict": "弱匹配",
+        "why": "解说句仅提及第一局蓝BUFF区三打五，未涉及具体复盘细节，画面内容更详细，无法完全确认细节一致"
+      },
+      {
+        "index": 10,
+        "verdict": "匹配",
+        "why": "均指Wei复盘第一局蓝BUFF区三打五的具体细节，主体、事件、内容一致"
+      },
+      {
+        "index": 20,
+        "verdict": "匹配",
+        "why": "均指英文流采访TheShy称暂停时新人jiaqi紧张、自己以哥哥身份安慰，主体事件一致"
+      },
+      {
+        "index": 21,
+        "verdict": "弱匹配",
+        "why": "片段提到薇恩话题但含糊，无法确认失误愧疚的具体表述"
+      },
+      {
+        "index": 23,
+        "verdict": "匹配",
+        "why": "Rookie专访内容与解说句的历届世界赛成绩、争冠表态一致"
+      },
+      {
+        "index": 24,
+        "verdict": "匹配",
+        "why": "Rookie专访明确提到2018年捧杯与心态决心更强"
+      },
+      {
+        "index": 27,
+        "verdict": "弱匹配",
+        "why": "片段有Meiko指挥点塔一波，但缺Wei与jiaqi对话内容，无法完全确认"
+      },
+      {
+        "index": 29,
+        "verdict": "弱匹配",
+        "why": "片段仅确认祝福老东家IG，缺实力最强最有希望夺冠的表述"
+      }
+    ],
+    "verdict_counts": {
+      "匹配": 7,
+      "弱匹配": 4,
+      "错位": 0
+    },
+    "sentence_total": 37,
+    "headline_q2": 0.243
+  },
+  "q4": {
+    "titles": [
+      {
+        "platform": "B站",
+        "information": 5,
+        "accuracy": 4,
+        "appeal": 5,
+        "why": "比分、采访看点、团战解析三重信息齐全，悬念感强"
+      },
+      {
+        "platform": "西瓜视频/抖音（中视频伙伴计划）",
+        "information": 4,
+        "accuracy": 4,
+        "appeal": 4,
+        "why": "比分+采访亮点清晰，但缺少具体看点细节"
+      },
+      {
+        "platform": "微信视频号",
+        "information": 2,
+        "accuracy": 3,
+        "appeal": 3,
+        "why": "缺比赛背景和比分，信息不足但有悬念"
+      }
+    ]
+  },
+  "q5": {
+    "flow": 4,
+    "density": 4,
+    "fact_boundary": 3,
+    "why": "四段结构清晰、口语化推进流畅，采访引用具体但部分推断（如阿水真心话、团战责任归属）略显武断，主观断言多于克制表述。"
+  },
+  "elapsed_s": 100.9
+}

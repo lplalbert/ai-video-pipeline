@@ -1,0 +1,586 @@
+{
+  "sid": "12a8bcb31d13",
+  "judge": "deepseek",
+  "judge_model": "external:deepseek",
+  "ts": "2026-11-08T13:17:53",
+  "source": "api",
+  "q1": {
+    "items": [
+      {
+        "index": 0,
+        "claims": [
+          {
+            "claim": "二战美军给轰炸机加装甲，专家盯着弹孔多的地方主张加固",
+            "verdict": "支持",
+            "evidence": "2"
+          },
+          {
+            "claim": "统计学家瓦尔德指出真正该加护的是弹孔少的部位",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "claims": [
+          {
+            "claim": "这一课，今天照样能扇醒我们",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "claims": [
+          {
+            "claim": "先说那个经典案例",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "claims": [
+          {
+            "claim": "二战里美军统计返航轰炸机的弹孔分布",
+            "verdict": "支持",
+            "evidence": "2"
+          },
+          {
+            "claim": "机翼和机身弹孔最多",
+            "verdict": "支持",
+            "evidence": "2"
+          },
+          {
+            "claim": "专家主张给弹孔多的地方赶紧加装甲",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "claims": [
+          {
+            "claim": "瓦尔德是哥伦比亚大学统计研究小组的成员，被请来分析数据",
+            "verdict": "支持",
+            "evidence": "3"
+          },
+          {
+            "claim": "瓦尔德提出该加固的不是弹孔多的地方，而是弹孔少的地方",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "claims": [
+          {
+            "claim": "为什么？",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "claims": [
+          {
+            "claim": "这份统计的样本全是飞回来的幸存者",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "claims": [
+          {
+            "claim": "引擎、驾驶舱、油箱一带中弹的飞机早已坠毁，根本进不了这份数据",
+            "verdict": "支持",
+            "evidence": "2"
+          },
+          {
+            "claim": "坠毁在欧洲上空",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "claims": [
+          {
+            "claim": "弹孔多说明中了这些弹还能飞回来，这地方不致命",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "claims": [
+          {
+            "claim": "这份数据统计的不是「哪里最容易中弹」，而是「哪里中弹还能活」",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "claims": [
+          {
+            "claim": "专家的锅在哪？",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "claims": [
+          {
+            "claim": "专家把幸存者的样本当成了全体的真相",
+            "verdict": "支持",
+            "evidence": "1;2"
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "claims": [
+          {
+            "claim": "这个机制换个名字就叫幸存者偏差",
+            "verdict": "支持",
+            "evidence": "1"
+          },
+          {
+            "claim": "幸存者偏差定义：只看得见活下来的、成功的样本，看不见失败的、沉默的样本，认知就歪了",
+            "verdict": "支持",
+            "evidence": "1"
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "claims": [
+          {
+            "claim": "视频里举了一个思想实验",
+            "verdict": "支持",
+            "evidence": "4"
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "claims": [
+          {
+            "claim": "统计学家沙姆桑德斯假设香烟完全无害，但每一万八千二百五十包里有一根装着炸弹，点燃就炸",
+            "verdict": "支持",
+            "evidence": "4"
+          },
+          {
+            "claim": "爆炸新闻一出，大家肯定集体戒烟",
+            "verdict": "支持",
+            "evidence": "4"
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "claims": [
+          {
+            "claim": "可现实中呢？",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 16,
+        "claims": [
+          {
+            "claim": "吸烟的人是「悄悄消失在病床上」，没有爆炸，没有新闻，大家反而无动于衷",
+            "verdict": "支持",
+            "evidence": "4"
+          }
+        ]
+      },
+      {
+        "index": 17,
+        "claims": [
+          {
+            "claim": "视频称全球每秒约二十二点三万支香烟被点燃，平均每四秒就有一人因吸烟死亡",
+            "verdict": "支持",
+            "evidence": "5"
+          }
+        ]
+      },
+      {
+        "index": 18,
+        "claims": [
+          {
+            "claim": "不是数据不够吓人，是失败者死得太安静",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 19,
+        "claims": [
+          {
+            "claim": "看不见的死亡，激不起大脑的警报",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 20,
+        "claims": [
+          {
+            "claim": "再看我们身边的成功叙事",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 21,
+        "claims": [
+          {
+            "claim": "退学创业的神话、小学毕业当老板的故事、抽烟喝酒活到九十九的老人被列举",
+            "verdict": "支持",
+            "evidence": "7"
+          }
+        ]
+      },
+      {
+        "index": 22,
+        "claims": [
+          {
+            "claim": "这些例子是幸存者，是站在台上的那一个",
+            "verdict": "支持",
+            "evidence": "1;7"
+          }
+        ]
+      },
+      {
+        "index": 23,
+        "claims": [
+          {
+            "claim": "视频里给了修辞性比例：每位著名出版作家背后大约100万个沉默失败者，书卖不出去、找不到出版社、手稿不见天日",
+            "verdict": "支持",
+            "evidence": "6"
+          }
+        ]
+      },
+      {
+        "index": 24,
+        "claims": [
+          {
+            "claim": "是作家比例真这么夸张吗？",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 25,
+        "claims": [
+          {
+            "claim": "但这个分母被删掉的逻辑，是成立的",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 26,
+        "claims": [
+          {
+            "claim": "算法也在放大这件事",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 27,
+        "claims": [
+          {
+            "claim": "算法只推极端案例、只推活下来的那一个",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "让你以为「一技之长」就能年入百万",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 28,
+        "claims": [
+          {
+            "claim": "这不是能力被高估了，是运气被当成了能力",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 29,
+        "claims": [
+          {
+            "claim": "那怎么办？",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 30,
+        "claims": [
+          {
+            "claim": "视频给了三条应对：主动寻找沉默的证据，用概率思维替代直觉，逆向推理分清因果",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 31,
+        "claims": [
+          {
+            "claim": "每次看到一个成功样本，先问一句跟他走同一条路但失败的人在哪",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 32,
+        "claims": [
+          {
+            "claim": "他们没上热搜，不代表他们不存在",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 33,
+        "claims": [
+          {
+            "claim": "袜子总丢一只、爱笑的人运气不差、没有完美犯罪是列举的生活例证",
+            "verdict": "支持",
+            "evidence": "7"
+          }
+        ]
+      },
+      {
+        "index": 34,
+        "claims": [
+          {
+            "claim": "大脑讨厌不确定性，就把运气归因成能力",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 35,
+        "claims": [
+          {
+            "claim": "这是人性，不是你的错，但可以被训练",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 36,
+        "claims": [
+          {
+            "claim": "你身边有没有那种「幸存者偏差」式的故事？",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 37,
+        "claims": [
+          {
+            "claim": "评论区聊聊，你见过最离谱的一个案例是什么",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 38,
+        "claims": [
+          {
+            "claim": "关注我，下期我们拆另一个认知陷阱",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      }
+    ],
+    "verdict_counts": {
+      "支持": 27,
+      "无支撑": 2,
+      "矛盾": 0,
+      "非判词": 18
+    },
+    "support_rate": 0.931
+  },
+  "q2": {
+    "items": [
+      {
+        "index": 0,
+        "verdict": "匹配",
+        "why": "同指向二战轰炸机弹孔与加固/瓦尔德反转的核心讲解"
+      },
+      {
+        "index": 2,
+        "verdict": "匹配",
+        "why": "均为轰炸机返航弹孔案例开讲"
+      },
+      {
+        "index": 3,
+        "verdict": "匹配",
+        "why": "专家检查弹孔分布并决定加钢板与解说一致"
+      },
+      {
+        "index": 4,
+        "verdict": "匹配",
+        "why": "瓦尔德指出统计反转的讲解画面对应解说"
+      },
+      {
+        "index": 6,
+        "verdict": "匹配",
+        "why": "幸存返航飞机作为样本的讲解与解说一致"
+      },
+      {
+        "index": 8,
+        "verdict": "匹配",
+        "why": "弹孔多/不致命与弹孔少处才是要害的反转讲解一致"
+      },
+      {
+        "index": 12,
+        "verdict": "匹配",
+        "why": "幸存者偏差概念命名讲解画面对应解说"
+      },
+      {
+        "index": 13,
+        "verdict": "匹配",
+        "why": "香烟炸弹思想实验引入画面对应解说"
+      },
+      {
+        "index": 14,
+        "verdict": "匹配",
+        "why": "香烟装炸弹思想实验讲解对应解说"
+      },
+      {
+        "index": 16,
+        "verdict": "匹配",
+        "why": "吸烟者悄悄消失在病床上的讲解对应解说"
+      },
+      {
+        "index": 17,
+        "verdict": "弱匹配",
+        "why": "画面仅吸烟危害相关性，无法确认呈现具体22.3万支/4秒数据"
+      },
+      {
+        "index": 21,
+        "verdict": "匹配",
+        "why": "马云刘强东雷军等成功样本是对解说中退学创业神话的具体化"
+      },
+      {
+        "index": 23,
+        "verdict": "匹配",
+        "why": "作家圈沉默失败者层层递进讲解对应解说"
+      },
+      {
+        "index": 27,
+        "verdict": "匹配",
+        "why": "算法推送极端案例、放大焦虑讲解对应解说"
+      },
+      {
+        "index": 30,
+        "verdict": "匹配",
+        "why": "概率思维与逆向推理等应对建议对应解说"
+      },
+      {
+        "index": 33,
+        "verdict": "匹配",
+        "why": "袜子丢一只、爱笑运气好等生活例证对应解说"
+      }
+    ],
+    "verdict_counts": {
+      "匹配": 15,
+      "弱匹配": 1,
+      "错位": 0
+    },
+    "sentence_total": 39,
+    "headline_q2": 0.397
+  },
+  "q4": {
+    "titles": [
+      {
+        "platform": "B站",
+        "information": 5,
+        "accuracy": 5,
+        "appeal": 5,
+        "why": "概念、案例、反转、成功学分母删掉等看点齐全且准确"
+      },
+      {
+        "platform": "西瓜视频/抖音（中视频伙伴计划）",
+        "information": 5,
+        "accuracy": 5,
+        "appeal": 4,
+        "why": "核心钩子清晰准确，吸睛点略简洁但仍可用"
+      },
+      {
+        "platform": "微信视频号",
+        "information": 3,
+        "accuracy": 5,
+        "appeal": 3,
+        "why": "只有案例反转，缺乏幸存者偏差概念和更多看点"
+      }
+    ]
+  },
+  "q5": {
+    "flow": 5,
+    "density": 4,
+    "fact_boundary": 4,
+    "why": "结构流畅、信息密度合理；对数据/思想实验有标注，边界良好，个别未核实细节如欧洲上空等可再补标注"
+  },
+  "n_sentences": 39,
+  "api_model": "deepseek-v4-pro",
+  "api_usage": {
+    "prompt_tokens": 4761,
+    "completion_tokens": 14713,
+    "total_tokens": 19474,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 11745
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 4761
+  },
+  "elapsed_s": 146.4
+}

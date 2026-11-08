@@ -1,0 +1,4 @@
+requests>=2.31
+edge-tts>=6.1
+pillow>=10.0
+yt-dlp>=2026.1.1

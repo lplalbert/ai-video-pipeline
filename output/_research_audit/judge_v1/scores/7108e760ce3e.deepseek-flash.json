@@ -1,0 +1,606 @@
+{
+  "sid": "7108e760ce3e",
+  "judge": "deepseek-flash",
+  "judge_model": "external:deepseek-flash",
+  "ts": "2026-11-08T10:37:44",
+  "source": "api",
+  "q1": {
+    "items": [
+      {
+        "index": 0,
+        "claims": [
+          {
+            "claim": "本局存在一波三打五（IG三人对抗TES五人）的名场面",
+            "verdict": "支持",
+            "evidence": "底座8"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "claims": [
+          {
+            "claim": "IG以3-1的大比分淘汰TES，晋级四强",
+            "verdict": "支持",
+            "evidence": "底座2"
+          },
+          {
+            "claim": "本片只复盘BO5第一局",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "claims": [
+          {
+            "claim": "2分35秒上路爆发对拼并产生击杀",
+            "verdict": "支持",
+            "evidence": "底座5"
+          },
+          {
+            "claim": "3分07秒Wei抓中逼出对方中单闪现",
+            "verdict": "支持",
+            "evidence": "底座5"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "claims": [
+          {
+            "claim": "5分30秒小龙团Wei收下小龙",
+            "verdict": "支持",
+            "evidence": "底座6"
+          },
+          {
+            "claim": "TES在该团打成一换三",
+            "verdict": "支持",
+            "evidence": "底座6"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "claims": [
+          {
+            "claim": "这是LPL的版本答案：资源我拿、人头你拿",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "claims": [
+          {
+            "claim": "第一局30分钟产生39个人头",
+            "verdict": "支持",
+            "evidence": "底座4"
+          },
+          {
+            "claim": "视频解说称「这就是LPL的比赛」",
+            "verdict": "支持",
+            "evidence": "底座4"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "claims": [
+          {
+            "claim": "IG从第一分钟就决定用血换节奏",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "claims": [
+          {
+            "claim": "TES是否接住了前期节奏（设问）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "claims": [
+          {
+            "claim": "前13分钟TES与IG节奏基本对等、接住了对攻",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "claims": [
+          {
+            "claim": "Meiko泰坦出钩配合Wei先攻偷钱",
+            "verdict": "支持",
+            "evidence": "底座8"
+          },
+          {
+            "claim": "Rookie被控后阵亡",
+            "verdict": "支持",
+            "evidence": "底座8"
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "claims": [
+          {
+            "claim": "按正常剧本IG此时应当撤退",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "claims": [
+          {
+            "claim": "结果设问，无事实断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "claims": [
+          {
+            "claim": "IG剩余三人组反打成功，打成二换五，全场沸腾",
+            "verdict": "支持",
+            "evidence": "底座8"
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "claims": [
+          {
+            "claim": "解说说过「老IG的看家绝活都复活了」「人越少伤害越高」",
+            "verdict": "支持",
+            "evidence": "底座8"
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "claims": [
+          {
+            "claim": "这一波是TES在人数优势下贪了（归因判断）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "claims": [
+          {
+            "claim": "五打三被反打成二换五",
+            "verdict": "支持",
+            "evidence": "底座8"
+          },
+          {
+            "claim": "差距在决策而非操作",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 16,
+        "claims": [
+          {
+            "claim": "这波之后TES的节奏就断了",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 17,
+        "claims": [
+          {
+            "claim": "Wei大招开团瞬秒Rell",
+            "verdict": "支持",
+            "evidence": "底座10"
+          },
+          {
+            "claim": "TES双锁头换掉Wei、蛇女收下Meiko",
+            "verdict": "支持",
+            "evidence": "底座10"
+          },
+          {
+            "claim": "jiaqi拿到三杀，团战打成二换三",
+            "verdict": "支持",
+            "evidence": "底座10"
+          }
+        ]
+      },
+      {
+        "index": 18,
+        "claims": [
+          {
+            "claim": "jiaqi对位经济领先约2600",
+            "verdict": "支持",
+            "evidence": "底座10"
+          },
+          {
+            "claim": "除5-1的蛇女外TES全面落后",
+            "verdict": "支持",
+            "evidence": "底座10"
+          }
+        ]
+      },
+      {
+        "index": 19,
+        "claims": [
+          {
+            "claim": "jiaqi是TES本局唯一站出来的人（评价）",
+            "verdict": "非判词",
+            "evidence": "无"
+          },
+          {
+            "claim": "一人经济领先无法弥补多线崩盘（评价）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 20,
+        "claims": [
+          {
+            "claim": "设问：jiaqi不够强还是资源不够",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 21,
+        "claims": [
+          {
+            "claim": "作者倾向资源不足一说",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 22,
+        "claims": [
+          {
+            "claim": "22分30秒听牌龙团前JKL远程技能连中把IG打残",
+            "verdict": "支持",
+            "evidence": "底座11"
+          },
+          {
+            "claim": "Rookie极限推球推晕369并集火带走",
+            "verdict": "支持",
+            "evidence": "底座11"
+          },
+          {
+            "claim": "解说喊「100层的辛德拉」",
+            "verdict": "支持",
+            "evidence": "底座11"
+          }
+        ]
+      },
+      {
+        "index": 23,
+        "claims": [
+          {
+            "claim": "23分16秒大龙区Rookie蹲草推人但输出未跟上",
+            "verdict": "支持",
+            "evidence": "底座12"
+          },
+          {
+            "claim": "TheShy纳尔在TES三人面前牵扯",
+            "verdict": "支持",
+            "evidence": "底座12"
+          },
+          {
+            "claim": "Rookie再推一球打出关键闪现",
+            "verdict": "支持",
+            "evidence": "底座12"
+          }
+        ]
+      },
+      {
+        "index": 24,
+        "claims": [
+          {
+            "claim": "24分35秒TheShy纳尔变大进场击杀JackeyLove",
+            "verdict": "支持",
+            "evidence": "底座13"
+          },
+          {
+            "claim": "该团IG大胜、TES转守",
+            "verdict": "支持",
+            "evidence": "底座13"
+          }
+        ]
+      },
+      {
+        "index": 25,
+        "claims": [
+          {
+            "claim": "TES没有任何时刻能同时处理Rookie推球与TheShy进场（主观观察）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 26,
+        "claims": [
+          {
+            "claim": "两个老将一个控场一个切后排，是IG的传统手艺",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 27,
+        "claims": [
+          {
+            "claim": "30分09秒369先被击杀",
+            "verdict": "支持",
+            "evidence": "底座15"
+          },
+          {
+            "claim": "Wei绕后闪现开团推到四人，解说称「完美推」",
+            "verdict": "支持",
+            "evidence": "底座15"
+          },
+          {
+            "claim": "IG一波结束第一局",
+            "verdict": "支持",
+            "evidence": "底座15"
+          }
+        ]
+      },
+      {
+        "index": 28,
+        "claims": [
+          {
+            "claim": "火龙魂团Rookie蹲草被扫描发现后闪现强开、反手推散TES",
+            "verdict": "支持",
+            "evidence": "底座14"
+          },
+          {
+            "claim": "IG该波人头与资源两不误",
+            "verdict": "支持",
+            "evidence": "底座14"
+          }
+        ]
+      },
+      {
+        "index": 29,
+        "claims": [
+          {
+            "claim": "解说说过「稳得让人害怕」",
+            "verdict": "支持",
+            "evidence": "底座16"
+          },
+          {
+            "claim": "第一局MVP是IG的决策链（评价）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 30,
+        "claims": [
+          {
+            "claim": "TES输的不是操作而是气势（评价）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 31,
+        "claims": [
+          {
+            "claim": "TES输掉了这轮BO5",
+            "verdict": "支持",
+            "evidence": "底座2"
+          },
+          {
+            "claim": "设问：版本不适配还是选手状态问题",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 32,
+        "claims": [
+          {
+            "claim": "设问：jiaqi一人扛队能走多远",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 33,
+        "claims": [
+          {
+            "claim": "互动设问：换战术体系第一局能否翻盘",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 34,
+        "claims": [
+          {
+            "claim": "下期聊四强对阵（预告）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      }
+    ],
+    "verdict_counts": {
+      "支持": 33,
+      "无支撑": 1,
+      "矛盾": 0,
+      "非判词": 21
+    },
+    "support_rate": 0.971
+  },
+  "q2": {
+    "items": [
+      {
+        "index": 0,
+        "verdict": "匹配",
+        "why": "片段即三打五名场面回放，与解说句所指事件一致"
+      },
+      {
+        "index": 1,
+        "verdict": "匹配",
+        "why": "片段为3-1晋级四强的数据混剪，比分与主体一致"
+      },
+      {
+        "index": 2,
+        "verdict": "匹配",
+        "why": "片段对应对拼击杀与Wei抓中逼闪，事件与时点一致"
+      },
+      {
+        "index": 3,
+        "verdict": "匹配",
+        "why": "片段明写5分30秒Wei收龙、TES一换三，完全对应"
+      },
+      {
+        "index": 5,
+        "verdict": "匹配",
+        "why": "片段即39人头血腥对攻与LPL评价，与解说句同一素材"
+      },
+      {
+        "index": 9,
+        "verdict": "匹配",
+        "why": "片段复述泰坦出钩配合先攻、Rookie被控阵亡，主体动作一致"
+      },
+      {
+        "index": 12,
+        "verdict": "匹配",
+        "why": "片段为三人组反打二换五全场沸腾，事件一致"
+      },
+      {
+        "index": 13,
+        "verdict": "匹配",
+        "why": "片段即解说两句惊叹的原声落点，主体与内容一致"
+      },
+      {
+        "index": 17,
+        "verdict": "匹配",
+        "why": "片段含Wei瞬秒Rell、jiaqi三杀、二换三，同团战同一结果"
+      },
+      {
+        "index": 18,
+        "verdict": "弱匹配",
+        "why": "片段只笼统说jiaqi经济领先、TES落后，2600与5-1蛇女等数字无法确认"
+      },
+      {
+        "index": 22,
+        "verdict": "匹配",
+        "why": "片段含JKL连中打残、Rookie推晕369集火，与解说句事件一致"
+      },
+      {
+        "index": 23,
+        "verdict": "匹配",
+        "why": "片段即大龙区纳尔牵扯与Rookie推球打出闪现，主体时点一致"
+      },
+      {
+        "index": 24,
+        "verdict": "匹配",
+        "why": "片段明写纳尔变大进场击杀JackeyLove、IG团战大胜"
+      },
+      {
+        "index": 27,
+        "verdict": "匹配",
+        "why": "片段为30分09终局369被击杀、Wei完美推四人、一波结束"
+      },
+      {
+        "index": 28,
+        "verdict": "匹配",
+        "why": "片段即火龙魂团Rookie强开推散TES、资源人头兼得"
+      },
+      {
+        "index": 29,
+        "verdict": "匹配",
+        "why": "片段为决策链评述与「稳得让人害怕」落点，内容一致"
+      }
+    ],
+    "verdict_counts": {
+      "匹配": 15,
+      "弱匹配": 1,
+      "错位": 0
+    },
+    "sentence_total": 35,
+    "headline_q2": 0.443
+  },
+  "q4": {
+    "titles": [
+      {
+        "platform": "B站",
+        "information": 4,
+        "accuracy": 5,
+        "appeal": 4,
+        "why": "比分+15分23三打五+22至24分钟双老将要点齐全且与内容相符，但「教科书」后缀截断、略长"
+      },
+      {
+        "platform": "西瓜视频/抖音（中视频伙伴计划）",
+        "information": 3,
+        "accuracy": 4,
+        "appeal": 3,
+        "why": "「22到24分钟」悬空未说看点，信息不完整但不失真"
+      },
+      {
+        "platform": "微信视频号",
+        "information": 2,
+        "accuracy": 4,
+        "appeal": 3,
+        "why": "只留「15分23秒奇迹三打五」，缺队伍与比分，时长口径易误读但事件准确"
+      }
+    ]
+  },
+  "q5": {
+    "flow": 4,
+    "density": 5,
+    "fact_boundary": 4,
+    "why": "分节推进、干货密集、观点句多有「我认/我的判断」标记；扣分在末节把火龙魂团置于终局之后造成时序错乱，及「前13分钟接住了」「节奏断了」等无锚点的定性断言。"
+  },
+  "n_sentences": 35,
+  "api_model": "deepseek-flash",
+  "api_usage": {
+    "prompt_tokens": 5566,
+    "completion_tokens": 5270,
+    "total_tokens": 10836,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 2829
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 5566
+  },
+  "elapsed_s": 32.6
+}

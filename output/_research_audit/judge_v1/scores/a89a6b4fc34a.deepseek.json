@@ -1,0 +1,526 @@
+{
+  "sid": "a89a6b4fc34a",
+  "judge": "deepseek",
+  "judge_model": "external:deepseek",
+  "ts": "2026-11-08T13:24:22",
+  "source": "api",
+  "q1": {
+    "items": [
+      {
+        "index": 0,
+        "claims": [
+          {
+            "claim": "幸存者偏差这四个字，害惨了无数想成功的人",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "claims": [
+          {
+            "claim": "退学创业神话可能只是100万个沉默失败者里唯一开口说话的那个",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "claims": [
+          {
+            "claim": "今天我把这层窗户纸捅破，让你看清楚自己到底在学谁",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "claims": [
+          {
+            "claim": "先讲个真事",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "claims": [
+          {
+            "claim": "二战期间，美军统计返航轰炸机的弹孔分布",
+            "verdict": "支持",
+            "evidence": "2"
+          },
+          {
+            "claim": "发现机翼、机身中弹最多",
+            "verdict": "支持",
+            "evidence": "2"
+          },
+          {
+            "claim": "专家一致主张给弹孔多的地方加装甲",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "claims": [
+          {
+            "claim": "专家给弹孔多的地方加装甲是把必要条件当成了充分条件",
+            "verdict": "支持",
+            "evidence": "1"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "claims": [
+          {
+            "claim": "统计学家瓦尔德指出专家搞反了",
+            "verdict": "支持",
+            "evidence": "2;3"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "claims": [
+          {
+            "claim": "真正该加固的是弹孔少的部位",
+            "verdict": "支持",
+            "evidence": "2"
+          },
+          {
+            "claim": "引擎、驾驶舱、油箱这些要害",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "claims": [
+          {
+            "claim": "为什么",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "claims": [
+          {
+            "claim": "中了要害的飞机根本飞不回来，不在统计样本里",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "claims": [
+          {
+            "claim": "你看到的弹孔分布是幸存者的伤疤，不是敌人的火力图",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "claims": [
+          {
+            "claim": "这一句话，直接改写了美军的装甲方案",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "claims": [
+          {
+            "claim": "幸存者偏差的机制是只看得见成功样本，看不见失败样本，并系统性地得出错误结论",
+            "verdict": "支持",
+            "evidence": "1"
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "claims": [
+          {
+            "claim": "再看一个思想实验",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "claims": [
+          {
+            "claim": "1996年，有位统计学家提出香烟炸弹思想实验",
+            "verdict": "支持",
+            "evidence": "4"
+          },
+          {
+            "claim": "假设香烟完全无害，但每一万八千二百五十包里有一根藏着炸弹，点着就炸",
+            "verdict": "支持",
+            "evidence": "4"
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "claims": [
+          {
+            "claim": "新闻一报，全民戒烟",
+            "verdict": "支持",
+            "evidence": "4"
+          }
+        ]
+      },
+      {
+        "index": 16,
+        "claims": [
+          {
+            "claim": "可现实呢",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 17,
+        "claims": [
+          {
+            "claim": "全球每秒约22.3万支烟被点燃",
+            "verdict": "支持",
+            "evidence": "5"
+          },
+          {
+            "claim": "平均每4秒有一人因吸烟死亡",
+            "verdict": "支持",
+            "evidence": "5"
+          },
+          {
+            "claim": "这种死亡是悄悄消失在病床上的，不会上头条",
+            "verdict": "支持",
+            "evidence": "4"
+          }
+        ]
+      },
+      {
+        "index": 18,
+        "claims": [
+          {
+            "claim": "会爆炸的香烟和会致死的香烟，风险可能差不多，但前者被看见，后者被忽略",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 19,
+        "claims": [
+          {
+            "claim": "人类怕的不是风险，是看得见的爆炸",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 20,
+        "claims": [
+          {
+            "claim": "再把镜头拉到我们身边",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 21,
+        "claims": [
+          {
+            "claim": "每一位著名出版作家背后，大约站着一百万个沉默的失败者",
+            "verdict": "支持",
+            "evidence": "6"
+          },
+          {
+            "claim": "出了书卖不出、找不到出版社、手稿不见天日",
+            "verdict": "支持",
+            "evidence": "6"
+          }
+        ]
+      },
+      {
+        "index": 22,
+        "claims": [
+          {
+            "claim": "成功学最爱讲马云、刘强东、雷军退学创业的故事",
+            "verdict": "支持",
+            "evidence": "7"
+          }
+        ]
+      },
+      {
+        "index": 23,
+        "claims": [
+          {
+            "claim": "我看不到那一百万个同样退学、同样拼命、最后消失在人海里的人",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 24,
+        "claims": [
+          {
+            "claim": "是他们不够努力，还是他们只是没中彩票",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 25,
+        "claims": [
+          {
+            "claim": "大脑厌恶不确定性，所以会把运气带来的成功，归因成能力",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 26,
+        "claims": [
+          {
+            "claim": "算法再一推极端案例，焦虑直接翻倍",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 27,
+        "claims": [
+          {
+            "claim": "你刷到的每一个逆袭故事，都是从一百万具尸体上爬出来的那一个",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 28,
+        "claims": [
+          {
+            "claim": "那怎么办",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 29,
+        "claims": [
+          {
+            "claim": "我给三条",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 30,
+        "claims": [
+          {
+            "claim": "主动寻找沉默证据",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "研究失败案例，比研究成功案例有用十倍",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 31,
+        "claims": [
+          {
+            "claim": "用概率思维替代直觉",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 32,
+        "claims": [
+          {
+            "claim": "别问他为什么成功，要问和他一样做的人有多少失败了",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 33,
+        "claims": [
+          {
+            "claim": "逆向推理，分清因果",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 34,
+        "claims": [
+          {
+            "claim": "抽烟喝酒活到99的老人，不是抽烟让他长寿，是长寿的人里恰好有抽烟的",
+            "verdict": "支持",
+            "evidence": "7;8"
+          }
+        ]
+      },
+      {
+        "index": 35,
+        "claims": [
+          {
+            "claim": "幸存者偏差的本质，是把运气当实力，把样本当真相",
+            "verdict": "支持",
+            "evidence": "1;8"
+          }
+        ]
+      },
+      {
+        "index": 36,
+        "claims": [
+          {
+            "claim": "你身边有没有那种“XX都这样，所以我也能行”的逻辑",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 37,
+        "claims": [
+          {
+            "claim": "评论区甩出来，我帮你拆",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 38,
+        "claims": [
+          {
+            "claim": "觉得这期捅破了窗户纸的，三连支持一下，我们下期继续拆认知陷阱",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      }
+    ],
+    "verdict_counts": {
+      "支持": 27,
+      "无支撑": 1,
+      "矛盾": 0,
+      "非判词": 19
+    },
+    "support_rate": 0.964
+  },
+  "q2": {
+    "items": [
+      {
+        "index": 4,
+        "verdict": "弱匹配",
+        "why": "同指二战美军轰炸机案例，但片段未呈现弹孔分布与加装甲主张，细节无法确认"
+      },
+      {
+        "index": 7,
+        "verdict": "弱匹配",
+        "why": "片段展示驾驶舱和油箱弹孔少，但结论仍是专家主张加弹孔多处，未呈现“应加固弹孔少处”，相关但不同步"
+      },
+      {
+        "index": 10,
+        "verdict": "匹配",
+        "why": "片段与解说句均指瓦尔德解释弹孔分布反映幸存者而非火力图，主体事件一致"
+      },
+      {
+        "index": 22,
+        "verdict": "匹配",
+        "why": "两者同指马云、刘强东、雷军退学创业成功学案例，内容一致"
+      }
+    ],
+    "verdict_counts": {
+      "匹配": 2,
+      "弱匹配": 2,
+      "错位": 0
+    },
+    "sentence_total": 39,
+    "headline_q2": 0.077
+  },
+  "q4": {
+    "titles": [
+      {
+        "platform": "B站",
+        "information": 5,
+        "accuracy": 5,
+        "appeal": 5,
+        "why": "标题覆盖核心案例、疑问与方法，准确且吸睛，可直接发布"
+      },
+      {
+        "platform": "西瓜视频/抖音（中视频伙伴计划）",
+        "information": 4,
+        "accuracy": 5,
+        "appeal": 4,
+        "why": "简短准确，设问吸睛，但信息量略薄"
+      },
+      {
+        "platform": "微信视频号",
+        "information": 3,
+        "accuracy": 5,
+        "appeal": 3,
+        "why": "极简准确，但缺乏具体看点和点击欲"
+      }
+    ]
+  },
+  "q5": {
+    "flow": 5,
+    "density": 4,
+    "fact_boundary": 4,
+    "why": "结构清晰口语流畅，关键处有来源边界，但个别断言如“改写了美军方案”缺据且夸张"
+  },
+  "n_sentences": 39,
+  "api_model": "deepseek-v4-pro",
+  "api_usage": {
+    "prompt_tokens": 4175,
+    "completion_tokens": 13626,
+    "total_tokens": 17801,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 11250
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 4175
+  },
+  "elapsed_s": 127.5
+}

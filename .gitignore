@@ -1,0 +1,55 @@
+# Credentials and local authentication
+.env
+.env.*
+*.cookie
+*cookies*.txt
+*SESSDATA*
+auth.json
+
+# Generated runs, downloaded media and caches
+output/
+downloads/
+_ytdl_build/
+_ytdl_test/
+_fftest/
+tmp_*/
+__pycache__/
+*.py[cod]
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.mp3
+*.wav
+*.bin
+
+# Local tools and scratch material
+tools/biliup/
+_req_*
+_tts*
+_test_*
+
+# Credential files by name (audit 2026-11-06: 排除密钥/cookies)
+cookies.json
+**/cookies.json
+qrcode.png
+
+# Media library (audit: 排除媒体)
+素材库/
+
+# Research/verify scratch and caches (audit: 排除缓存)
+.research_scripts/
+.research_tmp/
+.research_xhs/
+.verify_cache/
+.verify_fetch/
+.verify_tmp/
+_verify/
+_verify_tmp/
+_research/
+workflow_research/
+_ddg_tts.html
+_plat.html
+
+# Local-only editor settings
+.claude/settings.local.json

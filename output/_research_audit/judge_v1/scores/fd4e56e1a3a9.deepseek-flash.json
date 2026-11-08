@@ -1,0 +1,491 @@
+{
+  "sid": "fd4e56e1a3a9",
+  "judge": "deepseek-flash",
+  "judge_model": "external:deepseek-flash",
+  "ts": "2026-11-08T13:31:21",
+  "source": "api",
+  "q1": {
+    "items": [
+      {
+        "index": 0,
+        "claims": [
+          {
+            "claim": "二战轰炸机需要加固装甲",
+            "verdict": "支持",
+            "evidence": "底座2"
+          },
+          {
+            "claim": "军方专家主张给弹孔多的地方加钢板",
+            "verdict": "支持",
+            "evidence": "底座2"
+          },
+          {
+            "claim": "统计学家瓦尔德指出应加固弹孔少的地方（要害）",
+            "verdict": "支持",
+            "evidence": "底座2（机制反转，未指定具体部位，不触碰口径禁区）"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "claims": [
+          {
+            "claim": "设问句「为啥？」",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "claims": [
+          {
+            "claim": "返航样本全是幸存者",
+            "verdict": "支持",
+            "evidence": "底座2"
+          },
+          {
+            "claim": "要害中弹的飞机未能进入统计样本",
+            "verdict": "支持",
+            "evidence": "底座2"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "claims": [
+          {
+            "claim": "该现象即幸存者偏差",
+            "verdict": "支持",
+            "evidence": "底座1"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "claims": [
+          {
+            "claim": "叙事过渡句",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "claims": [
+          {
+            "claim": "美军统计返航轰炸机弹孔分布",
+            "verdict": "支持",
+            "evidence": "底座2"
+          },
+          {
+            "claim": "弹孔分布为机翼最多、机身中部不少、尾部油箱附近零星",
+            "verdict": "支持",
+            "evidence": "底座2及口径禁区（BV1nVHi6dELD 口径）"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "claims": [
+          {
+            "claim": "军方专家主张给弹孔多的机翼和机身加装甲",
+            "verdict": "支持",
+            "evidence": "底座2"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "claims": [
+          {
+            "claim": "瓦尔德指出专家结论搞反了",
+            "verdict": "支持",
+            "evidence": "底座2"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "claims": [
+          {
+            "claim": "该数据只统计了飞回来的飞机",
+            "verdict": "支持",
+            "evidence": "底座2"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "claims": [
+          {
+            "claim": "引擎、驾驶舱、油箱等要害中弹的飞机早已坠毁",
+            "verdict": "支持",
+            "evidence": "底座2及口径禁区（三源部位并列）"
+          },
+          {
+            "claim": "这些坠毁飞机不在统计样本中",
+            "verdict": "支持",
+            "evidence": "底座2"
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "claims": [
+          {
+            "claim": "弹孔少的地方正是中弹必死处，才是应加固处",
+            "verdict": "支持",
+            "evidence": "底座2"
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "claims": [
+          {
+            "claim": "问题本质是样本问题而非加固问题",
+            "verdict": "支持",
+            "evidence": "底座2"
+          },
+          {
+            "claim": "可见部分只是存活下来的样本",
+            "verdict": "支持",
+            "evidence": "底座1"
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "claims": [
+          {
+            "claim": "幸存者偏差指只看得见成功样本、看不见失败样本",
+            "verdict": "支持",
+            "evidence": "底座1"
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "claims": [
+          {
+            "claim": "每位著名出版作家背后约有100万个沉默失败者",
+            "verdict": "支持",
+            "evidence": "底座6（按「视频称」核，修辞性估计口径）"
+          },
+          {
+            "claim": "这些失败者手稿不见天日、找不到出版社",
+            "verdict": "支持",
+            "evidence": "底座6"
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "claims": [
+          {
+            "claim": "一百万比一的比例才是真相的分母（说话人主观判断）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "claims": [
+          {
+            "claim": "退学创业神话（马云、刘强东、雷军）属幸存者样本列举",
+            "verdict": "支持",
+            "evidence": "底座7（按「视频列举」核，不涉个人事实）"
+          }
+        ]
+      },
+      {
+        "index": 16,
+        "claims": [
+          {
+            "claim": "退学后默默打工者没人拍视频（修辞性普遍化表述）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 17,
+        "claims": [
+          {
+            "claim": "算法只推极端案例、放大焦虑",
+            "verdict": "支持",
+            "evidence": "底座8（观点句按观点核）"
+          }
+        ]
+      },
+      {
+        "index": 18,
+        "claims": [
+          {
+            "claim": "过渡句「再看个思想实验」",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 19,
+        "claims": [
+          {
+            "claim": "思想实验设定：香烟完全无害，每18250包中一根装炸弹、点燃即爆",
+            "verdict": "支持",
+            "evidence": "底座4（思想实验参数口径）"
+          }
+        ]
+      },
+      {
+        "index": 20,
+        "claims": [
+          {
+            "claim": "爆炸新闻会引发全球戒烟",
+            "verdict": "支持",
+            "evidence": "底座4"
+          }
+        ]
+      },
+      {
+        "index": 21,
+        "claims": [
+          {
+            "claim": "设问句「可现实呢？」",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 22,
+        "claims": [
+          {
+            "claim": "全球每秒约22.3万支香烟被点燃",
+            "verdict": "支持",
+            "evidence": "底座5（按「视频称」核）"
+          },
+          {
+            "claim": "平均每4秒有一人因吸烟死亡",
+            "verdict": "支持",
+            "evidence": "底座5（按「视频称」核）"
+          },
+          {
+            "claim": "吸烟死亡悄悄消失在病床上、不引发同等反应",
+            "verdict": "支持",
+            "evidence": "底座4"
+          }
+        ]
+      },
+      {
+        "index": 23,
+        "claims": [
+          {
+            "claim": "未替换的占位设问「是X还是Y？」",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 24,
+        "claims": [
+          {
+            "claim": "设问：香烟更危险还是爆炸更吓人",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 25,
+        "claims": [
+          {
+            "claim": "大脑厌恶不确定性，只对可见威胁有反应，对慢性杀手无感",
+            "verdict": "支持",
+            "evidence": "底座8（观点句按观点核）"
+          }
+        ]
+      },
+      {
+        "index": 26,
+        "claims": [
+          {
+            "claim": "设问「那怎么办？」",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 27,
+        "claims": [
+          {
+            "claim": "应对三条：寻找沉默证据、概率思维替代直觉、逆向推理分清因果",
+            "verdict": "支持",
+            "evidence": "底座8"
+          }
+        ]
+      },
+      {
+        "index": 28,
+        "claims": [
+          {
+            "claim": "建议看到成功学先问「失败的人在哪」",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 29,
+        "claims": [
+          {
+            "claim": "「抽烟喝酒活到九十九的老人」为视频列举例证",
+            "verdict": "支持",
+            "evidence": "底座7（按「视频列举」核）"
+          },
+          {
+            "claim": "抽烟早死者见不到（建议式修辞反问）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 30,
+        "claims": [
+          {
+            "claim": "「小学毕业当老板」为视频列举例证",
+            "verdict": "支持",
+            "evidence": "底座7（按「视频列举」核）"
+          },
+          {
+            "claim": "建议反问没当上老板的小学毕业生有多少",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 31,
+        "claims": [
+          {
+            "claim": "幸存者偏差的要义是把必要条件当充分条件、把运气当能力（劝诫性表述）",
+            "verdict": "支持",
+            "evidence": "底座1（必要条件/充分条件表述）"
+          }
+        ]
+      },
+      {
+        "index": 32,
+        "claims": [
+          {
+            "claim": "设问「更清醒还是更焦虑」",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 33,
+        "claims": [
+          {
+            "claim": "互动引导句",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 34,
+        "claims": [
+          {
+            "claim": "关注引导句",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      }
+    ],
+    "verdict_counts": {
+      "支持": 31,
+      "无支撑": 0,
+      "矛盾": 0,
+      "非判词": 15
+    },
+    "support_rate": 1.0
+  },
+  "q2": {
+    "items": [
+      {
+        "index": 0,
+        "verdict": "匹配",
+        "why": "片段讲二战美军返航轰炸机与军方组织专家，与解说句同一事件同一主体，人物细节（瓦尔德）片段尚未出现但不冲突。"
+      },
+      {
+        "index": 12,
+        "verdict": "匹配",
+        "why": "片段含「这个就是幸存者偏差」及「你看到的都是活下来被看见的、失败消失的看不到」，与解说句定义一致。"
+      }
+    ],
+    "verdict_counts": {
+      "匹配": 2,
+      "弱匹配": 0,
+      "错位": 0
+    },
+    "sentence_total": 35,
+    "headline_q2": 0.057
+  },
+  "q4": {
+    "titles": [
+      {
+        "platform": "B站",
+        "information": 5,
+        "accuracy": 4,
+        "appeal": 4,
+        "why": "要素齐全（弹孔反转、瓦尔德、幸存者偏差），但「看的全是假数据」略夸张、句式偏长堆叠。"
+      },
+      {
+        "platform": "西瓜视频/抖音（中视频伙伴计划）",
+        "information": 3,
+        "accuracy": 5,
+        "appeal": 4,
+        "why": "钩子准确不夸大，但删去幸存者偏差这一概念落点，信息交代不足。"
+      },
+      {
+        "platform": "微信视频号",
+        "information": 2,
+        "accuracy": 4,
+        "appeal": 2,
+        "why": "无失实但过于抽象，未给出对象与看点，点击驱动力弱。"
+      }
+    ]
+  },
+  "q5": {
+    "flow": 4,
+    "density": 4,
+    "fact_boundary": 4,
+    "why": "钩子—案例—定义—例证—思想实验—方法—互动的结构清晰，干货占比高；主要瑕疵是「是X还是Y？」占位符未替换，另外22.3万支/秒、18450包类数字直陈而未标注为视频/思想实验口径，克制度尚可但可再加固。"
+  },
+  "n_sentences": 35,
+  "api_model": "deepseek-flash",
+  "api_usage": {
+    "prompt_tokens": 3815,
+    "completion_tokens": 4660,
+    "total_tokens": 8475,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 2338
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 3815
+  },
+  "elapsed_s": 22.7
+}

@@ -1,0 +1,651 @@
+{
+  "sid": "458028e1237c",
+  "judge": "deepseek-flash",
+  "judge_model": "external:deepseek-flash",
+  "ts": "2026-11-08T13:18:22",
+  "source": "api",
+  "q1": {
+    "items": [
+      {
+        "index": 0,
+        "claims": [
+          {
+            "claim": "二战时美军统计轰炸机弹孔分布，专家主张加固弹孔多的地方，统计学家瓦尔德指出方向搞反了",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "claims": [
+          {
+            "claim": "这个反转今天还在骗人",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "claims": [
+          {
+            "claim": "以下先讲二战故事",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "claims": [
+          {
+            "claim": "返航轰炸机弹孔分布为：机翼最多、机身中部不少、尾部油箱附近零星",
+            "verdict": "支持",
+            "evidence": "2（口径禁区：BV1nVHi6dELD 弹孔分布口径）"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "claims": [
+          {
+            "claim": "专家看到弹孔多就主张加固弹孔多处",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "claims": [
+          {
+            "claim": "瓦尔德否定专家的加固方案",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "claims": [
+          {
+            "claim": "真正应加固的是弹孔少的部位，因为那里中弹的飞机没飞回来",
+            "verdict": "支持",
+            "evidence": "2"
+          },
+          {
+            "claim": "要害部位各源说法不一，分别为引擎、驾驶舱、油箱一带",
+            "verdict": "支持",
+            "evidence": "2口径禁区（三源并列口径）"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "claims": [
+          {
+            "claim": "统计样本全是返航幸存者，坠毁飞机不进统计",
+            "verdict": "支持",
+            "evidence": "1、2"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "claims": [
+          {
+            "claim": "这不是统计学问题而是逻辑问题",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "claims": [
+          {
+            "claim": "只看幸存样本就找不到真正死因",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "claims": [
+          {
+            "claim": "瓦尔德是哥伦比亚大学统计研究小组成员，被请来分析这批数据",
+            "verdict": "支持",
+            "evidence": "3"
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "claims": [
+          {
+            "claim": "视频称瓦尔德1941年发现该现象（视频口径）",
+            "verdict": "支持",
+            "evidence": "3（口径禁区：单源年份口径）"
+          },
+          {
+            "claim": "年份口径存疑",
+            "verdict": "非判词",
+            "evidence": "无"
+          },
+          {
+            "claim": "机制反转（加固弹孔少处）成立",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "claims": [
+          {
+            "claim": "这意味着什么（过渡设问）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "claims": [
+          {
+            "claim": "军方专家直觉有误，指出问题的是统计学家瓦尔德",
+            "verdict": "支持",
+            "evidence": "2"
+          },
+          {
+            "claim": "真正救命的是那位统计学家",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "claims": [
+          {
+            "claim": "以下讲一个思想实验",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "claims": [
+          {
+            "claim": "视频称1996年有统计学家提出香烟炸弹思想实验：每18250包有一根装炸弹、点燃即爆",
+            "verdict": "支持",
+            "evidence": "4（视频口径/思想实验参数）"
+          }
+        ]
+      },
+      {
+        "index": 16,
+        "claims": [
+          {
+            "claim": "你会不会戒烟（设问）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 17,
+        "claims": [
+          {
+            "claim": "当然会（应答）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 18,
+        "claims": [
+          {
+            "claim": "现实情况如何（过渡设问）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 19,
+        "claims": [
+          {
+            "claim": "视频称全球每秒约22.3万支香烟被点燃、平均每4秒有1人因吸烟死亡",
+            "verdict": "支持",
+            "evidence": "5（视频口径）"
+          }
+        ]
+      },
+      {
+        "index": 20,
+        "claims": [
+          {
+            "claim": "这些吸烟死亡者是悄悄消失在病床上，没有爆炸新闻与画面冲击",
+            "verdict": "支持",
+            "evidence": "4"
+          }
+        ]
+      },
+      {
+        "index": 21,
+        "claims": [
+          {
+            "claim": "因为看不见他们所以不怕",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 22,
+        "claims": [
+          {
+            "claim": "吸烟案例是幸存者偏差的变体，活着的烟民成了可见样本",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 23,
+        "claims": [
+          {
+            "claim": "是数据不够吓人还是只看得见幸存者（设问）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 24,
+        "claims": [
+          {
+            "claim": "我的判断是后者",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 25,
+        "claims": [
+          {
+            "claim": "大脑厌恶不确定性、把运气带来的结果归因于自身能力",
+            "verdict": "非判词",
+            "evidence": "8（观点句）"
+          },
+          {
+            "claim": "视频列举抽烟活到九十九的老人、算法推送极端案例",
+            "verdict": "支持",
+            "evidence": "7、8"
+          }
+        ]
+      },
+      {
+        "index": 26,
+        "claims": [
+          {
+            "claim": "视频称每位著名出版作家背后约有100万个沉默的失败者（出书卖不出、找不到出版社、手稿不见天日）",
+            "verdict": "支持",
+            "evidence": "6（修辞性估计口径）"
+          }
+        ]
+      },
+      {
+        "index": 27,
+        "claims": [
+          {
+            "claim": "这是修辞性估计",
+            "verdict": "非判词",
+            "evidence": "无"
+          },
+          {
+            "claim": "它戳破了一个幻觉",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 28,
+        "claims": [
+          {
+            "claim": "视频列举退学创业神话、小学毕业当老板的例子",
+            "verdict": "支持",
+            "evidence": "7"
+          },
+          {
+            "claim": "这些例子都是幸存样本",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 29,
+        "claims": [
+          {
+            "claim": "视频反复提及马云、刘强东、雷军作为成功案例",
+            "verdict": "支持",
+            "evidence": "7（仅作成功学幸存样本例证提及）"
+          },
+          {
+            "claim": "同样退学创业却失败的人名字无人知晓",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 30,
+        "claims": [
+          {
+            "claim": "视频列举老风扇三十年不坏、袜子总丢一只、爱笑运气不差、没有完美犯罪、红颜多薄命等生活例子",
+            "verdict": "支持",
+            "evidence": "7"
+          }
+        ]
+      },
+      {
+        "index": 31,
+        "claims": [
+          {
+            "claim": "这些例子的真伪不下断言",
+            "verdict": "非判词",
+            "evidence": "无"
+          },
+          {
+            "claim": "机制是把必要条件当成充分条件，把幸存者共性误读为成功秘诀",
+            "verdict": "非判词",
+            "evidence": "8（观点句）"
+          }
+        ]
+      },
+      {
+        "index": 32,
+        "claims": [
+          {
+            "claim": "失败者的档案看不到",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 33,
+        "claims": [
+          {
+            "claim": "那怎么办（过渡设问）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 34,
+        "claims": [
+          {
+            "claim": "视频给出三条应对：主动寻找沉默证据、用概率思维替代直觉、逆向推理分清因果",
+            "verdict": "支持",
+            "evidence": "8（视频观点口径）"
+          }
+        ]
+      },
+      {
+        "index": 35,
+        "claims": [
+          {
+            "claim": "我再加一条：看成功案例先问失败者在哪儿",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 36,
+        "claims": [
+          {
+            "claim": "是X还是Y（未替换占位式设问）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 37,
+        "claims": [
+          {
+            "claim": "是能力让你成功还是运气筛掉大部分人（设问）",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 38,
+        "claims": [
+          {
+            "claim": "算法推送极端案例放大焦虑，逆袭故事背后是大量失败者",
+            "verdict": "非判词",
+            "evidence": "8（观点句）"
+          }
+        ]
+      },
+      {
+        "index": 39,
+        "claims": [
+          {
+            "claim": "幸存者偏差不是知识盲区而是思维习惯",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 40,
+        "claims": [
+          {
+            "claim": "不主动逆向思考就会一直被误导",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 41,
+        "claims": [
+          {
+            "claim": "引导评论区互动提问",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 42,
+        "claims": [
+          {
+            "claim": "关注引导与下期预告",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      }
+    ],
+    "verdict_counts": {
+      "支持": 20,
+      "无支撑": 0,
+      "矛盾": 0,
+      "非判词": 32
+    },
+    "support_rate": 1.0
+  },
+  "q2": {
+    "items": [
+      {
+        "index": 0,
+        "verdict": "匹配",
+        "why": "均为二战轰炸机弹孔统计与专家加固决定，主体与事件一致"
+      },
+      {
+        "index": 3,
+        "verdict": "匹配",
+        "why": "弹孔分布部位描述与片段解说图内容逐项对应"
+      },
+      {
+        "index": 4,
+        "verdict": "匹配",
+        "why": "专家按弹孔多处加固的判断一致"
+      },
+      {
+        "index": 5,
+        "verdict": "匹配",
+        "why": "瓦尔德指出方向搞反，主体动作一致"
+      },
+      {
+        "index": 6,
+        "verdict": "匹配",
+        "why": "片段为「加固看不到弹孔处、中弹飞机回不来」，与解说机制反转一致"
+      },
+      {
+        "index": 7,
+        "verdict": "匹配",
+        "why": "未返航飞机不进统计的说明与解说落点一致"
+      },
+      {
+        "index": 10,
+        "verdict": "匹配",
+        "why": "哥伦比亚大学SRG成员瓦尔德被请分析数据，主体身份一致"
+      },
+      {
+        "index": 11,
+        "verdict": "匹配",
+        "why": "片段明确1941年发现该现象，与解说引述口径一致（解说附评者存疑备注不改变落点）"
+      },
+      {
+        "index": 15,
+        "verdict": "匹配",
+        "why": "1996年思想实验与18250包一根炸弹的参数一致"
+      },
+      {
+        "index": 19,
+        "verdict": "弱匹配",
+        "why": "片段仅标「吸烟统计数据解说画面」，具体数字与口径无法从片段确认"
+      },
+      {
+        "index": 20,
+        "verdict": "匹配",
+        "why": "吸烟者悄悄消失在病床、无爆炸新闻的表述一致"
+      },
+      {
+        "index": 22,
+        "verdict": "匹配",
+        "why": "片段「抽烟得重病早逝者看不见」与解说「沉默的死者不发声」同指一事"
+      },
+      {
+        "index": 25,
+        "verdict": "弱匹配",
+        "why": "片段讲「成功归因于能力」，解说讲健康归因与抽烟长寿老人，主体相关但侧重偏移"
+      },
+      {
+        "index": 26,
+        "verdict": "匹配",
+        "why": "作家圈百万分之一与出书卖不出等处境一致"
+      },
+      {
+        "index": 28,
+        "verdict": "弱匹配",
+        "why": "片段为马云等具体退学创业案例，解说仅泛指退学创业神话，主体颗粒度不对齐"
+      },
+      {
+        "index": 29,
+        "verdict": "弱匹配",
+        "why": "解说点名马云等，片段讲同期创业几十万人只见活下来的那几个，相关但落点不同"
+      },
+      {
+        "index": 30,
+        "verdict": "匹配",
+        "why": "袜子、爱笑、没有完美犯罪、红颜多薄命等例证基本一致（片段未含老风扇）"
+      },
+      {
+        "index": 31,
+        "verdict": "弱匹配",
+        "why": "片段只讲「幸存者经验在失败者身上也一样」，未覆盖必要条件/充分条件的表述"
+      },
+      {
+        "index": 34,
+        "verdict": "弱匹配",
+        "why": "片段仅列概率思维与逆向推理两条，缺「主动寻找沉默证据」一条"
+      },
+      {
+        "index": 38,
+        "verdict": "匹配",
+        "why": "算法反复推送极端案例造成误判的表述一致"
+      }
+    ],
+    "verdict_counts": {
+      "匹配": 14,
+      "弱匹配": 6,
+      "错位": 0
+    },
+    "sentence_total": 43,
+    "headline_q2": 0.395
+  },
+  "q4": {
+    "titles": [
+      {
+        "platform": "B站",
+        "information": 5,
+        "accuracy": 4,
+        "appeal": 5,
+        "why": "三个悬念句把弹孔与坠机因果讲清，含平台式钩子；「差点搞反」略戏剧但与机制吻合"
+      },
+      {
+        "platform": "西瓜视频/抖音（中视频伙伴计划）",
+        "information": 3,
+        "accuracy": 4,
+        "appeal": 4,
+        "why": "保留主悬念但删去二战与统计学家信息，看点略模糊，无夸大"
+      },
+      {
+        "platform": "微信视频号",
+        "information": 2,
+        "accuracy": 4,
+        "appeal": 3,
+        "why": "只剩「弹孔在哪儿」一问，信息量偏薄，但与内容不冲突"
+      }
+    ]
+  },
+  "q5": {
+    "flow": 3,
+    "density": 4,
+    "fact_boundary": 5,
+    "why": "四段结构清晰、案例与机制密度足，但「是X还是Y？」占位未替换及「我说白了」「我的判断是」多次重复影响成稿流畅度；关键数据均标注「视频称」「修辞性估计」并主动对年份与例证真伪设边界，事实克制良好"
+  },
+  "n_sentences": 43,
+  "api_model": "deepseek-flash",
+  "api_usage": {
+    "prompt_tokens": 5059,
+    "completion_tokens": 5625,
+    "total_tokens": 10684,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 2984
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 5059
+  },
+  "elapsed_s": 29.7
+}

@@ -1,0 +1,451 @@
+{
+  "sid": "bb50dcce54e2",
+  "judge": "deepseek",
+  "judge_model": "external:deepseek",
+  "ts": "2026-11-08T13:26:40",
+  "source": "api",
+  "q1": {
+    "items": [
+      {
+        "index": 0,
+        "claims": [
+          {
+            "claim": "二战美军统计返航轰炸机的弹孔",
+            "verdict": "支持",
+            "evidence": "2"
+          },
+          {
+            "claim": "专家一致要求给弹孔最多的机翼加装甲",
+            "verdict": "支持",
+            "evidence": "2"
+          },
+          {
+            "claim": "统计学家瓦尔德主张该加固的是弹孔少的地方",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "claims": [
+          {
+            "claim": "飞回来的飞机弹孔全在机翼和机身这些扛得住的地方",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "claims": [
+          {
+            "claim": "真正中弹的要害包括引擎、驾驶舱、油箱",
+            "verdict": "支持",
+            "evidence": "2"
+          },
+          {
+            "claim": "那些飞机根本没飞回来，不在统计样本里",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "claims": [
+          {
+            "claim": "幸存者偏差就是只看得见活下来的，看不见死掉的",
+            "verdict": "支持",
+            "evidence": "1"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "claims": [
+          {
+            "claim": "这不是统计学的小技巧，而是美军差点犯下的人命关天的决策错误",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "claims": [
+          {
+            "claim": "专家看数据，瓦尔德看数据背后的沉默者",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "claims": [
+          {
+            "claim": "是数据骗了人，还是人骗了自己",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "claims": [
+          {
+            "claim": "这个机制放到今天更狠",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "claims": [
+          {
+            "claim": "视频里提了个思想实验",
+            "verdict": "支持",
+            "evidence": "4"
+          },
+          {
+            "claim": "假设香烟完全无害，但每一万八千二百五十包里有一根装了炸弹",
+            "verdict": "支持",
+            "evidence": "4"
+          },
+          {
+            "claim": "爆炸新闻会让人立刻戒烟",
+            "verdict": "支持",
+            "evidence": "4"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "claims": [
+          {
+            "claim": "平均每四秒就有一人因吸烟死亡",
+            "verdict": "支持",
+            "evidence": "5"
+          },
+          {
+            "claim": "这种死亡悄悄消失在病床上，没人当新闻看",
+            "verdict": "支持",
+            "evidence": "4"
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "claims": [
+          {
+            "claim": "全球每秒约二十二万三千支香烟被点燃",
+            "verdict": "支持",
+            "evidence": "5"
+          },
+          {
+            "claim": "这个数字视频说是统计口径",
+            "verdict": "支持",
+            "evidence": "5"
+          },
+          {
+            "claim": "听着就脊背发凉",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "claims": [
+          {
+            "claim": "炸死的上头条，病死的没人提",
+            "verdict": "支持",
+            "evidence": "4"
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "claims": [
+          {
+            "claim": "为什么",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "claims": [
+          {
+            "claim": "人脑天生厌恶不确定性",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "炸弹是意外，病死是概率，人脑对确定的意外过度反应",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "claims": [
+          {
+            "claim": "再看作家圈",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "claims": [
+          {
+            "claim": "每一位著名出版作家背后，站着大约一百万个沉默的失败者",
+            "verdict": "支持",
+            "evidence": "6"
+          },
+          {
+            "claim": "手稿石沉大海，找不到出版社，连被拒绝的机会都没有",
+            "verdict": "支持",
+            "evidence": "6"
+          }
+        ]
+      },
+      {
+        "index": 16,
+        "claims": [
+          {
+            "claim": "这比例是修辞性估计",
+            "verdict": "支持",
+            "evidence": "6"
+          },
+          {
+            "claim": "但方向没错",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 17,
+        "claims": [
+          {
+            "claim": "退学创业神话，马云、刘强东、雷军",
+            "verdict": "支持",
+            "evidence": "7"
+          },
+          {
+            "claim": "你只看到退学的成功",
+            "verdict": "支持",
+            "evidence": "7"
+          },
+          {
+            "claim": "看不到几百万退学后一无所有的",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 18,
+        "claims": [
+          {
+            "claim": "成功学教材本质就是幸存者偏差的批发商",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 19,
+        "claims": [
+          {
+            "claim": "它把运气带来的成功，硬塞进能力的壳里卖给你",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 20,
+        "claims": [
+          {
+            "claim": "算法推送极端案例放大焦虑",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 21,
+        "claims": [
+          {
+            "claim": "大脑天生爱走捷径",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 22,
+        "claims": [
+          {
+            "claim": "抽烟喝酒活到九十九的老人",
+            "verdict": "支持",
+            "evidence": "7"
+          },
+          {
+            "claim": "就以为习惯不重要",
+            "verdict": "支持",
+            "evidence": "7"
+          }
+        ]
+      },
+      {
+        "index": 23,
+        "claims": [
+          {
+            "claim": "小学毕业当老板",
+            "verdict": "支持",
+            "evidence": "7"
+          },
+          {
+            "claim": "就以为学历没用",
+            "verdict": "支持",
+            "evidence": "7"
+          }
+        ]
+      },
+      {
+        "index": 24,
+        "claims": [
+          {
+            "claim": "视频里举了袜子总丢一只、大人不挑食这些例子",
+            "verdict": "支持",
+            "evidence": "7"
+          },
+          {
+            "claim": "底层逻辑都是只记住符合直觉的那部分样本",
+            "verdict": "支持",
+            "evidence": "7"
+          }
+        ]
+      },
+      {
+        "index": 25,
+        "claims": [
+          {
+            "claim": "应对方法是主动寻找沉默证据、用概率思维替代直觉、逆向推理分清必要条件与充分条件",
+            "verdict": "支持",
+            "evidence": "8"
+          }
+        ]
+      },
+      {
+        "index": 26,
+        "claims": [
+          {
+            "claim": "别把别人的运气当成自己的路线图",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 27,
+        "claims": [
+          {
+            "claim": "你身边有没有那种「XX都这样还能成功」的幸存者叙事",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 28,
+        "claims": [
+          {
+            "claim": "评论区点名一个，我帮你拆拆它的沉默样本长什么样",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      }
+    ],
+    "verdict_counts": {
+      "支持": 29,
+      "无支撑": 1,
+      "矛盾": 0,
+      "非判词": 15
+    },
+    "support_rate": 0.967
+  },
+  "q2": {
+    "items": [
+      {
+        "index": 0,
+        "verdict": "匹配",
+        "why": "同一二战轰炸机弹孔调查事件，主体和时点一致，片段文本为解说句的开场背景"
+      }
+    ],
+    "verdict_counts": {
+      "匹配": 1,
+      "弱匹配": 0,
+      "错位": 0
+    },
+    "sentence_total": 29,
+    "headline_q2": 0.034
+  },
+  "q4": {
+    "titles": [
+      {
+        "platform": "B站",
+        "information": 5,
+        "accuracy": 4,
+        "appeal": 5,
+        "why": "核心概念、瓦尔德故事和成功学反差都点透，但'一句话救了美军'略有夸大"
+      },
+      {
+        "platform": "西瓜视频/抖音（中视频伙伴计划）",
+        "information": 4,
+        "accuracy": 5,
+        "appeal": 4,
+        "why": "用弹孔核心矛盾作钩子，信息量足够，标题与内容相符"
+      },
+      {
+        "platform": "微信视频号",
+        "information": 2,
+        "accuracy": 5,
+        "appeal": 3,
+        "why": "只有悬念短语，没有说明具体看点，信息量偏弱"
+      }
+    ]
+  },
+  "q5": {
+    "flow": 5,
+    "density": 4,
+    "fact_boundary": 3,
+    "why": "段落递进清晰、叙事流畅；吸烟统计和失败者数字多按事实陈述，'几百万退学后一无所有'等未注明口径"
+  },
+  "n_sentences": 29,
+  "api_model": "deepseek-v4-pro",
+  "api_usage": {
+    "prompt_tokens": 3780,
+    "completion_tokens": 9696,
+    "total_tokens": 13476,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 7511
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 3780
+  },
+  "elapsed_s": 94.9
+}

@@ -1,0 +1,656 @@
+{
+  "sid": "ebb8ce47d1ac",
+  "judge": "deepseek",
+  "judge_model": "external:deepseek",
+  "ts": "2026-11-08T10:54:10",
+  "source": "api",
+  "q1": {
+    "items": [
+      {
+        "index": 0,
+        "claims": [
+          {
+            "claim": "T1又赢了",
+            "verdict": "支持",
+            "evidence": "底座1：T1以3-1淘汰KC晋级四强"
+          },
+          {
+            "claim": "Keria在拉丁美洲流用西班牙语自我介绍逗笑全场",
+            "verdict": "支持",
+            "evidence": "底座7"
+          },
+          {
+            "claim": "这次赛后采访才是真正的名场面",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "claims": [
+          {
+            "claim": "四个赛区的采访，四个选手",
+            "verdict": "支持",
+            "evidence": "底座1：Peyz中文流、Faker英文流、Keria拉美流、Oner巴西流"
+          },
+          {
+            "claim": "四种态度，拼起来才是T1真实画像",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "claims": [
+          {
+            "claim": "Peyz在中文流受访",
+            "verdict": "支持",
+            "evidence": "底座1"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "claims": [
+          {
+            "claim": "中文流主持人称Peyz第一局对位经济领先6000",
+            "verdict": "支持",
+            "evidence": "底座2"
+          },
+          {
+            "claim": "中文流主持人称Peyz第四局女枪完美KDA",
+            "verdict": "支持",
+            "evidence": "底座3"
+          },
+          {
+            "claim": "主持人称今天状态这么好",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "claims": [
+          {
+            "claim": "前两项数据为主持人提问口径",
+            "verdict": "支持",
+            "evidence": "底座2/3及口径禁区"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "claims": [
+          {
+            "claim": "Peyz称第四局女枪发挥多亏队友不断给优势、稳住节奏",
+            "verdict": "支持",
+            "evidence": "底座4"
+          },
+          {
+            "claim": "Peyz称今天打得干净利落",
+            "verdict": "支持",
+            "evidence": "底座4"
+          },
+          {
+            "claim": "Peyz回答很稳",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "claims": [
+          {
+            "claim": "Peyz这波回应非常聪明",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "claims": [
+          {
+            "claim": "Peyz不接个人高光话茬，把叙事拉回团队",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "claims": [
+          {
+            "claim": "Peyz是新人AD",
+            "verdict": "无支撑",
+            "evidence": "无（底座未涉及新人AD身份）"
+          },
+          {
+            "claim": "采访发生在四强赛后中文流",
+            "verdict": "支持",
+            "evidence": "底座1"
+          },
+          {
+            "claim": "Peyz第一反应归功队友",
+            "verdict": "支持",
+            "evidence": "底座4"
+          },
+          {
+            "claim": "这是T1队伍文化在起作用",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "claims": [
+          {
+            "claim": "Faker在英文流受访",
+            "verdict": "支持",
+            "evidence": "底座1"
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "claims": [
+          {
+            "claim": "英文流主持人问Faker如何看待BLG称本届要赢LCK",
+            "verdict": "支持",
+            "evidence": "底座6"
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "claims": [
+          {
+            "claim": "Faker回应四强战见分晓",
+            "verdict": "支持",
+            "evidence": "底座6"
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "claims": [
+          {
+            "claim": "这是Faker的风格：不接挑衅、不给媒体素材、把悬念留到赛场",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "claims": [
+          {
+            "claim": "这句话有底气",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "claims": [
+          {
+            "claim": "BLG本届击败HLE和DK",
+            "verdict": "支持",
+            "evidence": "底座5"
+          },
+          {
+            "claim": "Faker敢说见分晓说明他不慌",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "claims": [
+          {
+            "claim": "是自信还是嘴硬",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 16,
+        "claims": [
+          {
+            "claim": "Faker从来不说没把握的话",
+            "verdict": "非判词",
+            "evidence": "无"
+          },
+          {
+            "claim": "T1内部对BLG研究一定做到了位",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 17,
+        "claims": [
+          {
+            "claim": "Keria在拉丁美洲流受访",
+            "verdict": "支持",
+            "evidence": "底座1"
+          }
+        ]
+      },
+      {
+        "index": 18,
+        "claims": [
+          {
+            "claim": "Keria说西班牙语me llamo Keria逗笑全场",
+            "verdict": "支持",
+            "evidence": "底座7"
+          }
+        ]
+      },
+      {
+        "index": 19,
+        "claims": [
+          {
+            "claim": "这个画面为什么是名场面",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 20,
+        "claims": [
+          {
+            "claim": "Keria用西班牙语与拉美观众打招呼",
+            "verdict": "支持",
+            "evidence": "底座7"
+          },
+          {
+            "claim": "这是尊重也是松弛",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 21,
+        "claims": [
+          {
+            "claim": "Keria打到四强",
+            "verdict": "支持",
+            "evidence": "底座1"
+          },
+          {
+            "claim": "Keria是辅助",
+            "verdict": "无支撑",
+            "evidence": "无（底座未涉及位置）"
+          },
+          {
+            "claim": "赛还能放松开玩笑说明心态稳",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 22,
+        "claims": [
+          {
+            "claim": "Keria提到2024年和BLG决赛是他最爱的比赛",
+            "verdict": "支持",
+            "evidence": "底座8"
+          },
+          {
+            "claim": "Keria称BLG现在很强",
+            "verdict": "支持",
+            "evidence": "底座8"
+          },
+          {
+            "claim": "Keria相信自己能赢",
+            "verdict": "支持",
+            "evidence": "底座8"
+          }
+        ]
+      },
+      {
+        "index": 23,
+        "claims": [
+          {
+            "claim": "Keria这段为多级转译大意",
+            "verdict": "支持",
+            "evidence": "口径禁区：Keria段多级转译"
+          }
+        ]
+      },
+      {
+        "index": 24,
+        "claims": [
+          {
+            "claim": "Keria把压力变成期待，主动拥抱对手",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 25,
+        "claims": [
+          {
+            "claim": "Oner在巴西流受访",
+            "verdict": "支持",
+            "evidence": "底座1"
+          }
+        ]
+      },
+      {
+        "index": 26,
+        "claims": [
+          {
+            "claim": "Oner称BLG是本届最难打的对手",
+            "verdict": "支持",
+            "evidence": "底座5"
+          },
+          {
+            "claim": "Oner称BLG胜HLE后状态很好",
+            "verdict": "支持",
+            "evidence": "底座5"
+          },
+          {
+            "claim": "Oner称T1也在好状态",
+            "verdict": "支持",
+            "evidence": "底座5"
+          },
+          {
+            "claim": "Oner称会尽全力",
+            "verdict": "支持",
+            "evidence": "底座5"
+          }
+        ]
+      },
+      {
+        "index": 27,
+        "claims": [
+          {
+            "claim": "Oner这段为多级转译按大意",
+            "verdict": "支持",
+            "evidence": "口径禁区：Oner段多级转译"
+          }
+        ]
+      },
+      {
+        "index": 28,
+        "claims": [
+          {
+            "claim": "Oner承认对手强",
+            "verdict": "支持",
+            "evidence": "底座5"
+          },
+          {
+            "claim": "Faker把悬念踢回赛场",
+            "verdict": "非判词",
+            "evidence": "无"
+          },
+          {
+            "claim": "Oner与Faker表述完全不同",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 29,
+        "claims": [
+          {
+            "claim": "队伍分工：有人放话有人冷静评估",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 30,
+        "claims": [
+          {
+            "claim": "Oner没有轻敌，让我更看好T1",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 31,
+        "claims": [
+          {
+            "claim": "Peyz归功团队",
+            "verdict": "支持",
+            "evidence": "底座4"
+          },
+          {
+            "claim": "Faker回应四强见分晓",
+            "verdict": "支持",
+            "evidence": "底座6"
+          },
+          {
+            "claim": "Keria拥抱对手",
+            "verdict": "非判词",
+            "evidence": "无"
+          },
+          {
+            "claim": "Oner冷静评估",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 32,
+        "claims": [
+          {
+            "claim": "四人都没有吹自己也没有示弱",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 33,
+        "claims": [
+          {
+            "claim": "是T1刻意管理采访口径还是已把赢当习惯",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 34,
+        "claims": [
+          {
+            "claim": "我的判断是后者",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 35,
+        "claims": [
+          {
+            "claim": "四强战对BLG",
+            "verdict": "支持",
+            "evidence": "底座5/6"
+          },
+          {
+            "claim": "采访分量可能比比赛重",
+            "verdict": "非判词",
+            "evidence": "无"
+          },
+          {
+            "claim": "暴露T1心态不慌、不飘、不怕",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 36,
+        "claims": [
+          {
+            "claim": "提问T1采访真松弛还是演出来",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 37,
+        "claims": [
+          {
+            "claim": "评论区聊聊",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 38,
+        "claims": [
+          {
+            "claim": "提问T1四赛区采访真松弛还是刻意管理",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 39,
+        "claims": [
+          {
+            "claim": "提问Keria西班牙语是加分还是作秀",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 40,
+        "claims": [
+          {
+            "claim": "评论区告诉，下期接着拆",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      }
+    ],
+    "verdict_counts": {
+      "支持": 33,
+      "无支撑": 2,
+      "矛盾": 0,
+      "非判词": 33
+    },
+    "support_rate": 0.943
+  },
+  "q2": {
+    "items": [
+      {
+        "index": 3,
+        "verdict": "匹配",
+        "why": "片段与解说同为中文流主持人提问，6000与完美KDA一致"
+      },
+      {
+        "index": 5,
+        "verdict": "匹配",
+        "why": "片段为Peyz回应，第四局女枪多亏队友给优势，与解说一致"
+      },
+      {
+        "index": 11,
+        "verdict": "错位",
+        "why": "片段为Faker出场/十胜相关，未涉及BLG言论及四强见分晓回应"
+      },
+      {
+        "index": 18,
+        "verdict": "弱匹配",
+        "why": "片段仅为主持人欢迎Keria，未出现西语自我介绍和逗笑内容"
+      },
+      {
+        "index": 22,
+        "verdict": "匹配",
+        "why": "片段明确提到2024年BLG决赛是最爱的比赛，核心一致"
+      },
+      {
+        "index": 26,
+        "verdict": "弱匹配",
+        "why": "片段为Oner谈本届赛事与BLG的引子，未完整出现最难打、胜HLE、尽全力细节"
+      },
+      {
+        "index": 35,
+        "verdict": "匹配",
+        "why": "片段为四强战/BLG相关提问，与该句背景一致"
+      }
+    ],
+    "verdict_counts": {
+      "匹配": 4,
+      "弱匹配": 2,
+      "错位": 1
+    },
+    "sentence_total": 41,
+    "headline_q2": 0.122
+  },
+  "q4": {
+    "titles": [
+      {
+        "platform": "B站",
+        "information": 4,
+        "accuracy": 4,
+        "appeal": 4,
+        "why": "信息点较全，准确度可，但标题略长且部分为解读性表达"
+      },
+      {
+        "platform": "西瓜视频/抖音（中视频伙伴计划）",
+        "information": 3,
+        "accuracy": 3,
+        "appeal": 4,
+        "why": "只突出两个看点，封神略夸大，但点击欲尚可"
+      },
+      {
+        "platform": "微信视频号",
+        "information": 2,
+        "accuracy": 3,
+        "appeal": 4,
+        "why": "信息量很低，只依赖单个名场面，虽无事实错误但过于单薄"
+      }
+    ]
+  },
+  "q5": {
+    "flow": 5,
+    "density": 4,
+    "fact_boundary": 4,
+    "why": "结构清晰，四流分述和总结衔接自然，口径标注到位，但存在部分主观推断与重复提问式结尾，需轻删改"
+  },
+  "n_sentences": 41,
+  "api_model": "deepseek-v4-pro",
+  "api_usage": {
+    "prompt_tokens": 4080,
+    "completion_tokens": 14811,
+    "total_tokens": 18891,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 11502
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 4080
+  },
+  "elapsed_s": 134.9
+}

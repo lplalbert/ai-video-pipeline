@@ -1,0 +1,401 @@
+{
+  "sid": "1d2d6c47195b",
+  "judge": "deepseek",
+  "judge_model": "external:deepseek",
+  "ts": "2026-11-08T19:06:45",
+  "source": "api",
+  "q1": {
+    "items": [
+      {
+        "index": 0,
+        "claims": [
+          {
+            "claim": "半场零比三",
+            "verdict": "支持",
+            "evidence": "2"
+          },
+          {
+            "claim": "利物浦六分钟把比分扳平",
+            "verdict": "支持",
+            "evidence": "3"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "claims": [
+          {
+            "claim": "整句",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "claims": [
+          {
+            "claim": "整句",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "claims": [
+          {
+            "claim": "2005年5月25日欧冠决赛AC米兰对利物浦",
+            "verdict": "支持",
+            "evidence": "1"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "claims": [
+          {
+            "claim": "上半场米兰三比零",
+            "verdict": "支持",
+            "evidence": "2"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "claims": [
+          {
+            "claim": "利物浦六分钟内连进三球扳成三比三",
+            "verdict": "支持",
+            "evidence": "3"
+          },
+          {
+            "claim": "杰拉德头球进球",
+            "verdict": "无支撑",
+            "evidence": "无"
+          },
+          {
+            "claim": "斯米切尔远射进球",
+            "verdict": "无支撑",
+            "evidence": "无"
+          },
+          {
+            "claim": "阿隆索补射进球",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "claims": [
+          {
+            "claim": "整句",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "claims": [
+          {
+            "claim": "点球大战三比二，利物浦捧杯",
+            "verdict": "支持",
+            "evidence": "4"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "claims": [
+          {
+            "claim": "整句",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "claims": [
+          {
+            "claim": "2017年3月8日欧冠八分之一决赛次回合",
+            "verdict": "支持",
+            "evidence": "5"
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "claims": [
+          {
+            "claim": "首回合巴黎主场四比零",
+            "verdict": "支持",
+            "evidence": "5"
+          },
+          {
+            "claim": "巴萨回主场六比一逆转晋级",
+            "verdict": "支持",
+            "evidence": "6"
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "claims": [
+          {
+            "claim": "补时存在一个点球判罚",
+            "verdict": "无支撑",
+            "evidence": "无"
+          },
+          {
+            "claim": "很多人只记得内马尔的表演",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "claims": [
+          {
+            "claim": "整句",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "claims": [
+          {
+            "claim": "整句",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "claims": [
+          {
+            "claim": "整句",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "claims": [
+          {
+            "claim": "整句",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 16,
+        "claims": [
+          {
+            "claim": "整句",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 17,
+        "claims": [
+          {
+            "claim": "2004欧洲杯希腊揭幕战二比一掀翻东道主葡萄牙",
+            "verdict": "支持",
+            "evidence": "7"
+          },
+          {
+            "claim": "淘汰赛一比零掀翻法国",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "决赛再一比零赢葡萄牙，首夺德劳内杯",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "查理斯特亚斯进球",
+            "verdict": "支持",
+            "evidence": "8"
+          },
+          {
+            "claim": "查理斯特亚斯头球",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 18,
+        "claims": [
+          {
+            "claim": "雷哈格尔的四四二铁桶阵",
+            "verdict": "无支撑",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 19,
+        "claims": [
+          {
+            "claim": "整句",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 20,
+        "claims": [
+          {
+            "claim": "整句",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 21,
+        "claims": [
+          {
+            "claim": "整句",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 22,
+        "claims": [
+          {
+            "claim": "整句",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 23,
+        "claims": [
+          {
+            "claim": "整句",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      },
+      {
+        "index": 24,
+        "claims": [
+          {
+            "claim": "整句",
+            "verdict": "非判词",
+            "evidence": "无"
+          }
+        ]
+      }
+    ],
+    "verdict_counts": {
+      "支持": 13,
+      "无支撑": 6,
+      "矛盾": 0,
+      "非判词": 16
+    },
+    "support_rate": 0.684
+  },
+  "q2": {
+    "items": [
+      {
+        "index": 3,
+        "verdict": "匹配",
+        "why": "片段文本与解说句均指向2005年5月25日欧冠决赛AC米兰对利物浦，事实一致。"
+      },
+      {
+        "index": 5,
+        "verdict": "弱匹配",
+        "why": "片段文本提到杰拉德、阿隆索等球员，但未描述六分钟三球的具体进球事件，细节无法确认。"
+      },
+      {
+        "index": 7,
+        "verdict": "匹配",
+        "why": "片段文本明确点球大战利物浦3-2胜出，与解说句一致。"
+      },
+      {
+        "index": 10,
+        "verdict": "弱匹配",
+        "why": "片段文本提到巴黎主场4-0和诺坎普，但未明确巴萨6-1逆转，事件细节不全。"
+      },
+      {
+        "index": 17,
+        "verdict": "弱匹配",
+        "why": "片段文本提到查理斯特亚斯开启希腊2004欧洲杯之旅，但未对应揭幕战、淘汰赛和决赛细节。"
+      }
+    ],
+    "verdict_counts": {
+      "匹配": 2,
+      "弱匹配": 3,
+      "错位": 0
+    },
+    "sentence_total": 25,
+    "headline_q2": 0.14
+  },
+  "q4": {
+    "titles": [
+      {
+        "platform": "B站",
+        "information": 4,
+        "accuracy": 3,
+        "appeal": 5,
+        "why": "列了伊斯坦布尔和诺坎普两场并制造悬念，但“欧冠三大奇迹”误把希腊神话归入欧冠，且未提希腊。"
+      },
+      {
+        "platform": "西瓜视频/抖音（中视频伙伴计划）",
+        "information": 2,
+        "accuracy": 4,
+        "appeal": 4,
+        "why": "只聚焦伊斯坦布尔一场，未体现三场盘点的全貌，但该场表述准确且有悬念。"
+      },
+      {
+        "platform": "微信视频号",
+        "information": 1,
+        "accuracy": 3,
+        "appeal": 3,
+        "why": "过于模糊，未说明是哪场比赛或事件，但指向伊斯坦布尔无错误，悬念一般。"
+      }
+    ]
+  },
+  "q5": {
+    "flow": 4,
+    "density": 4,
+    "fact_boundary": 4,
+    "why": "结构清晰，干货与观点结合，事实与主观判断基本用“我的判断”“说白了”标注，个别表述略强但整体克制。"
+  },
+  "n_sentences": 25,
+  "api_model": "deepseek-v4-pro",
+  "api_usage": {
+    "prompt_tokens": 3073,
+    "completion_tokens": 10215,
+    "total_tokens": 13288,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 8354
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 3073
+  },
+  "elapsed_s": 149.8
+}

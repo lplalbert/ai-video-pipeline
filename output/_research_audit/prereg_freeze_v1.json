@@ -1,0 +1,44 @@
+{
+  "record": "pre-registration v1.0 byte-level freeze",
+  "frozen_at": "2026-11-07",
+  "reason": "研究执行说明.md 第 5 条要求 pilot 前解决预注册版本冻结；实验设计 §7 要求 §0/§1 判据 + λ 网格 + 权重在 pilot 前冻结。git commit + tag 仍按交接步骤 ⑥ 在预注册审查后执行，此处先做字节级冻结留证。",
+  "documents": [
+    {
+      "path": "实验设计_视频Agent净收益定量评估.md",
+      "sha256": "dbdd63db6ec2d6bf0a76afe437f828768b92cdcc8f6af1576d8bbe2d5d553329",
+      "bytes": 24093,
+      "role": "预注册正文（§0 假设 + §1 判据 + λ 网格 + Q 权重 + ε 口径）"
+    },
+    {
+      "path": "研究预算核定_20261107.md",
+      "sha256": "770cc42d2301e87e8525a69ec208d99c1cf7180c5459450936bcba2b6cf5f3bf",
+      "bytes": 4203,
+      "role": "token/人力预算口径（C1 数值门槛出处、只紧不松）"
+    },
+    {
+      "path": "盲评操作说明.md",
+      "sha256": "2e9c58d8d41bbac1fb6a1fcb33d0975cd53739dc8c3323cd2e7c00d87bd3aa26",
+      "bytes": 3446,
+      "role": "Q1/Q2/Q4/Q5 盲评程序（v4 评包）"
+    }
+  ],
+  "frozen_scope": {
+    "hypotheses": "C1/C2/C3（实验设计 §0）",
+    "criteria": "质量非劣=合成 Q 单侧 97.5% 下界 > -ε；成本=token 比单侧 95% 上界 ≤ 0.50；ε=0.2 个题内标准差（pilot 后只许收紧）",
+    "weights": {"Q1": 0.30, "Q2": 0.25, "Q3": 0.10, "Q4": 0.15, "Q5": 0.20},
+    "q6_compliance": "AIGC 标注/逐条署名/红线 checklist 全过=1，否则记失败案例不进加权",
+    "lambda_grid": "实验设计 §7 λ 网格（预注册，pilot 不得改）",
+    "design": "within-task 配对；E0=36 题×4 臂×3 run=432 支；pilot=10 题×4 臂×3 run=120 支（估计 σ_d 供功效换算，只许加题至 48）"
+  },
+  "pilot_may_only_fill": [
+    "§2.5 的 p_i/c_i 门控校准值",
+    "功效换算的加题决策（只许加题）",
+    "成本比例门槛（只许收紧）",
+    "z 标准化的均值与标准差（冻结后主实验不得重新拟合）"
+  ],
+  "known_limitations": [
+    "模型服务端不可变版本无保证（网关侧），run 元数据有配置与 seed 快照；差额记 pilot 核对项",
+    "评者 3 名未到位：Q1/Q2/Q4/Q5 人工评分与工时实测待评者到齐后补，缺失就是缺失，不以自动分冒充"
+  ],
+  "notes": "pilot 后的协议修订（v1.1，只紧不松）另立冻结记录，E0 前完成；本文件一旦写下，实验设计/预算/盲评三文档的判据性文字不得再改，只许以增补记录（supersession note）方式修订并重算哈希。"
+}
