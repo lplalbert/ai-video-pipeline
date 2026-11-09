@@ -33,7 +33,8 @@ KEYWORDS = [
 
 def ytdlp(args, tries=3):
     for i in range(tries):
-        cp = subprocess.run([sys.executable, "-X", "utf8", "-m", "yt_dlp", "--no-warnings", *args],
+        cp = subprocess.run([sys.executable, "-X", "utf8", "-m", "yt_dlp", "--no-warnings",
+                             "--proxy", "", *args],  # 坑㊴：死系统代理致 SSL EOF，B站直连
                             capture_output=True, text=True, encoding="utf-8", errors="replace")
         if cp.returncode == 0:
             return cp.stdout
